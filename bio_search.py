@@ -25,6 +25,7 @@ def run():
                 bio = all_data["user"]["description"]
                 username = all_data["user"]["screen_name"]
                 name = all_data["user"]["name"]
+                location = all_data["user"]["location"]
 
                 twt_words = bio
                 count = 0
@@ -42,12 +43,21 @@ def run():
                                         count = count + 1
                                         if count == len(no_go_words):
                                             out = open('vet.txt', 'a')
+                                            out2 = open('location.txt', 'a')
                                             out.write(username + ",")
+                                            if type(location) == str:
+                                                try:
+                                                    out2.write(location)
+                                                except UnicodeEncodeError:
+                                                    out2.write('')
+                                            #except TypeError or UnicodeEncodeError:
+                                            #    out2.write('')
                                             try:
                                                 out.write(name)
                                             except UnicodeEncodeError:
-                                                out.write("n/a")
+                                                out.write('n/a')
                                             out.write('\n')
+                                            out2.write('\n')
                                             out.close()
                                             #print(type(twt_words))
                                             #print(" ")

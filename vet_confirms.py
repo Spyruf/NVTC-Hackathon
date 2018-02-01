@@ -8,12 +8,18 @@ def run(file_name):
 
     confirmed_list = []
     for line in file:
-        line = line.strip().split()
-        #print(line)
-        try:
-            if line[-1] == "1":
+        if "," in line:
+            line = line.strip().split(",")
+            try:
                 confirmed_list.append(line[0])
-        except IndexError:
-            print('dne')
+            except IndexError:
+                print('dne')
+        else:
+            line = line.strip().split()
+            try:
+                if line[-1] == "1":
+                    confirmed_list.append(line[0])
+            except IndexError:
+                print('dne')
 
     return confirmed_list

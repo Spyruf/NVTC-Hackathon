@@ -24,8 +24,8 @@ temp_set2 = set(unique_new)
 unique_list_final = list(temp_set2)
 
 file_clear_agg = open('agg_list.txt', 'w')
-file_clear_agg.write("Username," + "Name," + "Match? Y/N," + "," + "Success Rate")
-file_clear_agg.write("\n")
+#file_clear_agg.write("Username," + "Name," + "Match? Y/N," + "," + "Success Rate")
+#file_clear_agg.write("\n")
 file_clear_agg.close()
 unique_dict_final = {}
 for element in unique_list_final:

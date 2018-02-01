@@ -1,148 +1,2339 @@
-Username,Name,Match? Y/N,,Success Rate
-grahaml32933778,Graham Lewis
-CaseyHinds,She persisted
-ob1moroney,Ryan Moroney
-TeamTulsiUSA,TeamTulsi
-coleman2x,n/a
-BeatsByJ_Brooks,n/a
-VeteranOwnedUk,Veteran.owned.uk
-SteveInTrees,Steve
-MarineBiologyRR,Marine Biology
-NanduChitnis,NanduChitnis
-Trumpkingirl,Trumpkin
-philldgaf,Phill
-randibaker01,Randi
-countin_coup22,Cori Pretty Weasel
-USN_4_45,Can't Stop The Train
-navyvet50,Diane
-Viking0074,Joseph B
-RonRonohnh,Ron O
-GruntCorpsman63,Andrew Cottrill
-kalipaykaibigan,KalipayKaibigan
-Chrisvega25,Chris Vega
-Clevela59932811,Cleveland Browns
-YvetteLucas99,Yvette Lucas
-henry_spinelli,Henry Spinelli
-MelissaFinn,Melissa Finn
-sergio_dericks,Sergio Dericks
-Ken200960,Ken
-ArmandoMadgab,Armando Abrams
-Multiverse_Hero,Mattao Advent (Oc)
-DebunkAtheists,n/a
-EBONYLORD1,EBONYLORD1
-nay652_naomi,cherokeestorm
-StacyBrewer18,Mom for PDJT 2020
-LibradoJGonzale,Librado J. Gonzalez
-douglas5102,DouglasSandlerAuthor
-CharlesHMatthe2,Charles H. Matthews
-101_blue,MSmith
-LCunninghamII2,L. Cunningham II
-deenie7940,Deenie
-Workhorse95,Workhorse
-allthewayArmy,Gary
-MMIngredients,MM Ingredients
-ThinkCenter1968,ThinkCenter68
-ml70godwin,MelG
-COdenbrlght,Corie Odenbreit
-tomcalvanese,Tom Calvanese
-Mark90601172,n/a
-valrod21,valerierenae.
-katlovesflowers,Kathleen Phillips
-GeorgeLA96,George
-in_11th,n/a
-supreiina,n/a
-peek2bobi,n/a
-TONISZN5,n/a
-Eugene200,Eugene Turalitsch
-Dan55645,Dan
-PaulDelano72,Concerned American
-helenyaan,Helen Y
-DiannaSchaaf,n/a
-Kimberley1usa,Kimberley Martini
-tweets1959,Deplorable Veteran
-brucewolfe,Bruce Wolfe
-VoteNoDems2018,Independents_Rule
-DarmokJaladTana,OneNastyHombre
-dramatiq00,Dramatiq da Producer
-Kareem_Abner,Kareem Braithwaite
-lindagoodliffe,Linda Goodliffe
-iburnsteel,Bobby for America!
-somethingldsay,Duke
-rogue5602,n/a
-Dwayne_Jones95,Dwayne Jones
-LegacySZN02,Joey Legacy II
-schristen4,S. Christensen
-hoogsade,Abdulrahman Dirie
-b_jimb,Jim B
-HueyDuchess,Sarah
-BiddyThe,TheIrishBiddy
-hiphoper33,Rafael Centenera
-DandelionDollar,n/a
-Username,Name
-DTBosquez,David T. Bosquez
-JimLaPorta,James LaPorta
-DannyOfAmerica,Danny Of America
-Pulsa48,Rico
-CampKayio,Camp Kayio
-PhillCable,Phillip Cable
-dovorah001,n/a
-raiderjim40,raiderjim40
-McVic_54,Lilliam Pumpernickel
-m99ke,Mike
-JJDJ1187,Jesse James Dick Jr
-abutler04,Allen Butler
-Frank54177402,Frank
-sollercharters,Bonnie Lass Charters
-amandasolimando,Amanda Solimando
-wipoolplayer,Denny Griffin
-realThomasLink,Thomas A. Link
-StevenM4713,Steven Martin
-Mark_the_Elder,I No Nothing Jon Sno
-RameySage,Friendly Neighborhood Marine
-debkelley0731,Deb Kelley
-RichardYadon,Richard Yadon
-binowest,Sharon Robino-West
-Track0987,Track
-aarosario0915,n/a
-ish_montes,Ismael
-BasedStickPanda,BasedStickPanda™
-pig4801kj,n/a
-PatsFan876,exGOP - Doug Knox
-paulgzz2,paul gerz
-ZoopSoul,David J. McCutcheon
-John_brown_33,n/a
-RissaRock_614,n/a
-oldyfan2012,Debbie
-LeemanMichael,Michael
-mightbecrg,Chris
-Grim_TB,Grim
-samriveraa_,SAMe
-RahulBhonsle,Rahul Bhonsle
-Valeriedoglover,Valerie Marich
-PaulSchmehl,Paul Schmehl
-Rosenchild,Dr. VonVictor Rosenchild
-EQUASHION,Steve Thompson
-don_peck,Don
-DeHoopReserve,De Hoop Collection
-Vartaras,Vartaras
-PaulG_Man,G-Man
-jackdawjones,jackdawjones
-btaylor_jr,Buford Taylor
-DKCooper2,DK Cooper
-mccoy_lonnie,Deplorable Lonnie
-samartinmobile,Sean Martin
+cob576,James Brown
 c5hardtop1999,Todd Griffith
-honesteph,Stephanist.
-docsnavely,n/a
-Criswood1,Chris Woodard
-dsrved759,Ed Welch
+StuartMcComish,Stuart McComish
+emmedeloach1,n/a
+mikaylamab,bragg
+NetworkJunkyz,This Is Not Normal
+earlrogers48382,n/a
+justanotherleft,#SICKOFTHERIGHT
+Yes_iHoop14,n/a
+Solomon08214293,n/a
+RealTahitipetey,TahitiPetey
+blueblood1404,D. Holt
+x_Jiggy,n/a
+NesterMt,n/a
+Justin_Rezek8,Justin Rezek
+Will305_,n/a
+johnjlehman,john lehman
+WyzoneJeannine,Jeannine
+kewilpee,n/a
+Aine,n/a
+NS_Voice,Pat Phelan
+MarkChavezTX,Navy SAR Dog
+solaran_x,Naval Veteran
+velezusmc,Angel Velez(USMC)
+brewanalyst,The Real Harry Doyle
+SteveMcGill52,Steve McGill
+JMCronan3,J.M.Cronan
+juloref,julesiam
+DTaylorT,DT
+HIMBFranklinLab,HIMB Franklin Lab
+tlbeckendorf,n/a
+Pinfire56,Jean  Conway
+RissaRock_614,n/a
+retireleo,SgtMaj-USMC
+ronk_chris,n/a
+jb29pdx,n/a
+turboz632015,PT6ISEMPTY
+DiverseRecyclin,Diverse Recycling
+sherdon2,sharron
+Areyousaddrumft,Daniel Barber
+Woolecox,Woollymonster
+HITravelTales,HI Travel Tales
+ColleenChesebro,n/a
+shane_shubert,n/a
+RoyalNavyMonstr,n/a
+brchitwood,Billy Ray Chitwood
+YOGUARD,Miguel
+Omagus,Verbs McGillicuddy
+adriana_janice,n/a
+Vulture3B,Vulture3B
+RunnerDave20194,n/a
+DeninWales,n/a
+RobertWorthley,Robert Worthley
+bosszaprodigy,n/a
+mikeyb7248_burt,Michael Burt
+RealWendyTeresa,n/a
+deeretech19,n/a
+HennessySTL,Bill Hennessy
+bckonmybullsht,n/a
+ivanlpenn,Ivan Penn
+Larry_freedom1,Larry
+JohnTho14581919,John Thomas
+WI9LL_Will,WI9LL - Will
+DTROYW63,Deplorable Troy
+lcarlson3225,Liz Carlson
+Catherine091259,Catherine Lyons
+C10oki,Fred Sanford
+marwilk,Senior Sceptic
+Davidbr33David,David Brown
+Tumbleweed1949,Danny L. Crafton
+Bhayce17,ecyahb
+mjwatts1983,Michael Watts
+JLTrent86,Jeff Trent
+CarolGo18658081,Carol Goodwin
+Jaime_Rojas,Jaime Rojas
+Isabelhodge,Isabelhodge
+Girlystu2001,Clark
+JustDonPerla,Don Perla
+HuevosDeChivo,Anti-Resistance Nate Dog
+adam_thomas,Adam Thomas
+Fritz6Fritz,Greg Fritz
+anferneewalden,n/a
+CallMeCaptain69,romphim model
+JimWill41645866,Jim Williams
+davhalter,Fly by wire
+ridwannurzeha,Ridwan Nurzeha
+TheRealCrone,Susan Snell
+justlikethat67,mybubbleworld
+mandoville,Armando
+chipwoods,Chip
+j_mignereysr,PapaMign -Deplorable Since 1776 #MAGA h
+TrumpTrumpsAll,Sal AvidTrumpster
+RisingDarkstar,Darkstar
+phillp241211745,Phillip Wilson
+Bruchell1,Burchell Keys
+Captmike4804,M. Paris
+76FreeThrows,Gary McGinnis
+LokiLoptr,Lucifer
+liberalgoddess,liberal goddess
+pvulgarity,ra
+Tahlia_Rene,n/a
+Rick_Kottage,Rick Kottage
+StarlitAlana,n/a
+CzechsforTrump,Czechs for Trump
+Tusker13,Arrest George Soros!
+SwaggyTea,n/a
+AndoreaverA,#KatesLaw
+BlocktechCEO,Devon Read
+KarenSeavey,n/a
+DVMACVS,n/a
+Native_Nations,Native Nations
+LonePatFan1,Lone Patriots Fan
+MagTheMercenary,Not A Hero
+gmoretti41,Gene M
+RUUnmasked,n/a
+DevilDawg36,Daniel
+Kaygirl8Lawana,lawana gilbert-
+Peanutt_01,Red John
+kennady_paige,kennady brinley
+keeganjohn53,Mizokami
+NewsPuppet,Puppet String News
+RobertMLee,Robert M. Lee
+NIVIsa4031,EAGLE WINGS
+WitsThe,The Wits End
+gsteck74,GS
+thack86,MC1
+aniekjjackson,Andrea Jackson
+cleats56,Tony
+SoaresCurt,Curt Soares
+sargeandshrimp,James T Barker
+ravensgirlstand,RavenFanat!c Stands
+TheTruth4us,The Truth
+marineshamus,Jim
+dal2077,David Longhofer
+mikemitchellnyc,Mike Mitchell
+thollenback15,Tim
+308Scon,Shawn Condon
+b_joker981,bjoker981
+deplorkibble,Deplorkibble
+Cleverfun66,n/a
+FPL_Connect,FPL Connect
+ImHotBoyRonald,Matthew Crooks
+trumpsydumpsy,trumpsux
+JGuybee,n/a
+LL_Cool_Yea,Daryea Satterfield
+NCUSNavyVET,NCVET
+fredat710,fred wenk
+ResetTheTimer,ResetTheTimer
+sanchezaimee4,Aimee Sanchez
+YHWH_is_God,Christian American
+kimber_carveth,Kimberly C Porzio
+Christi16781162,Christian Shelton
+BlueAngelf4,Blue Angel Phantoms
+msmith01954,USMC NAVAIR
+groth1945,Glenn Roth
+SheehanClint,Clint Sheehan
+john2iggs,John Biggs
+georgewaellis,George Ellis
+col_ret,COL(Ret) Joe Martin
+LeBrunJames81,James Brun
+YhQ92,Yusuf Qureshi
+sportsfan_james,Jim Carpenter
+princeofpast,Chris Fagan
+outerspacemanII,marc mc gown
+orkin903,CURTIS BERRY
+enimsahJ__x,Shadedra Parks
+chelledaddy,Bob Trujillo
+MickeyDiablo,Mickey Diablo
+anchorholds1011,Anchorholds1011
+gregjacob01,Greg Jacob
+kplknup,annie's-venting-zone
+mccoy_lonnie,Deplorable Lonnie
+RealRozzzlyn,Rozanne E Folk #VeteransResistSquadron
+nay652_naomi,cherokeestorm
+cwilliams1113wy,cwilliams1113wy
+bmk3434,Brandon Kennedy
+SgtDearthHPD,Sgt. Steven Dearth
+JamesAliza,Patriot Nurse
+c5c21cd1556c436,Shane Davies
+PatBenzaleski,Pat Benzaleski
+TomShubert,Tom Shubert
+david_wolkin,dante couldn't have imagined this
+CantedQuips,Col. Yak
+genezog7,n/a
+D29TX,D29TX
+SueRon1957,Susan and Ron Powell
+WBW462,WBW462
+DustySm25792466,Dusty Smith
+botb45,Abigail
+Omnium303,Jeremiah
+JJRunFAST,n/a
+JoeRepya,Joe Repya
+Jeffery1954,Jeffery Anderson
+Hokie45,Donna L. Craft
+ChanterCin,n/a
+RuthieRedSox,RuthieRedSox
+TwoWheelJeep,Bullshit Czar
+jvagle,Jeffrey Vagle
+PauldeGelder,Paul de Gelder
+dski4596_proud,Proud American
+modene1,Goofus Doofus
+Spent_Brass,Anthony ONYOUR(6)
+jvrt1995,U.S.A.
+js56519,Jessica Seabolt
+3teeas,Dan Martinez
+Drhinchliffe,don hinchliffe
+Onyx_Bob,-Bob
+LadyJewels2381,Leann Winn
+vsh47,Tater
+mr_williamc,Bill
+SailormanLarry,n/a
+universalmushie,Monica Gilbert
+FidelisPrincep,[5MR]Fidelis Princep
+NickyGoodwin,Nick goodwin
+EODBIRDSELL,n/a
+EvilLDrBubbles,EvilDrBubbles
+AlistairDove,Dr. Alistair Dove
+aaronnns17,JABLES
+HD4safety_USAF,HD1920/1965VetsVote
+Brazos_n_TX,unwashed-deplorable
+paula_span,Paula Span
+Hmcruzr,n/a
+OregonRedskin,Oregon Redskin
+not_me_on,Jeff Abbott
+oreoscar,greg tidwell
+crabtrem,Michael Crabtree
+Sheamous89,n/a
+BiracialTweets,Tweet Fun
+Tabsdesigns,DomesticDivaTAB
+hen861988,htaylor861988@yahoo.com
+VoteBeebe,((( Matt Beebe )))
+Slimpickings2,Slimpickings
+luke_arkins,Luke Arkins
+justmetmc,Just Me
+drainthswamp,Mike Schmidt
+Chrzaszcz14,n/a
+JicatS,n/a
+ccmreid,Craig Reid
+pissesofflibs,Douglas Ferrell
+RisingTideFish,Rising Tide Fish
+KiloMick,GoodGrief
+ThomGoolsby,Thom Goolsby MBA
+ro50916016,David Robinson
+kaden_gma,Kaden's Gma
+AndForever21,michelle
+africanmob1,Tyrone Smith
+ReneeNWhitfield,Renée Whitfield
+Frankhe1,Frank Espinoza
+OrlandoBassAdv,Orlando Bass Adventures
+randibaker01,Randi
+jesse5216,Currentflow
+cocobuttabandit,n/a
+joseph_loerzel,Joseph A Loerzel
+LarrySchuler,LarrySchuler
+majicharmony,n/a
+Cushja,Jenel Cush- Woodard
+lucky_american,DeploreableTrumper
+withey_m,Lee M Withey
+wigwam,Wigwam Jones
+TomSmit62450692,Citizen Soldier
+jackthepog,Deplorable Jake
+Sohnie,Sohnie Hill
+Apatriot11,Patriot
+thedeefreeman,Dee Freeman
+KCGrate,Congress.Reform.Now
+buzz,Buzz Andersen
+bigman_osborn,Garrett Osborn
+4OutlawQueen,OutlawQueenForever
+DrummondTPS,Wendy Drummond
+AirWarrior1969,Don Dixon Patriot
+Trump45Michael,n/a
+realkyndr,n/a
+fernando_felan,Fernando Felan
+sergio_dericks,Sergio Dericks
+NancyHart1776,Nancy Hart
+nadeemmirbahar,Nadeem Mirbahar
+pimpdaddysplash,n/a
+RoeMasterNYC,n/a
+ItsMcKennahoee,n/a
+DonaldBartolet2,Donald Bartolet
+Iamdynomite1969,Tom
+xOVOPapi,Octavious
+thwmathue,thomas waldron
+Daria4AZSenate,Daria Lohman
+101_blue,MSmith
+Juststopdin,Robert Cunningham
+Korfschmuck,USA Patriot
+QualityNinja,kip “i have a sandwich named after me” steele
+RealElijahAsher,Elijah ben Asher
+sgtmajhughes,SgtMaj H
+rdshot,Ryan Hendershot
+KaitlynSalem,n/a
+welander8,welander
+mtgeiger1184,Mark Thomas Geiger
+AngelChivers1,Angel Of Butterflies
+OldManStoneZone,n/a
+GavynBridges,Gavyn Bridges™
+TheDaveSinger,Dave Singer
+debgutie,deb gutierrez
+jimmyjjohnson99,jimmyjjohnson
+aivazovski_art,Ivan Aivazovski
+morganOPINES,Morgan M. Hurley
+JTMcG120200,Tiberius
+GiveItBack2HIM,Mark
+polliar1,American
+JonTav17,Peakers
+AZEENavy79,A-ZEE
+TributeMilitary,Sharon Lee Ruckle
+Diehlscove,n/a
+sakeus_kambonde,zocks
+samperrydotcom,samperry
+DenNpt,Dennis O'Toole
+NBMSSWxSTEM,NBMSS WeatherSTEM
+82aieborn,n/a
+bhertzel,Bob Hertzel
+MariaMed81,Always!
+Chucky197979,Chucky
+mcgrinding,Rodney McRae
+GerryTaco,UsuallyAnnoyed
+tweets1959,Deplorable Veteran
+NIGHTMARE96_XB,NIGHTMARE96
+Robocop_126,John Eric Robocop
+scott_wheeler12,Scott Wheeler
+trucker_mfc,Matt Culver
+26golfco,Sharon
+patscapes,patrick ryan
+elm95,Eric Mata
+MarkMartinSr2,Mark Martin Sr.
+MalcolmNance,Malcolm Nance
+MarkSharpeFL,Mark Sharpe
+AlertRogueAgent,Hank
+lou_goss,Lou Goss
+TommyThomason,Tom Thomason
+Rick20623964,Bipartisanship #MAGA Semper Fi
+LeggyLuv02,LeggyLuv02
+itskiara____,badgalkiki
+survivorvoice,Julie Jewels
+ZiloElGrande,Ray Jackson
+CamiloOlmeda,Tahino 1
+LeemanMichael,Michael
+EDeCaal,Evellyn De Caal
+Tia6sc,n/a
+DonnitaMae,DonnitaMae
+zerepaessej,yesse
+ChrisDeLong_,Christopher DeLong
+straight6ix,The King Brando
+JohnELane2,John E Lane
+feefer2,CrystalBallOps
+leonitsis110,Michael
+gregkoch1,Greg Koch
+NavyFB,Navy Football
+whitewolf8214,whitewolf8214
+RealZaneMay,Zane May
+tcurranmd,Terrence Curran
+tice44,NewYorkTim
+stephenpeters2,Stephen Peters II
+sdsandman66,Steven Sanders
+IronFlashDevil,Colin B
+mouseaider,Tom Henry
+cowboyneok,Timothy Beauchamp
+tina_gonzalez1,tina amy
+8obb8,robert stephens
+T0uch1ngMy53lf,shawn
+JuJuBeane,Julie Strickland
+Jim_Everett,Jim Everett
+RobertB84479905,Robert Brown
+retiredfirstsgt,Richard Punko
+xxxchesina,C H E S I N A
+TBondTdrGuru,Tommy Gunns
+AnyaArisohn,Anya Arisohn
+Marine_Online,Ethan Pattison
+CWyman81,Charles Wyman
+PaulBry96744493,Paul Bryant
+1JustinMayer,Justin Mayer
+BrotherJonKCR,Brother Jon
+nurse75692,n/a
+SCsamoan,BMCS SAMOAN PT.2
+edwardjrcomcas1,# release the memo Ed Reid
+glslaw,George Steele
+wareagleohio,Terry Dixon
+kenobigrl17,lindsay cook
+DebunkAtheists,n/a
+lvs2rdhrses,n/a
+p47koji,Koji Kanemoto
+waterrockbob,Bob Pinkston
+Kimberley1usa,Kimberley Martini
+Mya_mulan,Cascat
+Welderguy7777,KansasRN - Covfefian
+andrewadame818,Andrew Paul Adame
+gemarble357,Gordon  Marble #ImNotyournegro
+PatrickParsons9,Patrick Parsons
+TunnelRatRanger,Rev Mike
+donaldbroom,Donald Broom
+LaceyTimony,n/a
+_robertsanchez_,Ruhhbart
+MosDefVet718,Bearded Vet
+crazyjz,john
+WidgetGizmo,n/a
+MeanMugger,Katie Neal
+Derek_Zw,n/a
+Englandsr01,Rick England
+FirstFire2008,Stingray ZO7
+jfblatz,James Blanton
+RichardLittell7,Richard Littell
+joekiddone,JoeKidd
+sunsetswfl,Rick of Florida
+zaticwu,n/a
+itsweezie,Weezie Proud Resister
+mrmoose53,mr moose
+KileyChristina,Kiley Cluck
+Nonion13,Nonion
+jakeInedelea,n/a
+bajadacarl,Carl L.Z  Uplift
+JoyArias7,Joy Arias
+ShoupeBuck,Carl buck shoupe
+d_lyons24,dennis lyons
+chrissosa32,Christopher Sosa
+marinepatriot99,Chevy Ford
+KurttheFearless,Kurt Johanning
+betmudezrichard,Hi_im_Richie
+Baekithemba,Cde Bae
+deckape_1,Boats #ResistanceRegiment
+Patriot_Mom_17,Not Justa Mom™
+alexcovarr6398,alex covarrubias
+nemyron,Myron Nelson
+CarberryMatthew,Matthew Carberry
+jsoundwhale,JSoundWhale
+fred9038,Ferdinand Munoz
+_Magallon_,Magallon
+Hey_Russ,For F_ _ ck's Sake!
+davidmasih39,DAVID MASIH
+Rice123Ryan,ryan
+BlaqIce18,J. Dub
+robsolonhamer,Robert Hamer
+ybarrag789,Guillermo Ybarra III
+Tonio_The_King,n/a
+brentwtanner,n/a
+Dalton642,John Dalton
+marcel363222,MarcelHarrison_official
+DePl0rAbl3Me,Derek Stevenson
+DennisCarroll31,Dennis Carroll
+dolmansarahj,Sarah Dolman
+RyanHebert89,Ryan Hebert
+asideofgravy,David L. Scott
+trevhorn,Trevor Horn
+donkeyslings,Donkey Banana Slings
+don_peck,Don
+Shadow__Creeper,Creeples
+Bicycletourusa8,FS Preston
+growoutside,Farmer Dave
+onekeyman,Onekeyman
+MemphisGrits2,n/a
+Elwood1960Law,Scott Law
+ShikataGaNai100,Kenneth Connor
+BeckDatAssUp,Marcellus The Hellus
+Blu3RSX,Jerry New Year
+Antonio_Albano,Antonio Albano
+acobra334,DrLaurie
+DebbieM1776,#ReleaseTheMemo
+ozoxanime,Kathy Harris
+4realDaveHunter,Dave Hunter
+Leadership_One,Middleboro Jones
+jmboman72,John Boman
+elapoides,Benjamin Golan
+JSOC_DF,Shadow Banned Veteran
+RodonnaCarter,Rodonna Carter
+tbone9070,Tom Brown
+OldCorps0341,Paulino Acosta Jr
+alenjpardee,alenpardee@yahoo.com
+Alvinthe1st,AJ C
+StevijoPayne,Stevie Joe Payne
+minnjim,Jim Bruflodt
+PhillyFlorida,n/a
+trandell919,Tommy
+EponymousBreeze,CoffeeFueled
+AlexTheLion_10,n/a
+JParatrooper505,Jonathan Ramirez
+JETBallin,James Thompson
+brianne_rae,n/a
+see_venice,n/a
+PeteSoraghan,PistolPete
+tographer,Rico
+MU88K,Paul
+pilotsa365,Mark
+skshuggles,SHARON GEORGE
+JPAgraz,John Paul
+alexis_pavey,lex
+liroje2002,lizzy M
+scotknocker,Scott Cookman
+Kaahtic,Michael
+7BigMike,n/a
+jc7797231,JC779723
+deplorableFlVet,ThisGuyLovesAmerica
+jneiser,Julian Neiser
+BolteVet93,Shawn Bolte
+Daytonabeachhog,LCPL Gill
+moxiepassion,Moxie Passion
+SergeantCarter1,Sergeant Carter
+jenicex,Jenice
+SpootNTootie,Charlie Steward
+Okletsdothis181,Okletsdothis18
+Chris_A10_USA,Chris ( Fl )
+ChuckStuffUp,n/a
+p00p98_,Miki Minach
+ElliottHall39,Elliott Hall
+D_warner64,n/a
+joe_burdick,proudNavyVet
+BL_Titus,Brianna Titus
+ActofValorAward,Feller Act of Valor
+mathewi,Mathew Ingram
+MachPierogi,Leigh @MachPierogi
+LemonSlayerUS,Lemon Slayer
+WavyMil00,Lil Mil.
+Randy_0302,Randy Connare
+DelphiTactical,Delphi Tactical
+RutoJoel,Ruto Joel
+nebraskanobody,SteveResist
+elizabethmurra,Elizabeth Murray
+JamesRodder98,James Hardin
+32InGodWeTrust,Panama
+DeniseL17647646,Denise Lewis
+DebbieLeeArt,Debbie Lee
+TNfiend,Ron
+Mcfagens02,Punished Doggo Groyper
+WhitneyChirps,n/a
+Draegoth,Mallus
+LucierRC,Bob Lucier
+LeafErikson,p jon clayton
+keelingrob,Rob Keeling
+NickolaKalla,Nickola Kalla
+HarryJLennix,Harry J. Lennix
+DingoDawgUSMC,Spike
+US_Threepers,n/a
+XORaygunXO,n/a
+VF24Ordie,n/a
+millertime324,Conor Miller
+fyremedic1200,fyremedic1200
+jdcravin,Hector Guerrero
+SGYSoul,Receive Jesus
+quilldhb,Don Bowen
+seanagnew,Sean Agnew
+mrunstoppableee,cristian
+sdrsr7,sdrsr
+Crownknight60,CrownKnightNYC
+Rond_m,Ron Malone
+joe_bittick,Joe Bittick
+thejohnandersen,JohnMazing
+michael_parola,Michael Parola
+kgburke3,Kathleen Burke
+JusJey,Jerveris V. Floyd
+compressor72,Larry Roope
+StatenBZook,stuz51
+teokee,Tom Matthews
+RipCitizen,n/a
+William82861606,William
+NotoriousGRC,Mortgage Freeman
+Electric_circuz,ElectricCircusRadio
+tdog1983,Thomas
+NatlLftyChmp_14,Jeff Richter
+fedagentmark,n/a
+kam0316,Kyle A. McCurry
+Headsnipe011,Headsnipe01
+AlacritousCrier,•Ålacritous •Çrier®•
+Almighty_Sker,Nobody Safe
+Brian80085176,Brian Cyrier
+ChristopherRHa5,Christopher R.Hathor
+chargergreg3,Hellcat Greg
+wgbradbury,Deplorable Leatherneck
+DLaCotts,Dustin Knows Best
+westmassgenius,Gus
+AMHBlakeslee,April MH Blakeslee
+Oldblighty2,Trump The Traitor Loves Vlad
+PJC_Raiders,PJ.Caz
+jmdonsi,jim doherty
+UnopologeticVet,UnapologeticPatriot
+Marc_Leibowitz,Marc Leibowitz
+TheeArtVandelay,n/a
+Joe08044680,Joe
+EmmaMcGee97,Emma McGee
+EdwardLucio84,Edward Lucio
+basisXperpetual,P E R P E T U A L
+JasperBrownDown,KissMyMiddleClassAaa
+redhead4645,RED
+SVcaVet,n/a
+Patton1968k,General Patton
+FabulousThomasJ,Tom Kidd
+grabeel_t,Stress Curry
+jon_jon1213,Jonathan Lopez
+dramatiq00,Dramatiq da Producer
+2RobinLyons,Robin Lyons
+Tropicow,The Tropical Cow
+lf092313,Lee Smith
+AndreaRebora01,Andrea Rebora
+Lee6CatCrazy,Lee
+AIDF911,Mike the Deplorable
+Skepticemia,Jonah Salyers
+LuisPin23257352,Luis Pin
+JudyBurnsRI,Judy Burns
+MaiDebrah,CombatBootsOut
+Chrisvega25,n/a
+Jordanwith_a_Y,Jyordan
+adventuresofTMB,n/a
+WildWilliam11,William DStewart
+JonathanLanday,Jonathan Landay
+Chynese___,n/a
+munia51,Pat Duncan
+ebrissman,Eric Rissman
+VigilantVeteran,Vigilant Veteran™
+Mainearmy,Keith colby
+grogers103,Gary Rogers
+marinejas,Jonathan Street
+sixbennetts,n/a
+54295cd4a77a499,Jeffrey micheal Rice
+KrazyKidsRadio,KrazyKidsRadio
+ski95252,DeplorableLori
+chuckwoolery,Chuck Woolery
+koolade417,Ron
+sir_galahad1959,Sir Galahad
+_tatinana,n/a
+BoiseMarineMom,V #ShowRespectForOurFlagAnd Anthem
+Reweth,Whalocline
+Grandma_Storm,Stormy
+2Run26,i.trudge
+RedneckIntellec,Cecil Daniel Hoss
+TeoGuzman63,Conservative Boricua
+navymig,Wondering If 50 Characters Is Really Necessary
+beremeal,norman bageleater
+MrsPerrin,n/a
+caseyyperez,casey
+jazunigajr,J.A. Zuniga Jr
+pat4az,Pat Flickner
+JedClampet4,Jed Clampet
+VetrepreneurOne,n/a
+NachlBornEasman,Robert Friedman
+R1ck79,Rick Alvado
+roboman8va,RCN
+johnnyfeltham,Johnny Feltham
+colonelclark,Rodger Clark FCD
+SJCotta,Stephen Cotta
+techvet89,Matthew B Wood
+ToddAskins,n/a
+OrellanamikeS,Michael Orellana
+williamlharbuck,Bill
+SgtNickBristow,Nick Bristow
+mickeyh54099794,mickeyh
+CnC_1,TOOTHPICK
+bbkb6056,Ken Beck
+4_31_Iraq_Vet,4/31 Iraq Vet
+Deadheart1121,Reggie Harris
+tpoppel,Thomas P. Oppel
+fleeingcoyote,fleeingcoyote
+ashleyajfox,ashley
+cstrongjr,USMC Sgt Strong
+ziampaynex,allisøn |-/
+emmaleonoral,Emma Leitao
+AnthemComics,Mike Brannon
+elegepd1234,elegepd1234
+JayJandk17,Jay Fields
+LaineSharp,Laine Sharp
+MaryODonnell22,MaryODonnell
+John_Blancart,John Blancart
+mckensiebree,n/a
+CooperJ1099,CooperJ - Peace
+Yaridelian_,n/a
+HallettMatt,Matt Hallett
+LoughNESSY,LockNess
+the_d_in_seatwn,n/a
+BeansPorkn,n/a
+Tetsuyama511,n/a
+RenoNVSparky,n/a
+bnothingp,Jar O' Farts #Bernie2020
+DsGranger_,DS Eve Granger
+katiesands19,Katie Sands
+MikeWanjura,MediaHound
+amvetsupport,American Veteran
+powerboatr,Robert Sloane
+mdpakratt,n/a
+crawforddel3,Del Crawford
+d4bail,DBAIL
+hotelco226,C Perez Rodriguez
+SNOWDAWG18,PERRY SNOW
+kcammie7,KCam7
+JamieMcCall,Jamie McCall
+SpokedB_603,n/a
+HuntertheExpat,Hunter Schmidt
+Patricia_22548,Patricia
+JohnStanfordDD,John Stanford DD
+9x18mm,Jeff Garrett
+2Chron169,Eye On The Sparrow
+PatHaley380,Pat Haley
+ChrisWhiddon3,n/a
+GeorgeHaught,George Haught
+TAsbrock,Tim Asbrock
+usdiyonaageya,Cherokee
+the_3_percenter,Chris Block
+OrthoA,Jane
+bill2tall,retired navy e-8
+knvd__,lil mama
+AEJ58,AMY E JOHNSON
+biggunz1965,B4Trump
+Painparty62,Robert S
+honeybunchesof8,Donna Warren
+rivas_caleb,n/a
+CollegeFix,The College Fix
+veteranmountian,Veteranmountianman
+Mrkauffman1951J,daniel j. kauffman
+Dawnofnewages,john
+mstrrlm,mstrrlm
+JordinMarie97,n/a
+johnnybbaseball,T-bot Johnny
+abyingtonTD,Alex Byington
+VeteranOwned,Veteran Owned
+mikeyp3258,MikeyP
+kratze1935,John #Demexit
+Pistol__Eyes,Wakandan-American
+pnwjay,J
+IronmanWarrior1,Ironman
+brimcmike,(((BrianMcMichael)))
+xAndy_Pandyx,Andy Morales
+k_bond_,kirsten bond
+Thomas_Zwilling,XFL 2020
+Viscous_cree,Viscous Cree
+Wrileygirl1961,Wendy-USMC Mom
+Beastmodesavag3,Beastmodesavage
+Navywife1959,Christine Campbell
+chenault_mike,Cpl Mike C
+FishLikesFlicks,LT Fish
+obpair,john O'scallen
+DavidARader,David Rader
+jcsiv,John depage
+Corrina_L525,Corrina
+Reederschloss,#ReleaseTheMemo
+Valeriedoglover,Valerie Marich
+DavidLeeMarti12,David Lee Martin
+Ken825Rogers,Ken Rogers
+Crldouglass,Carol Douglass
+WarlickLeslie,Leslie Warlick
+DubaiBoat,Dubai Boat Show
+LaWilson2006,n/a
+raising_3,Raising 3
+LaurieKellyMD,Laurie Kelly
+Trish_E_Thib,TRISH Thib
+gzl4shzl,CitizenDick Theremin
+elkmontcoinguy,Chris Oldham
+prycey30sdad,Prycey30sdad
+Miranda56Nights,ReallyMiranda
+mssweet666,Kelli Asherman
+vogels4,Steve Vogel
+bobgotterson,Robert Gotterson
+illinoisdan,illinoisdan
+PomoPsiOp,Psi Operator
+53dilligaf,LOONEY
+EnriqueSuavey,Jeff
+eta640,n/a
+RobieRobotJr,Robbie Robot Jr.
+TRICEaRONI,Thomas Reginald
+usmc701952,Mike
+RGlennCooper1,R.Glenn Cooper
+TheHateTank,Edward Teach
+rasa,RASA
+ChanHoSon2,The Korean Spirit 8-I have three Air Force stars
+myvotematters2,general me
+coopnaztee,Ceazeasy
+laroncarter,LaRon
 TheresaDinardi,n/a
+dmarscout,Marcelis
+nicooolness,Nikol Cat Margulis
+d_gill88,n/a
+robinsonandrea,Andrea Robinson
+CStroede,Curt Stroede
+CharlesHMatthe2,Charles H. Matthews
+dekatron_man,Neon
+kevinkapuscins1,KWKapuscinski
+omkardesai68,omkar desai
+b_jimb,Jim B
+Workhorse95,Workhorse
+1dumb_smart_guy,Fred Fenner
+bluewaterben,Dr Ben Arthur
+Roger89878012,Roger
+ArthurvanDamn1,Arthur van Damn
+allymoon35,n/a
+SnowInTheAir,Burning Skies
+Corsair1977,Brian O'Connor
+GARY1010,GARY CEARFOSS
+AdrianaTamayoE,Adriana E. Tamayo
+connie_bergman,Connie Bergman
+Rapptture,n/a
+CaseyHinds,She persisted
+helmsfly,Brett Helms
+MacCallumPaul,Paul MacCallum
+koenig71,karla koenig
+EddyBinon,Eddy BINON
+_famous_rae,n/a
+MaxSteel747,n/a
+carolkester1234,Deplorable Carol
+darraghforpitt,darragh
+KimHarm63,Kim
+SethMuehler,Seth
+CarlosCruz2016,ProudAmericanSoldier
+VincentArreaga,n/a
+ThinkCenter1968,ThinkCenter68
+right66,will
+TheFlynnshow,Shawn Flynn
+IzayaJessenia,Jessenia Izaya
+RobertHCrafts,Robert H Crafts
+TavaresTheresa,Theresa Roberts
+beetobutt1,Scott
+temimoshman,aransiola moshood
+ZacharyJeans,n/a
+aryemayhorn,Raye Mayhorn
+your_Mr_right3,Zack
+TiderunnerDax,TiderunnerDax
+OfficialDell64,jr
+JoseThePaisa,n/a
+the_real_majer,scott
+ferncreekmic,VA toothache_game_alert
+margotparson,Margot
+millionkilos,Republic
+islandsmarine,IIMRO
+mjgranger1,Montgomery Granger
+chris_rahlf,Chris Rahlf
+Winshield20,Winshield
+Sniper8383,Cathie
+MrsTonyC,KC
+chewmon,Harold Lafleur
+eddy_noonan,Eddy Noonan
+VFW_Vet,n/a
+BaoDDang6,Bao D Dang
+exegete77,exegete77
+giselemartin_,Gisele Martin
+AltClownWorld,n/a
+WutDaPhunk,WutDaPhunk
+dthompsyyy,Derek Thompson
+Larry57399331,Larry southern pride
+b0neyT,Tommy R.
+elegantcoretta,Coretta
+DavisCrew1984,Corey Davis
+Barneybentwhist,Barneybentwhistle
+_damiaanduarte,Damian
+NMEA_org,NMEA
+doggiedaysms,susan smith
+CAM373737,CAM
+ProfKCW,CharmSchoolGraduate
+dcolon2112,David Colón
+PhiOpher,Phil Opher
+john_cronin48,John Patrick Cronin
+cassidydowney,n/a
+dsrved759,Ed Welch
+houndsofhope,Hounds of Hope
+Infantryski7,n/a
+ChrisMiranda46,Chris Miranda-AF Vet
+jcwroe,James Wroe
+NavVet44,n/a
+jm2taps,J.M.K.
+DarmokJaladTana,OneNastyHombre
+Proncey,n/a
+Macheter0,Rick Capitan Jefe®
+gypsylisa60,n/a
+patriot1cavalry,D.C.B.
+dsumma,SUMAC
+givemeliberty61,American Latino
+USNCS,Shannon
+superstitionhi1,nohyphens
+bobbi_bobbi,B Hughes-Millman
+GrumpiGramp,n/a
+Trumplar,bladerunner_actual
+TxSecurityGal,n/a
+gough1963,n/a
+America_Speaks,AmericansSpeakingOut
+thequeenbmrsc,Rebecca Cichonowicz
+JBallSr,J. Ball Bleedin' B&G
+Theo6777,Steven James
+fayekutschman1,faye kutschman
+steph_yxx,n/a
+ClarisseAyanami,Yung Dicklord
+RicSjostrom,Ric Sjostrom
+JohnAusmcvet,John Atwood
+katc704,Kathy Cancel
+WallyG1,Valdis Gailitis
+GNSandC,Greg Napolitan
+VinnyTheKiid,n/a
 donogunn_s,Dismas
+mahher3,Leb0las
+TulaniWells,David R.Wells Sr
+xDPHx,Dylan P. Hunton
+JPatchety,jeffrey patchett
+_jonathanibarra,n/a
+wonderdean1,W. Dean Belcher
+heylookitskev,Kevin
+Sgmcrocket50,Sgmcrocket
+mle425,Emily Jones
+barbiebrox,BarbieB
+heatherfree73,CrazylilMonkey
+Adrian_Fontes,Adrian Fontes
+StubbonBull69,AmericanMuscle
+SgtMattHurley,Matt Hurley
+FREEBetsyB,BetsyRose
+ChezLeMoyne,Clemonysnicker
+gayamidala,n/a
+kkswaite,Christian Smurthwaite
+100_Disable_vet,Disabledvetagainsttraitors
 chrisdbryant1,Chris Bryant
-ZHero67,American Z
-GuyADeMarco,Guy Anthony De Marco
-hourglassman,Deplorable Tom
-Finlay688,Finlay
-g_66mpco,rodger prater
+ozzie3864,Jerry Osborne
+infpwriter,David Johnson
+2012gigib,MS.B
+Talon1ewo,les
+eddieqiv,Eddie Quinn
+MIdifference2,n/a
+Jkelz10,John Kelso
+jaforrest1369,John A. Forrest
+AmericaVoice,AMERICUS
+Eaglesbud64,E.G.
+accLov11,@thisisfunfunmemo
+pinksurvivor70,Pink Survivor
+klawler25,Kev
+WarrenPeas64,Queso del Diablo
+doe32424221,John Doe
+StaceFinson,Stace
+anichpickles,Christina Stacy
+ericgobucks,Infantry Vet
+ToddTracy7,Todd Tracy
+Brickh123,LY4L
+CollectMaritime,Maritime Collectors
+Jamison13,Jami Bell
+RicardoN2000,Sherlock
+Pamela_O_Plays,#VeteransResistSquadron Amphitrite Plays
+130nobeta,jack pegram
+Danglers26,n/a
+John_R_Eason,realJohnEason
+Sapper864,'Mack' McKie
+ThomasP82217165,ThomasP
+Ptmr2,Lupus et Agnus
+Quigley20,Becky M
+dworms86,Worms
+LTCNation,YugelyMerlin
+TheKoolOne1911,Rex Russo
+kunnham,SNY CNNHAM
+D3Demes,Helen Demes
+missrubySFO,Miss Ruby Withrow
+jcnwest2755,Nathan West
+cody_woodburn,cody
+usa_rattlesnake,n/a
+BornAnHistorian,n/a
+jwaxsom,n/a
+rajazul07861444,Raja Zulqarnain
+StevenM4713,Steven Martin
+trfindley,Tim Findley
+jeffstones1986,jeff stones
+MattheosB,MattB
+dvorlando,n/a
+angeliquevw,angeliquevw
+MarkCal24747447,Mark Caldwell
+brookesblairs,sam
+Revolutoin1800,REVOLUTION1800
+gohatt,George Hatt
+colleen_gram98,Colleen F
+vermont46,n/a
+indihj,Indi HodgsonJohnston
+ldprice79,D price
+duneman2017,Scott Andersen
+wideawakeincome,George Briere
+Nature_Grrrl,Nature Grrrl!
+tomkat372,Barry Hammer
+mintberryjaz,fuggit
+VetTechShay,Vet Tech (student) Shay
+Z51vett,Marine
+JFDjinn313,Jeanie F.
+w5yb1,A. E Kalish
+JohnWUSMC,Marine Warrior John
+bravetinsoldier,Doctor Dan
+pera_richard,Richard Andrew Pera
+naretevduorp,• Proud Navy Veteran
+deanfv,Dean
+jeffrey723,Jeffrey Williams
+UGLYCHandler,Dick Fitswell
+JakeKinkaid,Jake Kinkaid
+jazzjo,JoAnn Latz
+1967pontiactig1,Bill Spinks
+Maxineskrazy,USA...USA
+MichaelIvyMD,Michael E. Ivy
+majord2102,David Moser
+kabbyTV,Kabby
+LadyBisa,LadyBisa
+JimLaPorta,James LaPorta
+Wtrogers4,William Rogers
+Robert_Dow,Robert Dow
+Jst_Alexx,Alex
+CaptbeauX,Larry Bennett
+VolsungaGp,Proud USA Viking
+OldSargeUSAF,OldSarge
+RaulClaudio2,Raul Claudio
+QuinHillyer,Quin Hillyer
+tahirb33,(13-2)Triple B
+tonib,n/a
+BradwellJames,James Bradwell
+Dave_Ca99,Dave
+ChristerpherFC,Christerpher Coleman
+roberttwilson,RobertWilson
+tom_peters,Tom Peters
+denisesaturn,n/a
+itsKimmyJ,Kim
+jerseyboys12,Dan Lucas
+st59292131,Larry Stevens
+Boolay34,n/a
 Aroyaldmd,Aroyaldmd#DemForce
-lucktravel,Shannon Ziegmann
+DicDonohue,Dic Donohue
+martindg77044,David Martin
+FidelMakori,Fidel Makori
+ermcdevitt,Edward McDevitt
+cpohayes,Don Covfefe
+BiddyThe,TheIrishBiddy
+Warren06286175,Warren
+Schlette504,Tennille
+TyJoBish,Tyson Bishop
+Isilchaser,Ben Webb
+kevinsloan13,Kevin Sloan
+Cisneros10_,andres
+NMZscape,n/a
+summadiamond,n/a
+MsVetAmerica2RU,n/a
+shaunwalters041,A voice for animals
+xEx_POLICE,3ziz
+oooonoelleoooo,n/a
+gearbuffer,GearBuffer
+daisyfjones,DFJ
+Clim8Resilient,Thomas Jenkins
+JanetGember,n/a
+tweber,Tom Weber
+QANONer,+++QANON
+jerigirlwow,Jerigirl
+http_tiny,n/a
+Chuckflies,Charles Kelleher
+Capta1n_Kirk,Captain Kirk
+Alicia__Barnes,Alicia
+SheilaS,Sheila Scarborough
+wipoolplayer,Denny Griffin
+emileighascui,Emileigh
+PRheydt,PRheydt
+UwantSomaThis,UwantSomaThis?
+TheRealJonsie,Jeff Jones
+Randygbk,Randy Greenback
+deenie7940,Deenie
+dandotelder,Dan Elder
+FarRockLori,MetsRelatedAngina
+bathoryduck,bathoryduck
+moose_tography,moose_tography
+dwsperry,David Wayne Sperry
+TaeilTellsTales,Taeil K
+BrandyVS0202,Brandy
+annette1521,Annette
+SmartmanAZ,Nine Oneone America
+viewpointe23,n/a
+slime_lauro,Lauro Lab
+ShipmanM_imms,Coach Shipman
+Saddleman61,saddleman61
+babyboomerMJ,fabbymj
+rod_burne,Rod Burne
+LarryTh27041692,Larry Thomas
+ODukakis,n/a
+AlisonSpalding2,Dr. Alison Spalding
+Cannoli_Joe,n/a
+dunkhaus,peej
+ThatChadCole,Chad
+mikepatty41,Mike P. SMsgt(ret)
+LeRoy428,frank Calvin
+USNGunnerDAV,C. F. Karpenski
+RetireInReutte,Dave
+OriztM,Michael Ortiz
+PJ03756028,n/a
+icebergslim1047,icebergslim
+US_Navy_Vet,n/a
+weatherman4372,charliephillips
+greekkid31,n/a
+PaulObeda,Paul Obeda
+JohnDLinde,John D. Linde
+Andrewsr,Millennial Trash
+psetvs,PYNKE Stiletto
+gallianstone,teach w/ disability
+TroyOJenkins,n/a
+marlenalewis11,Marlena Lewis
+Firebirdcrazy,AJ
+NorthPandIClub,North P&I Club
+mcgnss,NSS MCG
+1taoguy,Gary Lucas
+JacobBertin,Jacob
+Harrytfoster1,Harry t foster
+DarthSagaSwag,Sahara
+JackLamb1957,Jack Lamb
+BindestrichAmi,@BindestrichAmi
+PacerV,pacer vaughn
+America68119990,American
+jmharvick29,Jon the person
+brackster39,Navy Corpsman
+Clancy_Dew,Not a skittle
+AvesFrederick,Frederick Aves
+dmoonbeam3,Moonbeam McSwine
+chasegolf2069,Chase Wilson
+NAARobertWilson,Robert N. Wilson III
+purpledawgfan1,SAY WHO SAY WHAT
+BearlyDoug,Doug "Bear" Hazard
+Clark408,Clark
+GaryZettle,Gary C Zettle
+JMichaelDixon,Rev. J Michael Dixon
+tereoputake,Te Reo Putake
+jclarejr,n/a
+BasedStickPanda,BasedChapStickPanda™
+tay68289529,Proud-daughter!!
+BEAT_the_DRUMM,Ryan Drummond
+DuvalCarn,Duval Carn
+jackbgoode1,Harry Miller
+ShamuriJack,n/a
+TheHammyy,Hammy
+Ronwalk67,Ron Walker
+Rebecca35748712,Rebecca Pretty Mamma
+nazirkafray,Nazir Kafray
+NitroGlitter,n/a
+EINS_Institute,James Ellsworth PhD
+bloodshamrock81,Raymie Heart
+theeVIANNEY,VeeA
+Cavalier6,Bruce Huffman
+WILDCOAST,WILDCOAST
+ZHero67,American Zeitgeist
+Marine1JPN,Richard D. Dudley
+cocobadu,colene b. durocher
+rdotlopez,n/a
+ahernandez85b,n/a
+Ajacks253,Adam Jackson
+colnrkurup,Col NR Kurup
+bobbi2124,bobbi2124
+EdDavis7,Ed Davis
+Soulm81,DeplorableBadHombre
+Ruffest101,Doug
+waterspryt,Melodie Willis Golde
+Issa_Donnell,n/a
+CliffShep,Clifton Shepherd
+E73897593,Evelyn
+myvoicemargaret,n/a
+skoaldiver,DGresh
+JohnShaneyfelt1,John
+majority4_trump,n/a
+MichaelMatza1,Michael Matza
+realtalk777,Tuf-Min-Hinton Huff
+jmacc2032,n/a
+KTMHemiDriver,KTMHemiDriver
+DoctorCeus,Steph.
+RevalationSaint,RevalationSaints
+s0uthern_bella,n/a
+rockin4america,Scott
+gtlang74,GT Lang
+ryantville,ryan
+StevenCapt,shart
+sharkpait,Paiton Yaw
+AnandNewton,Anand Ramachandran G
+DickC0xe,Dick Coxe
+KirkBowman8,n/a
+LovelyBreelyn,n/a
+MarineEneRRgy,Marine Energy
+eqmaverickpoet,Maverickpoet
+Vegasgirl89131,Lennora Martin
+Charlies1600,n/a
+PhillipLaird,n/a
+ZieglerArnold,Arnold Ziegler
+RBordeleax,Madmouth University
+alexizedM,Alexized M
+ken_ameri,n/a
+MGardnerLC,Michael Gardner
+OneJarheadTime,BLoveTN
+CelticCoyote,Deplorable Bruce
+Waxpacks,Mike Huey
+twinkologist,issa gay
+timboconqueso,Redpilled Fred
+myvaschoolemail,Mike #ReleaseTheMemo
+kate_germano,Kate Germano
+Jrmtactical,Bobby McKellar
+rusty10041,Russ Crain
+911ninja,Ryan DesJardins
+deijx,Deij
+LILBR4TX,The worst thing about prison was the dementors.
+puritan_duane,Duane Linn
+ps57,pps
+wrtmcpo,WRTMCPO
+BrianGr72327841,Brian
+Homimp1,NH.DAVE
+dfkenney7,Daniel F. Kenney
+MicaylaMorin,Micayla Morin
+nfl0109,Sam
+Dillysaus,Dill
+_eastwood77,officer stanley
+wfkmagic,Bill
+jharp_osu,n/a
+realGreggDavis,ggdavis
+greggypoo65,Gregory Poole
+JRoboCYYC,J.Robo
+Spaxxkat,Hank Reitz
+paulgzz2,paul gerz @1choice
+mattstrosity,Matt McClaugherty #VetsResist
+LarryT1940,Larry Thompson
+HollyNiotti,LoveMeSomeTrump
+BugEye33987699,Bug Eye
+VetsStaffing,Veterans Staffing
+DeeJayRobA,DJ Rob A
+navyvet55,ProudNavyVet55
+asian_cat_lady,n/a
+ivonnecano01,n/a
+MacEachan,Jerry Humphrey
+MatGrano,@Father of Cats
+JNG1925,Joe G
+pig4801kj,n/a
+DeborahluvsUSA,Deborah
+nobiscum2,Christus Nobiscum2
+rottiefreek,rottiefreek
+ChangeNow911,Wake Up America
+Friar_go_boom,The Silent Friar
+Allie_WVC,Allison
+CaptSkallywag,Skallywag
+TacoGurus,Taco Gurus
+StephenHall502,Stephen Hall
+jschmeling,James Schmeling
+JCTravelography,Jamie coleman
+SteveM67675826,Steve
+Mr_Moto_10,moto d
+JoeyD11215,Joseph D'Andrea
+mariannefrosty,Marianne Frost
+RTravis6191,Richard Travis
+sploodles,Proud Marine Mom
+jellyroll913,Stable Genius who Resists Tyranny
+KWerlhof,Keith Werlhof
+AntonioSolomo22,Antonio Solomon
+Arkydiva,n/a
+CooleySmoothie,Drew Cooley
+mikeg5866,Vegas cruzin
+mymannate,Nathan Elliott
+HeyimXavier,Xavier
+ScreamingBKfan,Seth Howard
+jennystardust,j_bean
+MichiganGuysays,n/a
+Boat_Guide,I'm On A Boat!
+Jreed1178,@FortSill
+jennifer_LL_BG,#releasethememo
+PaulG_Man,G-Man
+MarcMooney10,NavyVet88
+MONTANANBALLER,TRUMP MAGA MONTANA
+Jasdeep161,Jasdeep Singh
+blastme3,Douglas Moore
+sharkdavil,Johnny
+Revloel,Loel
+jdelgado218,Just Julian
+Frank45503716,Frank
+MargieKay5,Margie Kay
+sakabato24,n/a
+NizWolf,Unabashed
+_jacknadeau,Jack Nadeau
+GetThemOutaHere,Paul W
+Chris10691Chris,chris
+OccamsRazorCuts,Ivan the Deplorable
+moetayler_xo,morgan steadman
+AuntTritsy,Aunt Tritsy
+DonBasseyMusic,Don Bassey
+Go_already,Ted Larkin
+Circlemagik,n/a
+rcookfw1,Rick
+FauxDanielBice,#DestroyCNN
+twosticky,Leo
+calvinbynum5,calvin bynum5
+Pleurobrachia,Cecily Steppe
+DunbarJoseph,Joseph Dunbar
+yvonne_erdmann,yvonne
+Kevo_Bevo,KEVO
+dannimr_,n/a
+Rob_AT54,Robert A.T.
+SusanQ294,Susan
+Will386_,Will
+The_Real_MF_,Mark Flamino
+JimManchu,Anywhere but Left
+JamieMBlanchard,n/a
+HornsDown1,James
+KY_Heart1959,Sheila
+DavidLarter,David B Larter
+strategy49,strategy49
+jeb1149,Jerry Wilson
+cjameslrt,n/a
+RanHighPower,n/a
+kjross1970,Florida Paratrooper
+pankaj_hakke,n/a
+J_S_B_6,Joshua
+TomVNvet,Tom bubby
+SyasyaaLiyaniey,syasyaa_liyaniey
+BattleSwine,Nathan D Daly
+GulfWarVet90_91,Dark Angel
+geokem7,Robert Meintzer
+KurtSchlichter,Kurt Schlichter
+Ber97Luke,LARRY the BEAR
+je5tran,MissalMan
+dahawg01,Huey'72
+JJapgar,jess
+waandrews1,Bill & Grace A
+jeannebodine,jeannebodine
+ElisaDonahue,Elisa Donahue
+JJDJ1187,Jesse James Dick Jr
+ThatAngryMex,Maritza Gallardo
+MENA_Conflict,MENA_Conflict
+AuthorTexas,n/a
+MaridelW,Maridel Whitmore
+deplorableblond,Deplorableblonde
+killerjobean,heidi jo bean
+DavidSm96822377,The American View
+BQuickAU,Bryant Quick
+Rufuss23Postal,Whadaya got to loose...
+BloodyBuddyBoyd,Buddy Boyd
+gatorfao,USMC/USN_GoDukes!!
+tom_tart,Just-1-more-thing
+AmberGarbs,n/a
+blackproudvet,Calvin Moore
+dc7f77654c964c7,Web Master Bob
+CleSoldier2011,Joe
+ThomasT72388202,Ted Turner
+OnEdgeNva,§Paradigm Shift
+JustJimWillDo,Jim Campbell
+J_RossMcPherson,Just Ross
+leroyjo65459240,leroy johnson
+Aakashveer306,Lokender Singh
+NevadaElJefe,n/a
+Larry_CliffrdSr,Larry Allen Clifford
+SetiJeepers,William
+B_Rad_lee55,Bradley Belmore
+BillLonbeck,Bill Lonbeck
+BSyliboy,Bryson “Bye Bye Cornwallis”
+OGkevingill,Kevin Gill
+NeolithicSheep,n/a
+jannashops,Jana L. Albany
+JonDeLeonUSA,Jon De Leon
+RiesenMark,Mark Riesen
+JoeRazz15,Joe Razz Rasmussen
+libertyoutrider,libertysmoke
+nukeglow2011,Ryan Deckkard
+azafvet,Wayne Fox
+MikeRob74599582,Mike Robinson
+jeffswarens,jeffswarens
+groovylexa,n/a
+Echos_Theory,Cultivated_Arrogance
+jshellab,Vetulus
+donnie25od,doncrixus
+K8TDidToo,n/a
+no2losers,No2Losers
+ioncorruption,ioncorruption
+CapitaineJan,Captain Jan
+Moveonover,Moveonover
+Westermanjt,n/a
+paxr55,Kris Stoever
+MarianneMesser8,n/a
+MWatsonTX,MWatsonTX
+colleen_camara,Colleen Camara
+sleebubee,Annabel Gardner
+Water_Steve,Steve Waterhouse
+GreatLifeHawaii,Great Life Hawaii
+t4537g,My Info Tanya Lee gi
+Sappermackie,Christopher D Mackie
+BothSquared,The West United
+goldibee,Jess Brown
+WearBallistic,Ballistic
+BypassMSM,Canadian Observer
+StephenKing185,Stephen King
+a_diener,ANN DIENER
+thatjordy,JB
+csrupp,csrupp
+Richardrosado12,Richard Rosado
+mitch_spears,Mitch
+JacobHa45076843,Jacob haha
+StanBaker18,Stan Baker
+thesmilingfish1,n/a
+ardtalam,Diane Cameron
+ScottySweatman,Scott Sweatman
+stev_denise,VICTORIA D STEVENS
+PatriotPure,Lynn Ylam
+SamSneadGolf1,Sam Snead
+seriousserb,Vince
+SwamiPoobah,Scott the Stable Genius
+Hoss1284,Gunner Hoss
+writingforseo,David Rosam
+ginalazarus153,n/a
+Rodeo711,Matthew Cresanto
+fcormier,Frank J Cormier
+GilbertRanch47,Daniel Mann
+ThunderUp405OKC,MyNBA2K18 Thunder Up
+CraigMacCormack,Craig MacCormack
+AlexLyn00962014,Alex Lynn
+kickrocksbaby,Minty the Assassin
+BugOfficer,Chris
+Russell10515059,CA Consrv Goin Nuts
+troyhuns,Troyhuns
+champagnealzy,Alan
+gsxrrider026,Brad
+BoatsNHoes___,n/a
+uprinfl,@deplorableuprinfl
+EmbryBarret,Barret Embry
+DenisNelson5,Dennis Nelson
+ZLCowan,Zara Cowan
+NewYorkKidd,Ra Lee
+AyyyCarly,n/a
+Sophuric_Acid,sophie
+Elizabethkui,Elizabeth Macharia
+garyatmaui,Gary Leonhard
+sportrocgirl55,cheryelle
+kingggg_roy3,n/a
+LanceChamplain,Lance Champlain
+N1RMFANMSNBC,Jean #VetsResistSquadron
+StutzmanJay,n/a
+DAN_215,n/a
+Denlewis01,n/a
+BenWebbUSA,Ben Webb
+mich9085,Michelle Labelle
+Rebelutionz,n/a
+laurenmarie_819,laur
+AuthierDenise,Denise Authier
+SnowSox184,Shawn Snow
+stellby_kitty,Kitty Stellby
+tcg0223,Love My Country
+haulinggear,Hauling Gear #Alaska
+7flxn,n/a
+MisterWhitworth,n/a
+mopnoz,Morgan Prescott
+DannyOfAmerica,Danny Of America
+Marty_Nix,Marty Nix
+MaritimeWay,Maritime Way
+clate2001,Mike Check
+SheriAlba,SheriAlba
+rick2238,Rick Kos
+MalcolmDewald1,Malcolm Dewald
+freespirit22,live life
+MrMuskels,n/a
+BertieLeeMann1,Bertie Lee
+jmturner_author,J.M. Turner
+STEELRPENZNBUCS,Jimmy M
+Alantharp22,Alantharp2
+VermillionRich,Rich Vermillion
+TheFireTracker2,Fire Tracker
+CCtra2,c tracy
+AlamiaJoe,Joe Alamia
+bellwa1,Andy Bell
+LePetitChatNYC,n/a
+drlindeman,Tore
+tiffaannyyj,n/a
+SeabirdEcology,Seabird Ecology
+ETTalkShow,Eric Thompson Show
+Markel_Marine,Markel Marine
+JerryWPatton1,Jerry W. Patton
+Bane1349,n/a
+SamuelG93530619,ProudVet
+m99ke,Mike
+JoanBen46634671,BingoJoan
+DandelionDollar,n/a
+wilder_drew,Drew Wilder
+mindofmurphy,David
+JorgeSantiagoTX,Jorge Santiago
+carwizrd,Carwizrd
+SmkeHseTactical,SmokeHouseTactical
+BruceGoshtac,Bruce Davey
+Just_Darrin,Detroit Red
+rjmadrid,rich madrid
+PjjPjoje,PJJ
+dronerecovery1,V e r i f i e d
+Jensen_USA,Jeremy Jensen
+UsryBryan,bryan usry
+RitaRuger,ReleaseTheMemo
+elDujo,J.Davila
+Billrollins6,Bill rollins
+jcrios_x,n/a
+doccigar,#ReleaseTheMemo
+pacaf1970,Wallace
+Bethy_CO,Bethy_CO
+JonKnaeble,Jon K USA
+jbsparky_2010,gizmo #MAGA here for politics
+49erlyfe,EMP NINER
+usa_maximus,Augustus
+S_AliZaidi,S. Ali Zaidi
+SaysJimi,LillROY Jimi Says 12
+m27731630,empatn
+BtotheKtotheH,Manute Bolshevik
+hornbro3,Zuko
+CalSuperSaiyan,n/a
+dovorah001,n/a
+smithjoel86,Working Class Hero
+AndyBrookins22,Andy Brookins
+HayderHassan,Hayder Hassan
+mark12011950,Pantera....
+J_Midiri,n/a
+MauriQHD,Mauri QHD
+SofiaITC,SofiaITC
+Shelbby07,Frank May
+cloonfad1,john
+chromosome23xx,n/a
+palapid,Patrick A. Lapid
+RavieDhiman1,n/a
+Ameritianity,Ameri-tian-ity. Com
+michael_fohey,Michael Fohey
+LLeibrock,Larry Leibrock
+imapachyderm,#imapachyderm
+danielmkim,Dan Kim
+deplorable619,DeplorableLatino
+SkyDaver,David Phillips
+AmbersNRG,AmbersNRG
+Alanmillett3,Alan millett
+DoesAnyoneGetIt,#AntiLiberalist Dan
+LarzWaltz,//Larz Waltz
+AnonBinary,Sailor
+JohnKen03663991,John T Kennedy
+addouglas01,Alan Douglas
+LarryMarka1122,Lars1122
+arsenal9w,N4del
+koooski,n/a
+Politicaltwain1,#KeepFighting
+jeffbailey69,Jeff USAF-TRUMP
+savannah_grider,n/a
+SlayerActual,Mr. E
+CactusRich,Rich
+lived505,Mark Tanner
+desertdancer52,n/a
+iAngel_Biel,Angel Biel
+realjeanniep,Jeannie Prather
+suarezys28,Eric suarez
+KMWIA96,Ken Murray
+Coasty8300,Coasty
+Tristan_Thomas8,Tristan Thomas
+DannyJiminian,Danny Jiminian
+KulbhushanJadha,Kulbhushan Jadhav Support
+Strickland4all,Lia
+MR_PRIME69,#TrumpRussia
+jlopinsk,Jenn Lopinski
+s_sharky214,Sharky
+coffeeshopjihad,Mackenzie Wolf
+whale65304427,Hilarious Whale
+jstadad58,Craig M
+EllissDe,Lord Infamous.
+JSTEELE67,John Steele
+wallacejhall,Wally Hall
+ChucksWife1973,n/a
+KubooxD,queenofthefall
+whalen_annmarie,Ann Marie Whalen
+SeanyBoy_sd,SeanyBoy
+Fit4life_60,Brian
+John_Monahan,Never Emailed Classified Info
+brchapman65,Brian R. Chapman
+kelliconley2012,Kelli Conley
+TomSporty05,deplorable tom
+TeeSparks1,Tee Sparks
+ARealScottBryan,Scott Bryan
+FSUmanager,BrandonTottenhamFSU
+stewlo90,Sebastian Lozano
+RobHoey,RobH
+MisterPapaP,JoePa
+cartwright_gen,Gen. James E. Cartwright
+CbakeRun34,CBakeRnU
+Liamsassy6,Raul G Pedraza Jr
+tiffleeh,tiffany
+tice_stacy,n/a
+oldyfan2012,Debbie
+peteaustin6,pete austin
+The_Real_TO14,TO
+wolfmanwalter13,Walter
+luanco1,LuisTOM Colon
+bc_harmon,BC BOT
+CallMe_Gary98,Gary
+JFlippo1327,n/a
+simply_aiyana,n/a
+littleskosh,carman little
+ARetVet,Lisa
+PSu11ivan,Patrick Sullivan
+SchauTim,Tim Schau
+mighty_duck1,Shane Duckworth
+JoeMo81233496,#ReleaseTheMemo
+saveouroceans30,Cali Hamilton
+EAKirkCuomo,Erin Kirk-Cuomo
+saldana_tom,Texan1845
+cowboytay1,Tay (Cowboy/Lakers)
+campfire254,Campfire254
+TheophilusDull,Theophilus Dullard
+DiricoLB,Di'Rico Baker
+rhpsia,Sia At The Game
+KayEmily2,n/a
+1nf1n1t3_h3r0,n/a
+oldairforcedude,John H. Russell
+JeffreyNorwalk,Jeffrey D. Norwalk
+MelodyT86535977,TrumpEtte
+bradottavi,n/a
+KrauseForIowa,Bob Krause
+LorenJorgensen1,Loren Jorgensen
+lobitomiura,Ronald Scott
+gen78900,n/a
+tmelitta50,Former Bubble-head
+Plato945,N
+MicrosoftNick,NickeyNick
+KevRTAMidwest,Kevin
+kaysey6594,Kay J. Isaacs
+dphilly83,Dana
+stingsting59,Joseph Stangler
+t60579834,tim
+AlvisTweets,Al-Vis
+jerrycutt63,Jch
+Azonypse,Azo Sand
+Rgrm002000,Bobgtz
+Ancientbob,Bob Foss
+HammUSMCretired,Michael Hamm
+Deanne_N_Bell,Deanne N. Bell
+NeilStoran,neil storan
+ralph_alea,God and country
+BenjaminRoussey,Benjamin Roussey
+slappy0078,ken
+americanhowl,American Howl
+btaylor_jr,Buford Taylor
+StepfanSalter,Stepfan Salter
+Hamskillet,n/a
+jamiestorment21,Jamie Storment
+ThatKiDEazyE,Rafael de la Ghetto
+DeeCeeCats,n/a
+ilokid20,make america great
+michaelkeyes,Michael Keyes
+gene5982,vine02
+johnmich44,CSM
+Huntr4myCountry,HunterSforMyCountry
+BradyTbrady5,TJ Brady
+loureynolds1940,Lou Reynolds
+davet107,David Thompson
+BeltFedShotgun,n/a
+GodeepDan,USMC Groundpounder
+HoneyAirborne,Honey
+kcpteachertips,Kimiko Pettis
+John_M_Vidal,John Vidal
+1SoldierForLife,Tommy Williams
+WillyWGC,Bill Cal
+zofiaknorek,Zofia Knorek
+chaswcar1a,Chas W Caroline
+0bama_2012,One Sorry President
+jostenbrown42,n/a
+Dwgfan20,Jack Carr
+Joeyswife,NavyBrat/ArmyWife
+rail581,Curt
+BrandonVanNess2,Bvanness18
+QuinAndrus,LaQuin Andrus
+SethFromThe716,n/a
+WAMSInews,WAMSI
+ragarwal,Rohit Agarwal
+Trishamott,n/a
+bryan_lanning,Stands2reason
+Gonzalez3Jada,n/a
+zamboni5454,Tim Bush
+sswoko,Sheri Swokowski
+crazyEfan,American Tommy!
+DougFirVet,Penny
+JessieV2994,JessieV29
+jasontaylor0773,JT
+EVPService,EastValleyPestSvc.
+Hawk3a1,Ray Raymond
+uvotguy,Thomas Koch
+KallieTinSC,n/a
+SandboxUS,SANDBOX Girl
+_moreliacastro,Savage
+venatarajan,Natarajan
+vibetoANTI,n/a
+sibuegoesbyebye,Kevin Angelo
+leonpui_,Leon   Puissegur
+MicksMan9,Mr.Goodold
+lizzyonthecmdwn,Greñuda
+fatoldman51,larry m
+cscowise,Semper Fi
+kyywoodyy,kylie
+EBONYLORD1,EBONYLORD1
+DebAlwaystrump,#RedWaveRising
+_Carolina_Man_,Carolina Man
+StormCutler,Mike
+mmgolfer,Michael McCord
+SEIJohnA,John Anderson
+TheHalfAfrican,marcus
+mbohannon9,n/a
+Top_Sergeant,1st Sergeant (Top)
+janlascko,n/a
+iburnsteel,Bobby for America!
+HayesKotseos,n/a
+Freechoice16,Sharon1985
+apel_bud,Bud Apel
+Toledobendbum,Retired Thunderbolt
+TRPhrophet,TRPhrophet
+pae9180,Paul Boone
+johnstodder,John Stodder Jr.
+deecee3737,David Carbone
+itsrobert,itsrobert
+thanatos5150,Thanatos
+Jeff1Skjelver,Jeff "I Love Norway" Skjelver
+M1APatriot,n/a
+lauurrenn_14,n/a
+jp_burns,CogitateMuch?
+kjsingh2,K J Singh
+roger_brenz,Chief
+SteffnWasson,Stephen
+IBda14U,n/a
+PROMOVISIBILITY,Richard Yood
+SuperNovaElite2,n/a
+TleeBoii,n/a
+tat2d57,Tat2dMf'r
+MRMasferrer,Marc R. Masferrer
+ShortTermEnthus,Me Here
+Veteran4Trump,Veteran For Trump
+trocchio,Tex Thompson
+Darth_Rok,Duke Majors
+ThatVikingGuySR,Shawn Roberts
+BAMills17,Brett-Future Seattle NHL Season Tix Holder-Mills
+DevildogCPL,K.B.
+FluffehDarkness,USMC Cpl Fluffeh
+Buckaroo1967,n/a
+Pulsa48,Rico
+BioWxSarah,Sarah
+Jimbobbarley,Jimbobbarley
+Kb_Fressh,Kyree Brooks
+ArmandoMadero,Yo Soy Armando | I am Armando
+drj0nes57,Pete Jones
+kadennison,n/a
+dennisglovernc,Dennis H. Glover Sr.
+ayeeits_juliana,n/a
+DickSprints,Denzel
+BigDogGrunt,Deplorable Richard
+born_li,LI born
+Rockblotter,Vickie Rock
+Ollies_Opinions,Ollie's Opinions
+cozzyozymandias,n/a
+KevinARNG11BVet,Kevin Johnson
+ArmandoRocha28,Armando Rocha Jr.
+talienaah,doctor tali
+ItheMissingLink,n/a
+SwordfishActual,Doug
+DurtchemDurtche,Maryesta Durtche
+orvisceo,Chuck Orvis
+oldmancrying,Don Patrick
+edbeaver,Eddie Beaver
+JohnGilson2,Old White Guy
+Siren_SantaCruz,Siren@SantaCruz
+rexetsacerdos,Jeff B
+BobTheBallBoy,Jarred Carreiro
+Perry_OB,Perry O'Brien
+Marsteke,Jon
+tomsuffel,thomas
+BigEers,BigEers
+badgeofhonor69,Michelle S
+kyle_babcock93,Kyle Babcock
+IP_Paralegal,c@p
+LexyMarieJune21,lex
+RealtyVirginia,Sassy Realtor
+45CALIBERONDHIP,2nd AMENDMENT MAGA
+AliBakirdan,Ali
+ahhlexuuss22,L.Hernandez
+214_8272,Gary
+jeff_ruff,Jeff Ruff
+Doc_JJK,Resist Progressives
+SheriMamaGG3,Sheri*DontBlameMeIWroteInGeorgeCarlin92&96*MamaGG3
+ricjag,DeplorableRic
+ussboston,David L.Cornell
+Rtfighter_MAGA,covfefe nolibluv
+Lilbabyrn,Jean A. Miller
+pharvey2001,Phillip May
+TheOGMigs,Migs
+ttdink50,TTDINK50
+DrPepper61,Theresa Snow
+iTomHarness,Tom Harness #MDMC18
+clhscoach,Mike H
+usacsmret,CSM
+deplorablecurly,Curly
+jimba555,James Young
+AvaMoor34816208,Ava Moore
+rebel131,REBEL
+Front_Gun,Kat Ithikkat
+saucekingdk,Dakota
+Gators9521,n/a
+_DonaldLee_,Donald Ramsey
+Mike3453Mike,Max
+TheGarrettMann,Garrett Mann
+trippy1948,Raymond Trippy
+MissMermaid7,Miss Mermaid
+captkarenanne,Karen Anne Holliday
+ElizabethAnn625,n/a
+EmbassyMarine,Go MSG
+Pat1Sox1,Do What's Right-Fight Abuse
+BacksweetBranch,Darnell Branch
+joggyredders,Joshua James Redfern
+iceman_white,Gregory Dean White
+23psalms1,n/a
+OecSmith,smith
+HRPSMarine,HRPS Marine Unit
+Eugene200,Eugene Turalitsch
+erikz16,erikforreal16
+barkingstarss,oneeyeddog
+itsAidaRoslan,n/a
+bijancbayne,Bijan C. Bayne
+TomahawkUSMC,The Bearded One
+JeremyClay,Jeremy Clay
+tellmeaboutJK,(w)rong
+ScarletPimper17,Scarlet Pimpernel
+stormnatcup4u,stormnateacup
+WayneRu40492444,Me
+Kate_Biscuit,Doctor Biscuit
+BallisticSloth,CommonSenseAnon+++
+weebee9,Robert
+Raeallldayyyy,n/a
+TheParteeMaker,Lisa Baker
+ErnestLamonica,ernest lamonica
+WoofRight,#DogRight
+lifeasdjt,Promiscuous Gayurl
+rkofoed56,Pathfinder
+DocJMB7,n/a
+RickMat89004685,Rick Matthews
+whiteknight1024,Kevin
+BrianHo27254953,Yotebuster2000
+KathyEmerson18,Kathy Emerson
+NotMrSalty,Mr Salty #JWOKE
+47thIndiana,David Williamson
+itsSHAKAhoe,Shaka Bank$
+TEHam87,n/a
+ChrisSmith47,Chris Smith
+keck1157,Chris  Keck
+BaltasMec,George S
+ChrisFagan57,CHRIS FAGAN
+TXCovfefe,DeplorableShannon
+ltrickford,Ken Saucier
+fubar2626,Russel Ziskey
+OGElroy,OG Elroy
+ron8072,Dotard ron8072
+darkskinmanson,JPEGMAFIA
+davidyates103,David Yates
+surfingwahoo,#beatLouisville
+catconn129,kevin connors
+jeffpierson1966,Beowolf
+judygreeno,Judy Greenough
+kwaidan,kwaidan
+ClaytonFilpo,Clayton Filipowicz
+DaleJmeyer,Dale
+veronicabartoe,n/a
+j_jamesin,n/a
+cantfakethefunk,John Funk
+AWhitTwit,Amanda Whitmire
+GiboneyDavid,David Giboney
+WilliHCoussens,Will Coussens
+_deyscreamjb,J Dusse
+SoldiersWhisper,A Soldier's Whisper
+GraySgg674,Stephen Gray
+Marine1Jacob,n/a
+cryptonymcolin,Colin Campbell
+NigNiggerson,Crusader no remorse
+CXVIclique,Chris
+raiderjim40,raiderjim40
+JammeyHemphill,Jammey Hemphill
+rickh7777,Deplorable Rick
+kriketUSA,HUNTRESS
+honeywell0947,Dennis B
+the_angry_ranga,The Angry Ranga
+ololabear,n/a
+DhirojPadhy,Dhiroj Padhy
+william_w_smith,William W. Smith
+larrypoz,lp
+Kingtrades23,Edwin Guzman
+Medros,Highlord Medros
+cyberbiota,Dr. Peter C. Charles
+MsLydiaAurieux,n/a
+Bob__Harrison,Bob Harrison
+jeremyooi96,n/a
+WREvans_atty,Will Evans
+martnite,eljay
+er0nlenore,db tha genital
+SSgtC,Charles
+BrianHubbs1,Brian Hubbs
+Shamika65130019,Shamika Jones
+_JayBee5,n/a
+ChaengsKordei,n/a
+dbnewport,Dave Newport
+eatguineapig,n/a
+realLisaAlta,n/a
+USMCMADDOGDAVIS,Mike D
+AnneinBamfield,Anne Stewart
+taninthesummer,n/a
+_AfroGoddess7,n/a
+LifeLibHappy,Don Sutton
+grayguy1942,Gray Guy
+Retired_Actor,Stephen Oliver
+mommabnp,Sarah Baxter
+Miyagi37,Gary Anderson
+mediccaptfm,Frank Montilli
+mizj626n,Juanita
+caran_merya,Caran Merya
+Flirman1983,Springfield
+KundaCurtisha,Curtisha Kunda
+freddie9583,Fail Bundy
+bluenatm,Nat Medrano L
+NoellOliviaa,n/a
+RobertLeightyJr,Robert Leighty Jr
+SumnerRdsumner,n/a
+knikhusky,n/a
+FrankDeCecca,Frank DeCecca
+onedovealone,n/a
+noraconnor89,Releasethememo
+me98329us,ME98329US
+vetfortheppl,n/a
+larrylyons1946,Larry J. Lyons
+Dapandico1,Dapandico
+coppingsundays2,#ReleaseTheMemo
+marymatsonhogan,Mary Matson Hogan
+RealDJSlash,D.J. Slash
+djackson97771,SFC (Ret) Jackson
+LittleFootLady,ByeBleuBelle & HelloRed!
+thebull115,Bull
+MarineBiologyRR,Marine Biology
+PekingMike,n/a
+honesteph,Stephanist.
+JahaaziDarinda,The Apprentice
+Stevenehumphrey,Steven
+AndyAshby1,America First
+Crimson4Crystal,Richie Strickland
+TheReal_QC,n/a
+gypsybill,$Bill
+TreyFreedom,Got Freedom??
+vikramwkarve,Vikram Waman Karve
+brucestillwell,Bruce Stillwell
+BlueMark55,n/a
+BirdMiler,More CowBell
+koehlerdesigns,Scott Koehler
+hellrzr24,RichOC
+_PoloBaby,n/a
+Sonja_Coryat,Sonja Coryat
+originalkg1,Ken Chittum
+WPCoaching,WP Coaching School
+17LadyLiberty76,n/a
+1550Mesa,n/a
+Kreyol_Konvenk,n/a
+fdorbinjr,fdorbinjr
+treesplittr,Matthew Baines
+Steve_Smith313,Steve Smith
+cca814,Clayton
+bbrowndfd,Robert O. Brown Jr.
+bigmase28,Mason Greene
+DoctorZ1969,Sil.i.cate
+CHCmobile,Dennis B
+DetectCrew,Metal Detect Crew
+BrentStecker,Brent Stecker
+RogerOldCodger,Roger Cary
+Junebeeforvetso,June
+Michael2559876,Michael Hughes
+ImaTrouble9,Ima Human Bean Voter
+paul_schramm,Paul Schramm
+AlaskaNorseman,That Guy
+TonjaWidiger,Tonja Widiger
+5811devil,Matthew Webb
+pentzman,RdZ
+marineclarity,Marineclarity.com
+Bambieyez187,Carmen SanDiNegro
+Just_Resisting_,Just_Resist #DemForce
+OldhessL,Oldhess
+SeabirdResearch,n/a
+recon618,Reconman
+RihannaNavyEU,Rihanna EU
+AllenCariker,Allen Cariker
+peterericthor,Peter Edwards
+ItsAJoshParty,Chocolate Thunder.
+notwokieleaks,Elon Musk's Flamethrower
+spluseman,BORN IN FT MCCLELLAN
+Inked1BNA,Kevin
+WeindelSamantha,Samantha weindel
+BeasMom1,n/a
+GreenLifeLovers,Ellen #MMT
+NanaWithSoul,JodieLaine
+ilenaHolder,GooGoo
+shane_tobin312,Shane Tobin
+spdstr,SPDSTR
+mares62J,Fan since 1962
+malesjo42,n/a
+Elizabe18040667,Elizabeth
+Gunman1947,Ernie
+mike2shay,Mike 2Shay
+afonok,Joshua Holley
+tutster_2,goterdone
+cjmartin23,Carolyn Martin
+aflange,Arthur F Lange
+JamesTheTexian,James In Texas
+Golmer,James D. Keller
+NJGiants42,HPG
+Greg_MarineLab,Greg_MarineLab
+Ozato2000,Roy
+Vikram662,Vikram
+Hollis3520,Marcus Hollis
+SGroucho,KnickKnackPaddyWacker
+bellaKristela,n/a
+SOimLikeWord,the Revolution will Not be Televised
+BubbaPfeiffer,Bubba Pfeiffer
+NoLove4Trump66,BlockedByWashedUpActors
+usedcars1995,stevenpump
+ChevCheli05,Manveer Singh
+potter_julian,Juju
+danceypaige,asdfghjkl;
+KyleBrennings,No str8 jacket
+junipersage1,Juniper Sage
+DocJones6971,n/a
+GIJane4Trump,Jane
+JamesHunnel,James Hunnel
+Reese6wilson,Maurice Wilson
+colinw00,Worthington™
+trogerstn,tim rogers
+ahnaf_2202,n/a
+joepaulrod,Jr
+NancyKnittle,Nancy Knittle
+Coxie84,Michael Cox
+Cottontop73,America4Trump
+war_scribe,Jason-War Scribe USA
+mitchell2018a,mitchell williams
+MVKJAY,uchiha j
+oldbrownsfan,William Braden
+KoolColoradan,Kool Coloradoan (Xbox One Handle= DesertFox722 )
+Barbarous01,Kevin Casey
+Drathzaar,I need a cigar
+ctemp153,Chuck Templeman
+RobinPowell_HD,Robin Powell
+mssportsagent,Dr. Tara Collins
+zarf,Travis Blair
+boomer2748,n/a
+TShanahanCPO,Terry Shanahan
+K_Rosa17,Katie Rosa LLC
+CammoChick,n/a
+Joebowhunta,Joe
+CoachEricFolmar,Coach E
+gloriamfermin,Gloria Maria
+deeter_cdeeter2,Charlotte Deeter
+ZenBonobo,Zen Bonobo
+cj_mccain,C Juh
+get2djnow,gab.ai/get2djnow
+TheMamatova,The Mamatova
+boss_manor,Boss_Manor
+rby2zday,Andrew Czarniewicz
+jmbt3410,John Martin
+EmperorWiFi,Jason Hintersteiner
+DocHowe,John David Howe
+StansberryWire,Stansberry NewsWire
+burgerofanarchy,Poet_of_Possible
+kindseller,AdorableTonya
+7SCOTS,7 SCOTS
+thetugboatphil,TugboatPhil
+liptovszky,Matyas Liptovszky
+libertydoc82,Liberty Doc
+mallen2010,mallen
+dmcclintock4117,David J Mcclintock
+Multiverse_Hero,Mattao Advent (Oc)
+wesley116,roland w. ditmer
+TrbLind,TRB Jones
+oliviaddavis,Olivia Davis
+EricEG2017,American Patriot
+AbbottLawyer,Mike Abbott
+ZoopArmor,n/a
+BradleyErickso1,Bradley Erickson
+PatrickHenry911,#Publius
+Gary_Aka_Mac,n/a
+RiderHeritage,n/a
+theRealDSLund,David S Lund
+Dhagans06,@Dhagans06
+EMLeroyspankins,eM | leroyspankins
+TeddMcc,n/a
+DigitalKeith,Keith Gill
+Jim007G,Jim
+WhitmoyerTerry,Terry Whitmoyer
+buffdada,Huggy Bear
+NewKrash,n/a
+patrickmclemor2,patrickmclemore
+FourSwordsLink,FSLink
+TrueFactsStated,Claude Taylor
+mondaw1,Dawn
+tippy5346,Michael Jones
+mrisner,Michele
+jeremythepog,Sancho
+Surehanded_1,Z Pac
+toruk_san,TheShadowKnows
+cbvet420,CBVET420
+Davethaflave,Dave Kallam
+Kanaka328Reyer,Night Flyer
+eshypresso,n/a
+CDR_Chakotay,Chakotay
+Steve_6895,Steve
+TDFINN,n/a
+josephwhitesid,Joseph Whiteside
+JoeZ56590020,Joe Z
+ProtectivPopPop,JJS
+djaqq,David Jacquez
+fourthjohnxrp,john yang
+leahbridges16,Miss Leah
+matt_helder,Matt Helder
+wparker80,William Parker
+authorjohnZ,John Zerr
+badgerkatt,Mike Brown
+EarperMarine,Marine. Earper. (Heather D)
+73be1e652c3046c,Brandon Meadows
+chazmancini27,chaz mancini
+kasmouse,kasmouse
+realsaltytodd,Todd Hause
+RocketGuy0351,n/a
+SherylTruman,Sheryl truman
+zwheeler11,Zach Wheeler
+RichieRich3rd,n/a
+KevinYaMouth,Kevin Ovechkin ™
+rdp24k,rdp24k
+maddad0921,Mark H
+SirFartknocker,Mr Fartknocker
+ronsmithh22,PAY ME WHAT U OWE ME
+AEGray313,AdmJaneway2018
+rick17403,Rick G
+Certifiedninja1,Kyle D
+endlosung666,endlosung
+HaydenMitman,Hayden Mitman
+cooks4livin,Rebecca Mitchell
+realtime1954,Walter Barry
+rustyknight44,Josiah White
+PeterOCain,Pete O'Cain
+kkayyjordan,k
+valeriuspublico,Publius
+JinaanAlAalaa,KhadijahBintMohammed
+muha992,Mustafa
+HonestCitizen62,Honest Citizen
+Noahh_USA,n/a
+Ricky___Rozzay,n/a
+aw3st1,n/a
+Ianderson444,Irene
+bjdrues,Barb
+machonejack,Jack Wright
+UrmyBiggestFan_,TONY-MAN
+I_LikeYourTooth,The Suaz
+AmericanInfid14,American Joe
+crewoldt,Christian
+LentoJT,Josh Lento
+beckysdolan,Cowboy
+billcass2,Bill Cass
+CharlesPRiley2,Pat Riley
+thrasherkev10,thrasherkev
+TonyGodwin19,n/a
+EECC506,n/a
+btilll,B
+clvergrl74,Kate H
+presbo,Deplorable Dan
+DRF1001,Neil OHanlon
+janet493,janet493
+TheUnrealHall,David Hall
+JohnDix16,John Dix
+biggib21,BigGuwop
+TopDog8762,n/a
+VinceGottalotta,Vince Gottalotta
+chargergreg,Deplorable Greg
+Germ_Lerma,You
+TheKwinnBee,Chrissie Rios
+BobbieChet,Chet Bobbie
+erudite2016,Nicole
+DonnaD1301,Donna H.
+Only_Meaningful,ThoseMeaningfulWords
+Saki_Sakura_,Saki Sakura
+gmiller1952,Gordon Miller
+WhoIsWillLawson,Will Lawson
+MadalinskiRick,mind bender 1
+marine_guide,Marine Sustaining
+EJSbrocco,Elizabeth J. Sbrocco
+ayjay_potato,AJ
+PlasticsDoc75,Michael Anderson
+cindergirl1,cynthia potter
+dragononground,Ted Stark
+iselacipres,TheSella
+HKGuns,USNVet
+RWITGuy,n/a
+Steven_Swenson,Steven Swenson (RC)
+lindathomas102,Linda Thomas
+howard_comeaux,Howard Comeaux
+Fuck__Shawn,Do you wanna..
+MikeOBrien1492,Mike O'Brien
+life_benefit,C.D. Watson
+Roc_Bundy,Roc Bundy
+samolukanni,Engr Samuel Olukanni
+RosscoeP,Pinche Tick-Tock Huero
+joe_halstead,Joe Halstead
+MissyJo79,n/a
+MrLifestyles,Jimmy Lifestyles
+aussie_robbob,Rob C
+steforart1,Stephanie Spindler
+BU37NA,Luis
+JayRodge66,Jay
+kj_christie,katie
+MunozRetired,MC1990
+oldmarine65,DonD
+Dekinblus,Bob Snickers
+vcrantz,Vince Crantz
+CPellichino,Mad Scientist Chad
+cajunblood007,James Suire
+JambeckResearch,Jenna Jambeck
+JCutrano,JC
+icu212002,big intro vert
+WastonKid,YoungMrWatson
+glen_gmorri46,Glen M
+sophia_edens,n/a
+_KelseyRenae,n/a
+addisonpaigeee,n/a
+gui_lgzn,Guilherme legolas
+vcreedy,Vince R - C.R.
+DannyLeBlanc24,Danny LeBlanc
+MeToo44,MeToo
+nightdromader,Ben Maxwell
+SailorBob2016,Bob Murphy
+NipsterNEET,n/a
+nicky_zwan,Nicky Zwan
+USAFRadar,Mark Shaughnessy
+SteveDallas_Esq,Steve Dallas
+NamridPub,Namri'd Publishing
+AlabamaBeard,Scott
+IAmTheRayII,Ray Hud II
+JosephIrato,Joe Irato
+tomcalvanese,Tom Calvanese
+SouthernGatorz,n/a
+SEdwardsWWU,Spencer Edwards
+KatrinaSherie,n/a
+JBWest1971,JB West
+katben2005,n/a
+alyjade2000,_allynorman_
+Last_Runner_Up,Bwitter as Hwell—Secret Society Rock Herd Manager
+TexSandra210,Sandra
+bullimusmaximus,Mike Bullard
+Capt_USA76,n/a
+BigMRboston,DEPLORABLE  MARINE BOSTONSKI
+jshoe2111,Jeff Shoemake
+T_dawg7billion,TERENCE64
+jim_fowlds,Jim Fowlds
+rmstack15,Robert Stack
+LCunninghamII2,L. Cunningham II
+ob1moroney,Ryan Moroney
+CeFaanKim,CeFaan Kim
+echinoblog,Christopher Mah
+_kaitcat,n/a
+CMark1950,n/a
+crabbydick,Celtic Crab
+Anon1776_,#ReleaseTheMemo
+gcombs71,gcombs71
+kcapezio,n/a
+Landry777Tom,Tom 777 Landry
+RealKaunda,U T O P I A N
+BROADUS,n/a
+CJEhrlichM,Christian J. Ehrlich
+RedStateBlonde,BombshellSquad
+JerryMcBeth2,Jerry McBeth
+vol80,Snoop Bailey
+frazman1,B.A.
+CptKarnage,pagan scum Eddie
+RADocCorrea,Richard A Correa Sr
+J4CORREA,JOSE
+walsh_elwood,Elwood Walsh
+Braulio326C,Armando
+ShalaG,ShalaG
+Aquadraca,Tiny Floating Whale
+lawdawgseven,Formidable Warrior
+ErsteKrieger,Holger Danske
+LoweJuliette,Juliette Lowe
+hunter__jordan,n/a
+Turtle_Shell_Oz,Rochelle Ferris
+MikeWol48562523,Mike Wolfe
+WrateJames,James Wrate
+TrumpFix,n/a
+PaulModica777,Paul Modica
+Ask60Seconds,Hector E Cisneros
+pvftworth,Parrish
+ChiefVolFan20,Brad Wingo
+hankthtank,hankthtank
+davemcwatters,Dave McWatters
+laberge_vic,Vicki LaBerge
+USNJack,NavyJack
+Jamesford66,James ford
+TomTaylor081165,Thomas Taylor
+dsshep1959,n/a
+ownbusinesses,La Daryl Franklin
+I_always_know,Big Brother
+ValkyrieSigrid,Valkyrie Sigrid
+ISotoAFLPU,Ivan F. Soto
+vito19695032,Marcquis A. Anderson
+StarCharger28,BucketHatBoss@WB
+jonsthinkin,Jon Nelson
+emilyclark___,n/a
+LujanJamie,#50StarsDeep
+in_11th,n/a
+BLUECHARGER69,Eddie Prather
+bryceripley,Bryce
+HeatherStrong05,Heather Strong
+SCPOUSNRET,Senior Chief
+baronhobo,ex-TIC (OS2)
+1AFCCC,Richard D. King
+TheCowboyWells,n/a
+bustin_jarrera,Justin Barrera
+SenRichardBlack,Senator Dick Black
+NavyLDO85,William K Harris
+MikeManpad,Mike Padilla
+Lito_b_,n/a
+KevinKe31392675,TRUTHSEEKER.
+C_Gregory_Films,C Gregory Films
+DEE_NASTEE,n/a
+quozdrummer1,Jeff
+Mbrezzy21,Monty
+RSLeergaard,RSLeergaard
+honestAbe76,"Abe"  the Younger
+JoseIsSleepy,Jose Edgar
+Blackcherry6466,Blackcherry1
+wabence,Bill
+ezy06001,Beer-thirty
+RedPill47133377,n/a
+strix1,n/a
+BigHec01,n/a
+jnogi,#Releasethememo
+_djsanjee,Sanjeevanraj nelson
+Colddemon00,David Conner
+MaktecMarine,Maktec Marine
+Warner6747_2,William Warner
+mary44614,Mary R
+farrellbruce2,baffled
+CoachLeo_CA,Coach Leo
+cathibrgnr58,Cathi#MAGA
+03xx_dh,Donnie Hicks
+sandrajdayton,SANDRA JOHNSON
+DonaldCastelow,Donald Castelow
+baileyjer,Junkyard Dogs
+wonderbunny7,Veronica
+parko160,FBIDeepState
+schristen4,S. Christensen
+kelz718,kelz
+_KimberlyCarol,iloveamerica
+swanson1954,n/a
+Bitcoinnoobi,Bitcoin
+Makerel_Sky,n/a
+NavyBasketball,NAVY BASKETBALL
+BenjaminEHaas,Benjamin Haas
+skypilot18,JASMTH
+Canada4Bernie,n/a
+joarlow,jo arlow photography
+kevensets,Charles A. Trahan
+BobRtsherrod,Bob Sherrod
+mike196452,n/a
+ScotDence,Scot Dence
+WhaleNerd23,n/a
+IGXGamingTV,Tim
+blazingblades,Peter Murray
+marty_marsola,Marty Marsola
+VERNELtitus2,VERNEL titus
