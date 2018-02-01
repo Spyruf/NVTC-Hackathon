@@ -41,4 +41,4 @@ layout = dict(
 )
 
 fig = dict(data=data, layout=layout)
-py.iplot(fig, filename='d3-cloropleth-map')t
+py.iplot(fig, filename='d3-cloropleth-map')
