@@ -1,4 +1,5 @@
 import plotly.plotly as py
+import plotly
 import pandas as pd
 
 df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/2011_us_ag_exports.csv')
@@ -41,4 +42,4 @@ layout = dict(
 )
 
 fig = dict(data=data, layout=layout)
-py.iplot(fig, filename='d3-cloropleth-map')
+plotly.offline.plot(fig, filename='d3-cloropleth-map')
