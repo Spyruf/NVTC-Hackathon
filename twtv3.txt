@@ -1,0 +1,32 @@
+Username	Name	Match? Y/N																							
+robropie	Rob	1																							
+phil4gop	n/a	1																							
+Cherub973	Angy Pangy	1																							
+Woolecox	Woollymonster	1																							
+Hell_HasCome	Hell Comes For You	1																							
+LizaKittle	Liza Kittle	0																							
+tmj_vets	Veteran Jobs	0																							
+tperkinsbball23	n/a	0																							
+mikede14785	Mike De	1																							
+Pappy01Timothy	Timothy Diehl	1																							
+panumas7700	n/a	1																							
+HCOVSO	HuronCoVetServices	0																							
+ThomasPhan99	Thomas Phan	1																							
+JEHutton	James Hutton	1																							
+navyvet55	ProudNavyVet55	1																							
+Portland_John	Portland John	0																							
+DavidFeltenber5	David	1																							
+PeterRosianul	PeterT	1																							
+professorbriggs	Professor Briggs	0																							
+don_peck	Don	1																							
+DeniseKollock	n/a	0																							
+kennyrc4	The office sports guy	0																							
+ancerrone	Angelo Cerrone	1																							
+Vinle238	Vinassa	0																							
+taeisonflames	n/a	1																							
+ageistewart	Darryl Stewart	1																							
+VicJubes	Vic Jubes	1																							
+Calmsheepdog	Grumpy	1																							
+MaryCha20362180	cestmoi	0																							
+NickolaKalla	Nickola Kalla	1																							
+VotingVeteran	Lisa Wilken	1
