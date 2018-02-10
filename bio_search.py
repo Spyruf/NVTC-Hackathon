@@ -13,13 +13,14 @@ def run():
     class listener(StreamListener):
         def on_data(self, data):
             detect = ["veteran", "navy", "marine", "usmc", "#usaf", "#usnavy", "#usmarines", "#usarmy", "usmcvet",
-                      "#usmcvet", "colonel", "gysgt", "sgt", "sergeant",  "infantry", "vet", "paratrooper"]              #get more words to match profiles
+                      "#usmcvet", "colonel", "gysgt", "sgt", "sergeant", "infantry", "vet",
+                      "paratrooper"]  # get more words to match profiles
 
             no_go_words = ["mom", "dad", "father", "mother", "grandma", "brat", "son", "daughter", "bts", "oc", "wife",
                            "wife"]
 
             all_data = json.loads(data)
-            #print(all_data)
+            # print(all_data)
 
             try:
                 bio = all_data["user"]["description"]
@@ -54,7 +55,7 @@ def run():
                                                         out2.write(',none')
                                                 except UnicodeEncodeError:
                                                     out2.write('')
-                                            #except TypeError or UnicodeEncodeError:
+                                            # except TypeError or UnicodeEncodeError:
                                             #    out2.write('')
                                             try:
                                                 out.write(name)
@@ -63,8 +64,8 @@ def run():
                                             out.write('\n')
                                             out2.write('\n')
                                             out.close()
-                                            #print(type(twt_words))
-                                            #print(" ")
+                                            # print(type(twt_words))
+                                            # print(" ")
 
                 return True
 
@@ -81,5 +82,6 @@ def run():
     auth.set_access_token(access_token, access_token_secret)
     twitterStream = Stream(auth, listener())
     twitterStream.filter(track=twt_word_dtct, languages=["en"])
+
 
 run()
