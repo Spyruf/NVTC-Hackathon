@@ -1,7 +1,30 @@
 from tweepy import Stream
 from tweepy import OAuthHandler
 from tweepy.streaming import StreamListener
+from textblob import TextBlob
+
 import json
+
+total_tweets = 0
+good_tweets = 0
+neutral_tweets = 0
+bad_tweets = 0
+
+
+def get_tweet_sentiment(tweet):
+    '''
+    Utility function to classify sentiment of passed tweet
+    using textblob's sentiment method
+    '''
+    # create TextBlob object of passed tweet text
+    analysis = TextBlob(tweet)
+    # set sentiment
+    if analysis.sentiment.polarity > 0:
+        return 'positive'
+    elif analysis.sentiment.polarity == 0:
+        return 'neutral'
+    else:
+        return 'negative'
 
 
 def run():
@@ -11,6 +34,7 @@ def run():
     access_token_secret = "5ApzTKHzk1aZ8rgxqNmEBPEVsxplqOfsKtlBiBx0K9adU"
 
     class listener(StreamListener):
+
         def on_data(self, data):
             detect = ["veteran", "navy", "marine", "usmc", "#usaf", "#usnavy", "#usmarines", "#usarmy", "usmcvet",
                       "#usmcvet", "colonel", "gysgt", "sgt", "sergeant", "infantry", "vet",
@@ -27,6 +51,7 @@ def run():
                 username = all_data["user"]["screen_name"]
                 name = all_data["user"]["name"]
                 location = all_data["user"]["location"]
+                tweet = all_data["text"]
 
                 twt_words = bio
                 count = 0
@@ -43,6 +68,25 @@ def run():
                                     if neg not in wrd:
                                         count = count + 1
                                         if count == len(no_go_words):
+                                            # user is valid
+                                            sent = get_tweet_sentiment(tweet)
+                                            global total_tweets
+                                            global good_tweets
+                                            global bad_tweets
+                                            global neutral_tweets
+                                            total_tweets += 1
+                                            if sent is "positive":
+                                                good_tweets += 1
+                                            elif sent is "negative":
+                                                bad_tweets += 1
+                                            elif sent is "netural":
+                                                neutral_tweets += 1
+                                            print("---------------")
+                                            print("Total Tweets:", total_tweets)
+                                            print("Good Tweets:", (good_tweets / total_tweets) * 100)
+                                            print("Neutral Tweets:", (neutral_tweets / total_tweets) * 100)
+                                            print("Bad Tweets:", (bad_tweets / total_tweets) * 100)
+
                                             out = open('vet.txt', 'a')
                                             out2 = open('location.txt', 'a')
                                             out.write(username + ",")
