@@ -48,6 +48,10 @@ def run():
                                             if type(location) == str:
                                                 try:
                                                     out2.write(location)
+                                                    try:
+                                                        out2.write("," + bio.replace(",", " "))
+                                                    except UnicodeEncodeError:
+                                                        out2.write(',none')
                                                 except UnicodeEncodeError:
                                                     out2.write('')
                                             #except TypeError or UnicodeEncodeError:

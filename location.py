@@ -5,6 +5,8 @@ from mpl_toolkits.basemap import Basemap as Basemap
 from matplotlib.colors import rgb2hex, Normalize
 from matplotlib.patches import Polygon
 from matplotlib.colorbar import ColorbarBase
+import collections
+
 
 popdensity = {
 'New Jersey':  0.0,
@@ -58,6 +60,57 @@ popdensity = {
 'Wyoming':    0.0,
 'Alaska':    0.0}
 
+popwords = {
+'New Jersey':  [],
+'Rhode Island':   [],
+'Massachusetts':   [],
+'Connecticut':	  [],
+'Maryland':   [],
+'New York':    [],
+'Delaware':    [],
+'Florida':     [],
+'Ohio':	 [],
+'Pennsylvania':	 [],
+'Illinois':    [],
+'California':  [],
+'Hawaii':  [],
+'Virginia':    [],
+'Michigan':    [],
+'Indiana':    [],
+'North Carolina':  [],
+'Georgia':     [],
+'Tennessee':   [],
+'New Hampshire':   [],
+'South Carolina':  [],
+'Louisiana':   [],
+'Kentucky':   [],
+'Wisconsin':  [],
+'Washington':  [],
+'Alabama':     [],
+'Missouri':    [],
+'Texas':   [],
+'West Virginia':   [],
+'Vermont':     [],
+'Minnesota':  [],
+'Mississippi':	 [],
+'Iowa':	 [],
+'Arkansas':    [],
+'Oklahoma':    [],
+'Arizona':     [],
+'Colorado':    [],
+'Maine':  [],
+'Oregon': [],
+'Kansas':  [],
+'Utah':	 [],
+'Nebraska':    [],
+'Nevada':  [],
+'Idaho':   [],
+'New Mexico':  [],
+'South Dakota':	 [],
+'North Dakota':	 [],
+'Montana':    [],
+'Wyoming':    [],
+'Alaska':    []}
 
 st = open('us_states.txt', 'r')
 abb_to_state = {}
@@ -78,10 +131,16 @@ for line in raw_file:
 lost = 0
 for element in location_list:
     hit = 0
+    sep = element.split(",")
+    bio = []
+    if sep[-1] != "none":
+        bio = sep[-1].split(" ")
     element = element.strip(" |.,/")
-
     if element.title() in popdensity:                                     #IF LOCATION IS DIRECTLY STATED (i.e. "Virginia")
         popdensity[element.title()] = popdensity[element.title()] + 1
+        if len(bio) > 0:
+            for word in bio:
+                (popwords[element.title()]).append(word)
         hit = 1
     elif "," in element:                                                  #IF LOCATION IS GIVEN WITH COMMAS (i.e. "Charlottesville, VA")
         element = element.split(",")
@@ -89,10 +148,16 @@ for element in location_list:
             e = e.strip()
             if e.title() in popdensity:
                 popdensity[e.title()] = popdensity[e.title()] + 1
+                if len(bio) > 0:
+                    for word in bio:
+                        (popwords[e.title()]).append(word)
                 hit = 1
             elif e.upper() in abb_to_state:
                 state = abb_to_state[e.upper()]
                 popdensity[state.title()] = popdensity[state.title()] + 1
+                if len(bio) > 0:
+                    for word in bio:
+                        (popwords[state.title()]).append(word)
                 hit = 1
     elif " " in element:                                                 #IF LOCATION IS GIVEN WITH SPACE (i.e. "Charlottesville VA")
         element = element.split(" ")
@@ -100,14 +165,23 @@ for element in location_list:
             e = e.strip()
             if e.title() in popdensity:
                 popdensity[e.title()] = popdensity[e.title()] + 1
+                if len(bio) > 0:
+                    for word in bio:
+                        (popwords[e.title()]).append(word)
                 hit = 1
             elif e.upper() in abb_to_state:
                 state = abb_to_state[e.upper()]
                 popdensity[state.title()] = popdensity[state.title()] + 1
+                if len(bio) > 0:
+                    for word in bio:
+                        (popwords[state.title()]).append(word)
                 hit = 1
     elif element.upper() in abb_to_state:                                       #IF LOCATION IS GIVEN WITH ABB (i.e. "VA")
         state = abb_to_state[element.upper()]
         popdensity[state.title()] = popdensity[state.title()] + 1
+        if len(bio) > 0:
+            for word in bio:
+                (popwords[state.title()]).append(word)
         hit = 1
     elif "/" in element:                                                  #IF LOCATION IS GIVEN WITH COMMAS (i.e. "Charlottesville/VA")
         element = element.split("/")
@@ -115,10 +189,16 @@ for element in location_list:
             e = e.strip()
             if e.title() in popdensity:
                 popdensity[e.title()] = popdensity[e.title()] + 1
+                if len(bio) > 0:
+                    for word in bio:
+                        (popwords[e.title()]).append(word)
                 hit = 1
             elif e.upper() in abb_to_state:
                 state = abb_to_state[e.upper()]
                 popdensity[state.title()] = popdensity[state.title()] + 1
+                if len(bio) > 0:
+                    for word in bio:
+                        (popwords[state.title()]).append(word)
                 hit = 1
     if hit == 0:
         lost = lost + 1
@@ -202,6 +282,11 @@ ax_c = fig.add_axes([0.9, 0.1, 0.03, 0.8])
 cb = ColorbarBase(ax_c, cmap=cmap, norm=norm, orientation='vertical',
                   label=r'[population per state] ')
 
+def on_plot_hover(event):
+    for curve in ax.get_lines():
+        if curve.contains(event)[0]:
+            print("over %s" % curve.get_gid())
+fig.canvas.mpl_connect('motion_notify_event', on_plot_hover)
 succ = "90% confidence"
 plt.annotate(succ, xy=(-29, 0), xycoords='axes fraction', size=10)
 plt.show()

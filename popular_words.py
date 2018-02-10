@@ -18,5 +18,5 @@ for line in file:
 
 counter = collections.Counter(all_words)
 #print(counter)
-print(counter.most_common(10))
+print(type(counter.most_common(5)[0][0]))
 #print(all_words)
