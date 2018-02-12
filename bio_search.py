@@ -88,11 +88,18 @@ def run():
                                             print("Bad Tweets:", (bad_tweets / total_tweets) * 100)
 
                                             sentfile = open("sent.txt", 'a')
+                                            tweetfile = open("tweets.txt", 'a')
 
                                             sentfile.write("------------------------------")
-                                            sentfile.write("Good Tweets:" + ((good_tweets / total_tweets) * 100))
-                                            sentfile.write("Neutral Tweets:" + ((neutral_tweets / total_tweets) * 100))
-                                            sentfile.write("Bad Tweets:" + ((bad_tweets / total_tweets) * 100))
+                                            sentfile.write("Good Tweets:" + str((good_tweets / total_tweets) * 100))
+                                            sentfile.write(
+                                                "Neutral Tweets:" + str((neutral_tweets / total_tweets) * 100))
+                                            sentfile.write("Bad Tweets:" + str((bad_tweets / total_tweets) * 100))
+
+                                            tweetfile.write(tweet)
+                                            
+                                            sentfile.close()
+                                            tweetfile.close()
 
                                             out = open('vet.txt', 'a')
                                             out2 = open('location.txt', 'a')
