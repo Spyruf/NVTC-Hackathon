@@ -91,6 +91,7 @@ def run():
                                             tweetfile = open("tweets.txt", 'a')
 
                                             sentfile.write("\n------------------------------")
+                                            sentfile.write("\nTotal Tweets:" + str(total_tweets))
                                             sentfile.write("\nGood Tweets:" + str((good_tweets / total_tweets) * 100))
                                             sentfile.write(
                                                 "\nNeutral Tweets:" + str((neutral_tweets / total_tweets) * 100))
