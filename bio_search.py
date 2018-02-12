@@ -81,11 +81,18 @@ def run():
                                                 bad_tweets += 1
                                             elif sent is "netural":
                                                 neutral_tweets += 1
-                                            print("---------------")
+                                            print("------------------------------")
                                             print("Total Tweets:", total_tweets)
                                             print("Good Tweets:", (good_tweets / total_tweets) * 100)
                                             print("Neutral Tweets:", (neutral_tweets / total_tweets) * 100)
                                             print("Bad Tweets:", (bad_tweets / total_tweets) * 100)
+
+                                            sentfile = open("sent.txt", 'a')
+
+                                            sentfile.write("------------------------------")
+                                            sentfile.write("Good Tweets:" + ((good_tweets / total_tweets) * 100))
+                                            sentfile.write("Neutral Tweets:" + ((neutral_tweets / total_tweets) * 100))
+                                            sentfile.write("Bad Tweets:" + ((bad_tweets / total_tweets) * 100))
 
                                             out = open('vet.txt', 'a')
                                             out2 = open('location.txt', 'a')
