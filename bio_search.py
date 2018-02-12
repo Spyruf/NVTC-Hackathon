@@ -97,6 +97,7 @@ def run():
                                                 "\nNeutral Tweets:" + str((neutral_tweets / total_tweets) * 100))
                                             sentfile.write("\nBad Tweets:" + str((bad_tweets / total_tweets) * 100))
 
+                                            tweetfile.write("\n------------------------------\n")
                                             tweetfile.write(tweet)
 
                                             sentfile.close()
