@@ -8983,3 +8983,45 @@ United States : 0
 Avondale, AZ : 0
 Venice, FL : 0
 Dallas, TX : 1
+worldwide : -1
+Springfield : 1
+Iraq 06-08 US NAVY DIRT SAILOR : 0
+United States : -1
+North Carolina, USA : -1
+Penrith, Cumbria : 1
+Orlando, Florida : 1
+Southall/Hayes , West London  : 1
+Louisiana : 0
+New Jersey, USA : 0
+USA : -1
+New England, USA : 0
+Culver City, CA : 1
+Kentucky : 1
+Gainesville, FL : -1
+West Virginia : 0
+Upstate, NY : 1
+los angeles : -1
+MIDWEST USA : 0
+On The Road, in your kitchen, www.GFYS.🖕 : 1
+Virginia : 0
+Venice, FL : 0
+Skåne : -1
+Dallas, TX : 0
+Virginia : 0
+Virginia : 0
+Free State of Jones,MS, USA : 0
+Missouri, USA : -1
+Metro Atlanta area : 1
+Москва : 1
+New York, NY : 0
+Florida, USA : 0
+Nashville TN : 0
+San Diego, CA : -1
+Venice, FL : 0
+Sterling : -1
+San Diego, CA : 0
+Missouri, USA : -1
+South : 0
+Toowoomba Qld : 1
+Southwest Arkansas : -1
+Central west Fla : 0
