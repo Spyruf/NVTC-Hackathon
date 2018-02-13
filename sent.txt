@@ -72094,3 +72094,3833 @@ Total Tweets:375
 Good Tweets:38.13333333333333
 Neutral Tweets:42.4
 Bad Tweets:19.466666666666665
+------------------------------
+Total Tweets:376
+Good Tweets:38.03191489361702
+Neutral Tweets:42.28723404255319
+Bad Tweets:19.680851063829788
+------------------------------
+Total Tweets:377
+Good Tweets:37.93103448275862
+Neutral Tweets:42.44031830238727
+Bad Tweets:19.628647214854112
+------------------------------
+Total Tweets:378
+Good Tweets:38.095238095238095
+Neutral Tweets:42.32804232804233
+Bad Tweets:19.576719576719576
+------------------------------
+Total Tweets:379
+Good Tweets:37.994722955145114
+Neutral Tweets:42.480211081794195
+Bad Tweets:19.525065963060687
+------------------------------
+Total Tweets:380
+Good Tweets:37.89473684210527
+Neutral Tweets:42.368421052631575
+Bad Tweets:19.736842105263158
+------------------------------
+Total Tweets:381
+Good Tweets:37.79527559055118
+Neutral Tweets:42.51968503937008
+Bad Tweets:19.68503937007874
+------------------------------
+Total Tweets:382
+Good Tweets:37.696335078534034
+Neutral Tweets:42.67015706806283
+Bad Tweets:19.63350785340314
+------------------------------
+Total Tweets:383
+Good Tweets:37.59791122715404
+Neutral Tweets:42.81984334203655
+Bad Tweets:19.5822454308094
+------------------------------
+Total Tweets:384
+Good Tweets:37.5
+Neutral Tweets:42.70833333333333
+Bad Tweets:19.791666666666664
+------------------------------
+Total Tweets:385
+Good Tweets:37.66233766233766
+Neutral Tweets:42.59740259740259
+Bad Tweets:19.74025974025974
+------------------------------
+Total Tweets:386
+Good Tweets:37.82383419689119
+Neutral Tweets:42.487046632124354
+Bad Tweets:19.689119170984455
+------------------------------
+Total Tweets:387
+Good Tweets:37.72609819121447
+Neutral Tweets:42.63565891472868
+Bad Tweets:19.638242894056848
+------------------------------
+Total Tweets:388
+Good Tweets:37.628865979381445
+Neutral Tweets:42.78350515463917
+Bad Tweets:19.587628865979383
+------------------------------
+Total Tweets:389
+Good Tweets:37.53213367609254
+Neutral Tweets:42.9305912596401
+Bad Tweets:19.53727506426735
+------------------------------
+Total Tweets:390
+Good Tweets:37.69230769230769
+Neutral Tweets:42.82051282051282
+Bad Tweets:19.48717948717949
+------------------------------
+Total Tweets:391
+Good Tweets:37.59590792838875
+Neutral Tweets:42.96675191815857
+Bad Tweets:19.437340153452684
+------------------------------
+Total Tweets:392
+Good Tweets:37.5
+Neutral Tweets:43.11224489795919
+Bad Tweets:19.387755102040817
+------------------------------
+Total Tweets:393
+Good Tweets:37.404580152671755
+Neutral Tweets:43.25699745547074
+Bad Tweets:19.338422391857506
+------------------------------
+Total Tweets:394
+Good Tweets:37.56345177664975
+Neutral Tweets:43.14720812182741
+Bad Tweets:19.289340101522843
+------------------------------
+Total Tweets:395
+Good Tweets:37.721518987341774
+Neutral Tweets:43.037974683544306
+Bad Tweets:19.240506329113924
+------------------------------
+Total Tweets:396
+Good Tweets:37.878787878787875
+Neutral Tweets:42.92929292929293
+Bad Tweets:19.19191919191919
+------------------------------
+Total Tweets:397
+Good Tweets:38.0352644836272
+Neutral Tweets:42.82115869017632
+Bad Tweets:19.143576826196472
+------------------------------
+Total Tweets:398
+Good Tweets:37.93969849246231
+Neutral Tweets:42.96482412060301
+Bad Tweets:19.09547738693467
+------------------------------
+Total Tweets:399
+Good Tweets:37.84461152882205
+Neutral Tweets:43.10776942355889
+Bad Tweets:19.047619047619047
+------------------------------
+Total Tweets:400
+Good Tweets:38.0
+Neutral Tweets:43.0
+Bad Tweets:19.0
+------------------------------
+Total Tweets:401
+Good Tweets:38.15461346633416
+Neutral Tweets:42.8927680798005
+Bad Tweets:18.952618453865338
+------------------------------
+Total Tweets:402
+Good Tweets:38.059701492537314
+Neutral Tweets:43.03482587064676
+Bad Tweets:18.90547263681592
+------------------------------
+Total Tweets:403
+Good Tweets:37.96526054590571
+Neutral Tweets:42.92803970223325
+Bad Tweets:19.106699751861044
+------------------------------
+Total Tweets:404
+Good Tweets:37.87128712871287
+Neutral Tweets:42.82178217821782
+Bad Tweets:19.306930693069308
+------------------------------
+Total Tweets:405
+Good Tweets:38.02469135802469
+Neutral Tweets:42.71604938271605
+Bad Tweets:19.25925925925926
+------------------------------
+Total Tweets:406
+Good Tweets:37.93103448275862
+Neutral Tweets:42.857142857142854
+Bad Tweets:19.21182266009852
+------------------------------
+Total Tweets:407
+Good Tweets:38.08353808353808
+Neutral Tweets:42.75184275184275
+Bad Tweets:19.164619164619165
+------------------------------
+Total Tweets:408
+Good Tweets:37.99019607843137
+Neutral Tweets:42.8921568627451
+Bad Tweets:19.11764705882353
+------------------------------
+Total Tweets:409
+Good Tweets:38.141809290953546
+Neutral Tweets:42.78728606356968
+Bad Tweets:19.070904645476773
+------------------------------
+Total Tweets:410
+Good Tweets:38.29268292682927
+Neutral Tweets:42.68292682926829
+Bad Tweets:19.024390243902438
+------------------------------
+Total Tweets:411
+Good Tweets:38.19951338199513
+Neutral Tweets:42.82238442822384
+Bad Tweets:18.97810218978102
+------------------------------
+Total Tweets:412
+Good Tweets:38.10679611650485
+Neutral Tweets:42.961165048543684
+Bad Tweets:18.932038834951456
+------------------------------
+Total Tweets:413
+Good Tweets:38.01452784503632
+Neutral Tweets:43.09927360774818
+Bad Tweets:18.886198547215496
+------------------------------
+Total Tweets:414
+Good Tweets:38.164251207729464
+Neutral Tweets:42.99516908212561
+Bad Tweets:18.84057971014493
+------------------------------
+Total Tweets:415
+Good Tweets:38.31325301204819
+Neutral Tweets:42.89156626506024
+Bad Tweets:18.795180722891565
+------------------------------
+Total Tweets:416
+Good Tweets:38.22115384615385
+Neutral Tweets:42.78846153846153
+Bad Tweets:18.990384615384613
+------------------------------
+Total Tweets:417
+Good Tweets:38.1294964028777
+Neutral Tweets:42.68585131894484
+Bad Tweets:19.18465227817746
+------------------------------
+Total Tweets:418
+Good Tweets:38.038277511961724
+Neutral Tweets:42.822966507177036
+Bad Tweets:19.138755980861244
+------------------------------
+Total Tweets:419
+Good Tweets:37.94749403341289
+Neutral Tweets:42.959427207637226
+Bad Tweets:19.09307875894988
+------------------------------
+Total Tweets:420
+Good Tweets:37.857142857142854
+Neutral Tweets:42.857142857142854
+Bad Tweets:19.28571428571429
+------------------------------
+Total Tweets:421
+Good Tweets:38.00475059382423
+Neutral Tweets:42.75534441805225
+Bad Tweets:19.239904988123516
+------------------------------
+Total Tweets:422
+Good Tweets:38.15165876777251
+Neutral Tweets:42.65402843601896
+Bad Tweets:19.194312796208532
+------------------------------
+Total Tweets:423
+Good Tweets:38.297872340425535
+Neutral Tweets:42.5531914893617
+Bad Tweets:19.148936170212767
+------------------------------
+Total Tweets:424
+Good Tweets:38.443396226415096
+Neutral Tweets:42.45283018867924
+Bad Tweets:19.10377358490566
+------------------------------
+Total Tweets:425
+Good Tweets:38.35294117647059
+Neutral Tweets:42.58823529411765
+Bad Tweets:19.058823529411764
+------------------------------
+Total Tweets:426
+Good Tweets:38.497652582159624
+Neutral Tweets:42.48826291079813
+Bad Tweets:19.014084507042252
+------------------------------
+Total Tweets:427
+Good Tweets:38.64168618266979
+Neutral Tweets:42.38875878220141
+Bad Tweets:18.969555035128806
+------------------------------
+Total Tweets:428
+Good Tweets:38.78504672897196
+Neutral Tweets:42.28971962616823
+Bad Tweets:18.925233644859812
+------------------------------
+Total Tweets:429
+Good Tweets:38.6946386946387
+Neutral Tweets:42.19114219114219
+Bad Tweets:19.114219114219114
+------------------------------
+Total Tweets:430
+Good Tweets:38.83720930232558
+Neutral Tweets:42.093023255813954
+Bad Tweets:19.069767441860467
+------------------------------
+Total Tweets:431
+Good Tweets:38.97911832946635
+Neutral Tweets:41.9953596287703
+Bad Tweets:19.02552204176334
+------------------------------
+Total Tweets:432
+Good Tweets:39.120370370370374
+Neutral Tweets:41.898148148148145
+Bad Tweets:18.98148148148148
+------------------------------
+Total Tweets:433
+Good Tweets:39.03002309468822
+Neutral Tweets:42.032332563510394
+Bad Tweets:18.937644341801384
+------------------------------
+Total Tweets:434
+Good Tweets:38.94009216589861
+Neutral Tweets:41.935483870967744
+Bad Tweets:19.12442396313364
+------------------------------
+Total Tweets:435
+Good Tweets:38.85057471264368
+Neutral Tweets:42.06896551724138
+Bad Tweets:19.080459770114942
+------------------------------
+Total Tweets:436
+Good Tweets:38.99082568807339
+Neutral Tweets:41.97247706422018
+Bad Tweets:19.03669724770642
+------------------------------
+Total Tweets:437
+Good Tweets:38.901601830663616
+Neutral Tweets:42.10526315789473
+Bad Tweets:18.993135011441648
+------------------------------
+Total Tweets:438
+Good Tweets:38.81278538812785
+Neutral Tweets:42.00913242009132
+Bad Tweets:19.17808219178082
+------------------------------
+Total Tweets:439
+Good Tweets:38.724373576309794
+Neutral Tweets:42.14123006833713
+Bad Tweets:19.134396355353076
+------------------------------
+Total Tweets:440
+Good Tweets:38.63636363636363
+Neutral Tweets:42.27272727272727
+Bad Tweets:19.090909090909093
+------------------------------
+Total Tweets:441
+Good Tweets:38.54875283446712
+Neutral Tweets:42.17687074829932
+Bad Tweets:19.27437641723356
+------------------------------
+Total Tweets:442
+Good Tweets:38.68778280542987
+Neutral Tweets:42.081447963800905
+Bad Tweets:19.230769230769234
+------------------------------
+Total Tweets:443
+Good Tweets:38.60045146726862
+Neutral Tweets:42.21218961625282
+Bad Tweets:19.187358916478555
+------------------------------
+Total Tweets:444
+Good Tweets:38.513513513513516
+Neutral Tweets:42.34234234234234
+Bad Tweets:19.144144144144143
+------------------------------
+Total Tweets:445
+Good Tweets:38.651685393258425
+Neutral Tweets:42.247191011235955
+Bad Tweets:19.101123595505616
+------------------------------
+Total Tweets:446
+Good Tweets:38.789237668161434
+Neutral Tweets:42.152466367713004
+Bad Tweets:19.05829596412556
+------------------------------
+Total Tweets:447
+Good Tweets:38.92617449664429
+Neutral Tweets:42.05816554809844
+Bad Tweets:19.015659955257274
+------------------------------
+Total Tweets:448
+Good Tweets:39.0625
+Neutral Tweets:41.964285714285715
+Bad Tweets:18.973214285714285
+------------------------------
+Total Tweets:449
+Good Tweets:38.97550111358575
+Neutral Tweets:42.093541202672604
+Bad Tweets:18.93095768374165
+------------------------------
+Total Tweets:450
+Good Tweets:38.88888888888889
+Neutral Tweets:42.22222222222222
+Bad Tweets:18.88888888888889
+------------------------------
+Total Tweets:451
+Good Tweets:38.80266075388026
+Neutral Tweets:42.350332594235034
+Bad Tweets:18.8470066518847
+------------------------------
+Total Tweets:452
+Good Tweets:38.716814159292035
+Neutral Tweets:42.256637168141594
+Bad Tweets:19.02654867256637
+------------------------------
+Total Tweets:453
+Good Tweets:38.852097130242825
+Neutral Tweets:42.16335540838852
+Bad Tweets:18.984547461368653
+------------------------------
+Total Tweets:454
+Good Tweets:38.76651982378855
+Neutral Tweets:42.290748898678416
+Bad Tweets:18.94273127753304
+------------------------------
+Total Tweets:455
+Good Tweets:38.681318681318686
+Neutral Tweets:42.417582417582416
+Bad Tweets:18.9010989010989
+------------------------------
+Total Tweets:456
+Good Tweets:38.59649122807017
+Neutral Tweets:42.54385964912281
+Bad Tweets:18.859649122807017
+------------------------------
+Total Tweets:457
+Good Tweets:38.7308533916849
+Neutral Tweets:42.4507658643326
+Bad Tweets:18.818380743982495
+------------------------------
+Total Tweets:458
+Good Tweets:38.646288209606986
+Neutral Tweets:42.35807860262008
+Bad Tweets:18.995633187772924
+------------------------------
+Total Tweets:459
+Good Tweets:38.56209150326798
+Neutral Tweets:42.48366013071895
+Bad Tweets:18.954248366013072
+------------------------------
+Total Tweets:460
+Good Tweets:38.69565217391304
+Neutral Tweets:42.391304347826086
+Bad Tweets:18.913043478260867
+------------------------------
+Total Tweets:461
+Good Tweets:38.611713665943604
+Neutral Tweets:42.299349240780906
+Bad Tweets:19.088937093275486
+------------------------------
+Total Tweets:462
+Good Tweets:38.52813852813853
+Neutral Tweets:42.42424242424242
+Bad Tweets:19.047619047619047
+------------------------------
+Total Tweets:463
+Good Tweets:38.44492440604751
+Neutral Tweets:42.54859611231102
+Bad Tweets:19.00647948164147
+------------------------------
+Total Tweets:464
+Good Tweets:38.362068965517246
+Neutral Tweets:42.672413793103445
+Bad Tweets:18.96551724137931
+------------------------------
+Total Tweets:465
+Good Tweets:38.494623655913976
+Neutral Tweets:42.58064516129032
+Bad Tweets:18.9247311827957
+------------------------------
+Total Tweets:466
+Good Tweets:38.412017167381975
+Neutral Tweets:42.48927038626609
+Bad Tweets:19.098712446351932
+------------------------------
+Total Tweets:467
+Good Tweets:38.54389721627409
+Neutral Tweets:42.398286937901496
+Bad Tweets:19.05781584582441
+------------------------------
+Total Tweets:468
+Good Tweets:38.675213675213676
+Neutral Tweets:42.30769230769231
+Bad Tweets:19.017094017094017
+------------------------------
+Total Tweets:469
+Good Tweets:38.59275053304904
+Neutral Tweets:42.430703624733475
+Bad Tweets:18.976545842217483
+------------------------------
+Total Tweets:470
+Good Tweets:38.51063829787234
+Neutral Tweets:42.5531914893617
+Bad Tweets:18.93617021276596
+------------------------------
+Total Tweets:471
+Good Tweets:38.6411889596603
+Neutral Tweets:42.462845010615716
+Bad Tweets:18.895966029723994
+------------------------------
+Total Tweets:472
+Good Tweets:38.559322033898304
+Neutral Tweets:42.58474576271186
+Bad Tweets:18.85593220338983
+------------------------------
+Total Tweets:473
+Good Tweets:38.47780126849894
+Neutral Tweets:42.706131078224104
+Bad Tweets:18.816067653276956
+------------------------------
+Total Tweets:474
+Good Tweets:38.607594936708864
+Neutral Tweets:42.616033755274266
+Bad Tweets:18.776371308016877
+------------------------------
+Total Tweets:475
+Good Tweets:38.526315789473685
+Neutral Tweets:42.73684210526316
+Bad Tweets:18.736842105263158
+------------------------------
+Total Tweets:476
+Good Tweets:38.445378151260506
+Neutral Tweets:42.857142857142854
+Bad Tweets:18.69747899159664
+------------------------------
+Total Tweets:477
+Good Tweets:38.36477987421384
+Neutral Tweets:42.76729559748428
+Bad Tweets:18.867924528301888
+------------------------------
+Total Tweets:478
+Good Tweets:38.28451882845189
+Neutral Tweets:42.67782426778243
+Bad Tweets:19.03765690376569
+------------------------------
+Total Tweets:479
+Good Tweets:38.413361169102295
+Neutral Tweets:42.58872651356994
+Bad Tweets:18.997912317327767
+------------------------------
+Total Tweets:480
+Good Tweets:38.333333333333336
+Neutral Tweets:42.70833333333333
+Bad Tweets:18.958333333333332
+------------------------------
+Total Tweets:481
+Good Tweets:38.25363825363826
+Neutral Tweets:42.82744282744283
+Bad Tweets:18.91891891891892
+------------------------------
+Total Tweets:482
+Good Tweets:38.38174273858922
+Neutral Tweets:42.738589211618255
+Bad Tweets:18.87966804979253
+------------------------------
+Total Tweets:483
+Good Tweets:38.50931677018634
+Neutral Tweets:42.65010351966873
+Bad Tweets:18.84057971014493
+------------------------------
+Total Tweets:484
+Good Tweets:38.63636363636363
+Neutral Tweets:42.561983471074385
+Bad Tweets:18.801652892561986
+------------------------------
+Total Tweets:485
+Good Tweets:38.55670103092784
+Neutral Tweets:42.68041237113402
+Bad Tweets:18.762886597938145
+------------------------------
+Total Tweets:486
+Good Tweets:38.477366255144034
+Neutral Tweets:42.592592592592595
+Bad Tweets:18.930041152263374
+------------------------------
+Total Tweets:487
+Good Tweets:38.398357289527716
+Neutral Tweets:42.71047227926078
+Bad Tweets:18.8911704312115
+------------------------------
+Total Tweets:488
+Good Tweets:38.31967213114754
+Neutral Tweets:42.82786885245902
+Bad Tweets:18.852459016393443
+------------------------------
+Total Tweets:489
+Good Tweets:38.445807770961146
+Neutral Tweets:42.740286298568506
+Bad Tweets:18.813905930470348
+------------------------------
+Total Tweets:490
+Good Tweets:38.36734693877551
+Neutral Tweets:42.857142857142854
+Bad Tweets:18.775510204081634
+------------------------------
+Total Tweets:491
+Good Tweets:38.289205702647656
+Neutral Tweets:42.973523421588595
+Bad Tweets:18.73727087576375
+------------------------------
+Total Tweets:492
+Good Tweets:38.21138211382114
+Neutral Tweets:42.886178861788615
+Bad Tweets:18.902439024390244
+------------------------------
+Total Tweets:493
+Good Tweets:38.13387423935091
+Neutral Tweets:43.00202839756592
+Bad Tweets:18.864097363083165
+------------------------------
+Total Tweets:494
+Good Tweets:38.05668016194332
+Neutral Tweets:42.91497975708502
+Bad Tweets:19.02834008097166
+------------------------------
+Total Tweets:495
+Good Tweets:37.97979797979798
+Neutral Tweets:43.03030303030303
+Bad Tweets:18.98989898989899
+------------------------------
+Total Tweets:496
+Good Tweets:38.104838709677416
+Neutral Tweets:42.943548387096776
+Bad Tweets:18.951612903225808
+------------------------------
+Total Tweets:497
+Good Tweets:38.22937625754527
+Neutral Tweets:42.857142857142854
+Bad Tweets:18.91348088531187
+------------------------------
+Total Tweets:498
+Good Tweets:38.35341365461847
+Neutral Tweets:42.77108433734939
+Bad Tweets:18.87550200803213
+------------------------------
+Total Tweets:499
+Good Tweets:38.476953907815634
+Neutral Tweets:42.68537074148296
+Bad Tweets:18.837675350701403
+------------------------------
+Total Tweets:500
+Good Tweets:38.4
+Neutral Tweets:42.8
+Bad Tweets:18.8
+------------------------------
+Total Tweets:501
+Good Tweets:38.32335329341318
+Neutral Tweets:42.91417165668663
+Bad Tweets:18.7624750499002
+------------------------------
+Total Tweets:502
+Good Tweets:38.24701195219124
+Neutral Tweets:43.02788844621514
+Bad Tweets:18.725099601593627
+------------------------------
+Total Tweets:503
+Good Tweets:38.17097415506958
+Neutral Tweets:43.141153081510936
+Bad Tweets:18.687872763419485
+------------------------------
+Total Tweets:504
+Good Tweets:38.095238095238095
+Neutral Tweets:43.05555555555556
+Bad Tweets:18.849206349206348
+------------------------------
+Total Tweets:505
+Good Tweets:38.01980198019802
+Neutral Tweets:42.97029702970297
+Bad Tweets:19.00990099009901
+------------------------------
+Total Tweets:506
+Good Tweets:38.14229249011858
+Neutral Tweets:42.88537549407115
+Bad Tweets:18.972332015810274
+------------------------------
+Total Tweets:507
+Good Tweets:38.06706114398422
+Neutral Tweets:42.998027613412226
+Bad Tweets:18.93491124260355
+------------------------------
+Total Tweets:508
+Good Tweets:38.188976377952756
+Neutral Tweets:42.91338582677165
+Bad Tweets:18.89763779527559
+------------------------------
+Total Tweets:509
+Good Tweets:38.1139489194499
+Neutral Tweets:42.82907662082515
+Bad Tweets:19.05697445972495
+------------------------------
+Total Tweets:510
+Good Tweets:38.03921568627451
+Neutral Tweets:42.94117647058823
+Bad Tweets:19.019607843137255
+------------------------------
+Total Tweets:511
+Good Tweets:37.96477495107632
+Neutral Tweets:43.05283757338552
+Bad Tweets:18.98238747553816
+------------------------------
+Total Tweets:512
+Good Tweets:37.890625
+Neutral Tweets:43.1640625
+Bad Tweets:18.9453125
+------------------------------
+Total Tweets:513
+Good Tweets:37.8167641325536
+Neutral Tweets:43.27485380116959
+Bad Tweets:18.9083820662768
+------------------------------
+Total Tweets:514
+Good Tweets:37.7431906614786
+Neutral Tweets:43.190661478599225
+Bad Tweets:19.06614785992218
+------------------------------
+Total Tweets:515
+Good Tweets:37.66990291262136
+Neutral Tweets:43.30097087378641
+Bad Tweets:19.02912621359223
+------------------------------
+Total Tweets:516
+Good Tweets:37.7906976744186
+Neutral Tweets:43.21705426356589
+Bad Tweets:18.992248062015506
+------------------------------
+Total Tweets:517
+Good Tweets:37.9110251450677
+Neutral Tweets:43.133462282398455
+Bad Tweets:18.95551257253385
+------------------------------
+Total Tweets:518
+Good Tweets:38.030888030888036
+Neutral Tweets:43.050193050193045
+Bad Tweets:18.91891891891892
+------------------------------
+Total Tweets:519
+Good Tweets:37.957610789980734
+Neutral Tweets:43.15992292870906
+Bad Tweets:18.88246628131021
+------------------------------
+Total Tweets:520
+Good Tweets:37.88461538461539
+Neutral Tweets:43.269230769230774
+Bad Tweets:18.846153846153847
+------------------------------
+Total Tweets:521
+Good Tweets:37.81190019193858
+Neutral Tweets:43.186180422264876
+Bad Tweets:19.001919385796544
+------------------------------
+Total Tweets:522
+Good Tweets:37.73946360153257
+Neutral Tweets:43.29501915708812
+Bad Tweets:18.96551724137931
+------------------------------
+Total Tweets:523
+Good Tweets:37.858508604206506
+Neutral Tweets:43.21223709369025
+Bad Tweets:18.929254302103253
+------------------------------
+Total Tweets:524
+Good Tweets:37.786259541984734
+Neutral Tweets:43.12977099236641
+Bad Tweets:19.083969465648856
+------------------------------
+Total Tweets:525
+Good Tweets:37.714285714285715
+Neutral Tweets:43.238095238095234
+Bad Tweets:19.047619047619047
+------------------------------
+Total Tweets:526
+Good Tweets:37.6425855513308
+Neutral Tweets:43.155893536121674
+Bad Tweets:19.20152091254753
+------------------------------
+Total Tweets:527
+Good Tweets:37.76091081593928
+Neutral Tweets:43.07400379506641
+Bad Tweets:19.165085388994306
+------------------------------
+Total Tweets:528
+Good Tweets:37.68939393939394
+Neutral Tweets:42.99242424242424
+Bad Tweets:19.318181818181817
+------------------------------
+Total Tweets:529
+Good Tweets:37.80718336483932
+Neutral Tweets:42.911153119092624
+Bad Tweets:19.281663516068054
+------------------------------
+Total Tweets:530
+Good Tweets:37.735849056603776
+Neutral Tweets:42.83018867924528
+Bad Tweets:19.433962264150946
+------------------------------
+Total Tweets:531
+Good Tweets:37.664783427495294
+Neutral Tweets:42.93785310734463
+Bad Tweets:19.397363465160076
+------------------------------
+Total Tweets:532
+Good Tweets:37.59398496240601
+Neutral Tweets:43.045112781954884
+Bad Tweets:19.360902255639097
+------------------------------
+Total Tweets:533
+Good Tweets:37.5234521575985
+Neutral Tweets:43.151969981238274
+Bad Tweets:19.324577861163228
+------------------------------
+Total Tweets:534
+Good Tweets:37.453183520599254
+Neutral Tweets:43.258426966292134
+Bad Tweets:19.288389513108616
+------------------------------
+Total Tweets:535
+Good Tweets:37.570093457943926
+Neutral Tweets:43.177570093457945
+Bad Tweets:19.252336448598133
+------------------------------
+Total Tweets:536
+Good Tweets:37.5
+Neutral Tweets:43.09701492537313
+Bad Tweets:19.402985074626866
+------------------------------
+Total Tweets:537
+Good Tweets:37.61638733705773
+Neutral Tweets:43.01675977653631
+Bad Tweets:19.366852886405958
+------------------------------
+Total Tweets:538
+Good Tweets:37.54646840148699
+Neutral Tweets:42.93680297397769
+Bad Tweets:19.516728624535315
+------------------------------
+Total Tweets:539
+Good Tweets:37.47680890538033
+Neutral Tweets:42.857142857142854
+Bad Tweets:19.666048237476808
+------------------------------
+Total Tweets:540
+Good Tweets:37.407407407407405
+Neutral Tweets:42.77777777777778
+Bad Tweets:19.814814814814817
+------------------------------
+Total Tweets:541
+Good Tweets:37.52310536044362
+Neutral Tweets:42.69870609981516
+Bad Tweets:19.77818853974122
+------------------------------
+Total Tweets:542
+Good Tweets:37.63837638376384
+Neutral Tweets:42.61992619926199
+Bad Tweets:19.74169741697417
+------------------------------
+Total Tweets:543
+Good Tweets:37.569060773480665
+Neutral Tweets:42.5414364640884
+Bad Tweets:19.88950276243094
+------------------------------
+Total Tweets:544
+Good Tweets:37.5
+Neutral Tweets:42.463235294117645
+Bad Tweets:20.036764705882355
+------------------------------
+Total Tweets:545
+Good Tweets:37.61467889908257
+Neutral Tweets:42.38532110091743
+Bad Tweets:20.0
+------------------------------
+Total Tweets:546
+Good Tweets:37.72893772893773
+Neutral Tweets:42.30769230769231
+Bad Tweets:19.963369963369964
+------------------------------
+Total Tweets:547
+Good Tweets:37.842778793418645
+Neutral Tweets:42.230347349177336
+Bad Tweets:19.926873857404022
+------------------------------
+Total Tweets:548
+Good Tweets:37.77372262773723
+Neutral Tweets:42.153284671532845
+Bad Tweets:20.072992700729927
+------------------------------
+Total Tweets:549
+Good Tweets:37.704918032786885
+Neutral Tweets:42.25865209471767
+Bad Tweets:20.036429872495447
+------------------------------
+Total Tweets:550
+Good Tweets:37.81818181818182
+Neutral Tweets:42.18181818181818
+Bad Tweets:20.0
+------------------------------
+Total Tweets:551
+Good Tweets:37.93103448275862
+Neutral Tweets:42.10526315789473
+Bad Tweets:19.96370235934664
+------------------------------
+Total Tweets:552
+Good Tweets:38.04347826086957
+Neutral Tweets:42.028985507246375
+Bad Tweets:19.92753623188406
+------------------------------
+Total Tweets:553
+Good Tweets:38.155515370705245
+Neutral Tweets:41.952983725135624
+Bad Tweets:19.89150090415913
+------------------------------
+Total Tweets:554
+Good Tweets:38.08664259927797
+Neutral Tweets:42.057761732851986
+Bad Tweets:19.855595667870034
+------------------------------
+Total Tweets:555
+Good Tweets:38.1981981981982
+Neutral Tweets:41.98198198198198
+Bad Tweets:19.81981981981982
+------------------------------
+Total Tweets:556
+Good Tweets:38.30935251798561
+Neutral Tweets:41.906474820143885
+Bad Tweets:19.784172661870503
+------------------------------
+Total Tweets:557
+Good Tweets:38.240574506283664
+Neutral Tweets:42.010771992818675
+Bad Tweets:19.748653500897667
+------------------------------
+Total Tweets:558
+Good Tweets:38.35125448028674
+Neutral Tweets:41.935483870967744
+Bad Tweets:19.71326164874552
+------------------------------
+Total Tweets:559
+Good Tweets:38.46153846153847
+Neutral Tweets:41.86046511627907
+Bad Tweets:19.67799642218247
+------------------------------
+Total Tweets:560
+Good Tweets:38.392857142857146
+Neutral Tweets:41.964285714285715
+Bad Tweets:19.642857142857142
+------------------------------
+Total Tweets:561
+Good Tweets:38.50267379679144
+Neutral Tweets:41.889483065953655
+Bad Tweets:19.607843137254903
+------------------------------
+Total Tweets:562
+Good Tweets:38.612099644128115
+Neutral Tweets:41.81494661921708
+Bad Tweets:19.572953736654807
+------------------------------
+Total Tweets:563
+Good Tweets:38.54351687388988
+Neutral Tweets:41.91829484902309
+Bad Tweets:19.538188277087034
+------------------------------
+Total Tweets:564
+Good Tweets:38.47517730496454
+Neutral Tweets:41.843971631205676
+Bad Tweets:19.680851063829788
+------------------------------
+Total Tweets:565
+Good Tweets:38.4070796460177
+Neutral Tweets:41.769911504424776
+Bad Tweets:19.82300884955752
+------------------------------
+Total Tweets:566
+Good Tweets:38.515901060070675
+Neutral Tweets:41.69611307420495
+Bad Tweets:19.78798586572438
+------------------------------
+Total Tweets:567
+Good Tweets:38.447971781305114
+Neutral Tweets:41.622574955908284
+Bad Tweets:19.929453262786595
+------------------------------
+Total Tweets:568
+Good Tweets:38.556338028169016
+Neutral Tweets:41.54929577464789
+Bad Tweets:19.8943661971831
+------------------------------
+Total Tweets:569
+Good Tweets:38.488576449912124
+Neutral Tweets:41.65202108963093
+Bad Tweets:19.85940246045694
+------------------------------
+Total Tweets:570
+Good Tweets:38.421052631578945
+Neutral Tweets:41.578947368421055
+Bad Tweets:20.0
+------------------------------
+Total Tweets:571
+Good Tweets:38.353765323992995
+Neutral Tweets:41.68126094570928
+Bad Tweets:19.96497373029772
+------------------------------
+Total Tweets:572
+Good Tweets:38.46153846153847
+Neutral Tweets:41.60839160839161
+Bad Tweets:19.93006993006993
+------------------------------
+Total Tweets:573
+Good Tweets:38.39441535776614
+Neutral Tweets:41.53577661431064
+Bad Tweets:20.069808027923212
+------------------------------
+Total Tweets:574
+Good Tweets:38.32752613240418
+Neutral Tweets:41.46341463414634
+Bad Tweets:20.209059233449477
+------------------------------
+Total Tweets:575
+Good Tweets:38.43478260869565
+Neutral Tweets:41.391304347826086
+Bad Tweets:20.17391304347826
+------------------------------
+Total Tweets:576
+Good Tweets:38.36805555555556
+Neutral Tweets:41.49305555555556
+Bad Tweets:20.13888888888889
+------------------------------
+Total Tweets:577
+Good Tweets:38.30155979202773
+Neutral Tweets:41.59445407279029
+Bad Tweets:20.103986135181977
+------------------------------
+Total Tweets:578
+Good Tweets:38.23529411764706
+Neutral Tweets:41.69550173010381
+Bad Tweets:20.069204152249135
+------------------------------
+Total Tweets:579
+Good Tweets:38.1692573402418
+Neutral Tweets:41.796200345423145
+Bad Tweets:20.03454231433506
+------------------------------
+Total Tweets:580
+Good Tweets:38.275862068965516
+Neutral Tweets:41.724137931034484
+Bad Tweets:20.0
+------------------------------
+Total Tweets:581
+Good Tweets:38.38209982788296
+Neutral Tweets:41.65232358003442
+Bad Tweets:19.965576592082616
+------------------------------
+Total Tweets:582
+Good Tweets:38.31615120274915
+Neutral Tweets:41.580756013745706
+Bad Tweets:20.103092783505154
+------------------------------
+Total Tweets:583
+Good Tweets:38.42195540308747
+Neutral Tweets:41.509433962264154
+Bad Tweets:20.06861063464837
+------------------------------
+Total Tweets:584
+Good Tweets:38.35616438356164
+Neutral Tweets:41.43835616438356
+Bad Tweets:20.205479452054796
+------------------------------
+Total Tweets:585
+Good Tweets:38.2905982905983
+Neutral Tweets:41.36752136752136
+Bad Tweets:20.34188034188034
+------------------------------
+Total Tweets:586
+Good Tweets:38.395904436860064
+Neutral Tweets:41.29692832764505
+Bad Tweets:20.30716723549488
+------------------------------
+Total Tweets:587
+Good Tweets:38.33049403747871
+Neutral Tweets:41.22657580919932
+Bad Tweets:20.442930153321974
+------------------------------
+Total Tweets:588
+Good Tweets:38.435374149659864
+Neutral Tweets:41.156462585034014
+Bad Tweets:20.408163265306122
+------------------------------
+Total Tweets:589
+Good Tweets:38.37011884550085
+Neutral Tweets:41.25636672325976
+Bad Tweets:20.37351443123939
+------------------------------
+Total Tweets:590
+Good Tweets:38.30508474576271
+Neutral Tweets:41.35593220338983
+Bad Tweets:20.33898305084746
+------------------------------
+Total Tweets:591
+Good Tweets:38.24027072758037
+Neutral Tweets:41.455160744500844
+Bad Tweets:20.304568527918782
+------------------------------
+Total Tweets:592
+Good Tweets:38.17567567567568
+Neutral Tweets:41.55405405405405
+Bad Tweets:20.27027027027027
+------------------------------
+Total Tweets:593
+Good Tweets:38.11129848229342
+Neutral Tweets:41.65261382799326
+Bad Tweets:20.236087689713322
+------------------------------
+Total Tweets:594
+Good Tweets:38.04713804713805
+Neutral Tweets:41.75084175084175
+Bad Tweets:20.2020202020202
+------------------------------
+Total Tweets:595
+Good Tweets:37.983193277310924
+Neutral Tweets:41.680672268907564
+Bad Tweets:20.33613445378151
+------------------------------
+Total Tweets:596
+Good Tweets:38.08724832214765
+Neutral Tweets:41.61073825503356
+Bad Tweets:20.302013422818792
+------------------------------
+Total Tweets:597
+Good Tweets:38.02345058626466
+Neutral Tweets:41.70854271356784
+Bad Tweets:20.268006700167504
+------------------------------
+Total Tweets:598
+Good Tweets:37.95986622073579
+Neutral Tweets:41.63879598662207
+Bad Tweets:20.401337792642142
+------------------------------
+Total Tweets:599
+Good Tweets:37.89649415692821
+Neutral Tweets:41.736227045075125
+Bad Tweets:20.36727879799666
+------------------------------
+Total Tweets:600
+Good Tweets:37.833333333333336
+Neutral Tweets:41.833333333333336
+Bad Tweets:20.333333333333332
+------------------------------
+Total Tweets:601
+Good Tweets:37.770382695507486
+Neutral Tweets:41.930116472545755
+Bad Tweets:20.299500831946755
+------------------------------
+Total Tweets:602
+Good Tweets:37.70764119601329
+Neutral Tweets:42.0265780730897
+Bad Tweets:20.26578073089701
+------------------------------
+Total Tweets:603
+Good Tweets:37.81094527363184
+Neutral Tweets:41.956882255389715
+Bad Tweets:20.23217247097844
+------------------------------
+Total Tweets:604
+Good Tweets:37.74834437086093
+Neutral Tweets:42.05298013245033
+Bad Tweets:20.198675496688743
+------------------------------
+Total Tweets:605
+Good Tweets:37.85123966942149
+Neutral Tweets:41.98347107438016
+Bad Tweets:20.165289256198346
+------------------------------
+Total Tweets:606
+Good Tweets:37.78877887788779
+Neutral Tweets:42.07920792079208
+Bad Tweets:20.13201320132013
+------------------------------
+Total Tweets:607
+Good Tweets:37.89126853377265
+Neutral Tweets:42.00988467874794
+Bad Tweets:20.098846787479406
+------------------------------
+Total Tweets:608
+Good Tweets:37.993421052631575
+Neutral Tweets:41.94078947368421
+Bad Tweets:20.065789473684212
+------------------------------
+Total Tweets:609
+Good Tweets:38.095238095238095
+Neutral Tweets:41.87192118226601
+Bad Tweets:20.032840722495894
+------------------------------
+Total Tweets:610
+Good Tweets:38.196721311475414
+Neutral Tweets:41.80327868852459
+Bad Tweets:20.0
+------------------------------
+Total Tweets:611
+Good Tweets:38.1342062193126
+Neutral Tweets:41.734860883797054
+Bad Tweets:20.130932896890343
+------------------------------
+Total Tweets:612
+Good Tweets:38.0718954248366
+Neutral Tweets:41.830065359477125
+Bad Tweets:20.098039215686274
+------------------------------
+Total Tweets:613
+Good Tweets:38.00978792822186
+Neutral Tweets:41.92495921696574
+Bad Tweets:20.0652528548124
+------------------------------
+Total Tweets:614
+Good Tweets:38.11074918566775
+Neutral Tweets:41.85667752442997
+Bad Tweets:20.03257328990228
+------------------------------
+Total Tweets:615
+Good Tweets:38.21138211382114
+Neutral Tweets:41.78861788617886
+Bad Tweets:20.0
+------------------------------
+Total Tweets:616
+Good Tweets:38.14935064935065
+Neutral Tweets:41.72077922077922
+Bad Tweets:20.12987012987013
+------------------------------
+Total Tweets:617
+Good Tweets:38.087520259319284
+Neutral Tweets:41.81523500810373
+Bad Tweets:20.097244732576986
+------------------------------
+Total Tweets:618
+Good Tweets:38.18770226537217
+Neutral Tweets:41.74757281553398
+Bad Tweets:20.06472491909385
+------------------------------
+Total Tweets:619
+Good Tweets:38.12600969305331
+Neutral Tweets:41.84168012924071
+Bad Tweets:20.032310177705977
+------------------------------
+Total Tweets:620
+Good Tweets:38.225806451612904
+Neutral Tweets:41.774193548387096
+Bad Tweets:20.0
+------------------------------
+Total Tweets:621
+Good Tweets:38.32528180354267
+Neutral Tweets:41.70692431561997
+Bad Tweets:19.96779388083736
+------------------------------
+Total Tweets:622
+Good Tweets:38.42443729903537
+Neutral Tweets:41.639871382636656
+Bad Tweets:19.935691318327976
+------------------------------
+Total Tweets:623
+Good Tweets:38.52327447833066
+Neutral Tweets:41.57303370786517
+Bad Tweets:19.903691813804173
+------------------------------
+Total Tweets:624
+Good Tweets:38.46153846153847
+Neutral Tweets:41.506410256410255
+Bad Tweets:20.032051282051285
+------------------------------
+Total Tweets:625
+Good Tweets:38.56
+Neutral Tweets:41.44
+Bad Tweets:20.0
+------------------------------
+Total Tweets:626
+Good Tweets:38.65814696485623
+Neutral Tweets:41.373801916932905
+Bad Tweets:19.968051118210862
+------------------------------
+Total Tweets:627
+Good Tweets:38.75598086124402
+Neutral Tweets:41.30781499202552
+Bad Tweets:19.936204146730464
+------------------------------
+Total Tweets:628
+Good Tweets:38.853503184713375
+Neutral Tweets:41.24203821656051
+Bad Tweets:19.904458598726116
+------------------------------
+Total Tweets:629
+Good Tweets:38.950715421303656
+Neutral Tweets:41.17647058823529
+Bad Tweets:19.87281399046105
+------------------------------
+Total Tweets:630
+Good Tweets:39.04761904761905
+Neutral Tweets:41.11111111111111
+Bad Tweets:19.841269841269842
+------------------------------
+Total Tweets:631
+Good Tweets:38.985736925515056
+Neutral Tweets:41.20443740095087
+Bad Tweets:19.809825673534075
+------------------------------
+Total Tweets:632
+Good Tweets:38.924050632911396
+Neutral Tweets:41.139240506329116
+Bad Tweets:19.936708860759495
+------------------------------
+Total Tweets:633
+Good Tweets:38.862559241706165
+Neutral Tweets:41.07424960505529
+Bad Tweets:20.063191153238545
+------------------------------
+Total Tweets:634
+Good Tweets:38.958990536277604
+Neutral Tweets:41.00946372239748
+Bad Tweets:20.031545741324923
+------------------------------
+Total Tweets:635
+Good Tweets:38.89763779527559
+Neutral Tweets:41.10236220472441
+Bad Tweets:20.0
+------------------------------
+Total Tweets:636
+Good Tweets:38.83647798742139
+Neutral Tweets:41.19496855345912
+Bad Tweets:19.968553459119498
+------------------------------
+Total Tweets:637
+Good Tweets:38.93249607535322
+Neutral Tweets:41.13029827315541
+Bad Tweets:19.937205651491364
+------------------------------
+Total Tweets:638
+Good Tweets:38.87147335423197
+Neutral Tweets:41.06583072100313
+Bad Tweets:20.06269592476489
+------------------------------
+Total Tweets:639
+Good Tweets:38.810641627543035
+Neutral Tweets:41.158059467918626
+Bad Tweets:20.031298904538342
+------------------------------
+Total Tweets:640
+Good Tweets:38.75
+Neutral Tweets:41.09375
+Bad Tweets:20.15625
+------------------------------
+Total Tweets:641
+Good Tweets:38.84555382215289
+Neutral Tweets:41.02964118564743
+Bad Tweets:20.12480499219969
+------------------------------
+Total Tweets:642
+Good Tweets:38.78504672897196
+Neutral Tweets:41.1214953271028
+Bad Tweets:20.093457943925234
+------------------------------
+Total Tweets:643
+Good Tweets:38.88024883359253
+Neutral Tweets:41.05754276827372
+Bad Tweets:20.06220839813375
+------------------------------
+Total Tweets:644
+Good Tweets:38.81987577639752
+Neutral Tweets:41.14906832298137
+Bad Tweets:20.031055900621116
+------------------------------
+Total Tweets:645
+Good Tweets:38.91472868217054
+Neutral Tweets:41.08527131782946
+Bad Tweets:20.0
+------------------------------
+Total Tweets:646
+Good Tweets:38.85448916408669
+Neutral Tweets:41.17647058823529
+Bad Tweets:19.96904024767802
+------------------------------
+Total Tweets:647
+Good Tweets:38.94899536321484
+Neutral Tweets:41.112828438948995
+Bad Tweets:19.938176197836167
+------------------------------
+Total Tweets:648
+Good Tweets:38.88888888888889
+Neutral Tweets:41.2037037037037
+Bad Tweets:19.90740740740741
+------------------------------
+Total Tweets:649
+Good Tweets:38.82896764252696
+Neutral Tweets:41.294298921417564
+Bad Tweets:19.876733436055467
+------------------------------
+Total Tweets:650
+Good Tweets:38.92307692307692
+Neutral Tweets:41.23076923076923
+Bad Tweets:19.846153846153847
+------------------------------
+Total Tweets:651
+Good Tweets:38.863287250384026
+Neutral Tweets:41.321044546851
+Bad Tweets:19.81566820276498
+------------------------------
+Total Tweets:652
+Good Tweets:38.95705521472393
+Neutral Tweets:41.25766871165644
+Bad Tweets:19.78527607361963
+------------------------------
+Total Tweets:653
+Good Tweets:39.05053598774885
+Neutral Tweets:41.19448698315467
+Bad Tweets:19.754977029096477
+------------------------------
+Total Tweets:654
+Good Tweets:39.14373088685015
+Neutral Tweets:41.13149847094802
+Bad Tweets:19.724770642201836
+------------------------------
+Total Tweets:655
+Good Tweets:39.23664122137404
+Neutral Tweets:41.06870229007634
+Bad Tweets:19.69465648854962
+------------------------------
+Total Tweets:656
+Good Tweets:39.329268292682926
+Neutral Tweets:41.006097560975604
+Bad Tweets:19.664634146341463
+------------------------------
+Total Tweets:657
+Good Tweets:39.26940639269406
+Neutral Tweets:41.0958904109589
+Bad Tweets:19.63470319634703
+------------------------------
+Total Tweets:658
+Good Tweets:39.361702127659576
+Neutral Tweets:41.03343465045592
+Bad Tweets:19.6048632218845
+------------------------------
+Total Tweets:659
+Good Tweets:39.45371775417299
+Neutral Tweets:40.971168437025796
+Bad Tweets:19.575113808801213
+------------------------------
+Total Tweets:660
+Good Tweets:39.39393939393939
+Neutral Tweets:40.909090909090914
+Bad Tweets:19.696969696969695
+------------------------------
+Total Tweets:661
+Good Tweets:39.334341906202724
+Neutral Tweets:40.998487140695914
+Bad Tweets:19.667170953101362
+------------------------------
+Total Tweets:662
+Good Tweets:39.274924471299094
+Neutral Tweets:41.08761329305136
+Bad Tweets:19.637462235649547
+------------------------------
+Total Tweets:663
+Good Tweets:39.21568627450981
+Neutral Tweets:41.02564102564102
+Bad Tweets:19.75867269984917
+------------------------------
+Total Tweets:664
+Good Tweets:39.1566265060241
+Neutral Tweets:40.963855421686745
+Bad Tweets:19.879518072289155
+------------------------------
+Total Tweets:665
+Good Tweets:39.097744360902254
+Neutral Tweets:40.902255639097746
+Bad Tweets:20.0
+------------------------------
+Total Tweets:666
+Good Tweets:39.189189189189186
+Neutral Tweets:40.84084084084084
+Bad Tweets:19.96996996996997
+------------------------------
+Total Tweets:667
+Good Tweets:39.130434782608695
+Neutral Tweets:40.929535232383806
+Bad Tweets:19.940029985007495
+------------------------------
+Total Tweets:668
+Good Tweets:39.221556886227546
+Neutral Tweets:40.86826347305389
+Bad Tweets:19.91017964071856
+------------------------------
+Total Tweets:669
+Good Tweets:39.162929745889386
+Neutral Tweets:40.80717488789238
+Bad Tweets:20.029895366218238
+------------------------------
+Total Tweets:670
+Good Tweets:39.1044776119403
+Neutral Tweets:40.8955223880597
+Bad Tweets:20.0
+------------------------------
+Total Tweets:671
+Good Tweets:39.195230998509686
+Neutral Tweets:40.83457526080477
+Bad Tweets:19.970193740685545
+------------------------------
+Total Tweets:672
+Good Tweets:39.13690476190476
+Neutral Tweets:40.922619047619044
+Bad Tweets:19.940476190476193
+------------------------------
+Total Tweets:673
+Good Tweets:39.22734026745914
+Neutral Tweets:40.861812778603266
+Bad Tweets:19.910846953937593
+------------------------------
+Total Tweets:674
+Good Tweets:39.16913946587537
+Neutral Tweets:40.94955489614243
+Bad Tweets:19.881305637982198
+------------------------------
+Total Tweets:675
+Good Tweets:39.111111111111114
+Neutral Tweets:41.03703703703704
+Bad Tweets:19.85185185185185
+------------------------------
+Total Tweets:676
+Good Tweets:39.053254437869825
+Neutral Tweets:41.124260355029584
+Bad Tweets:19.82248520710059
+------------------------------
+Total Tweets:677
+Good Tweets:39.14327917282127
+Neutral Tweets:41.06351550960118
+Bad Tweets:19.79320531757755
+------------------------------
+Total Tweets:678
+Good Tweets:39.08554572271387
+Neutral Tweets:41.150442477876105
+Bad Tweets:19.76401179941003
+------------------------------
+Total Tweets:679
+Good Tweets:39.0279823269514
+Neutral Tweets:41.08983799705449
+Bad Tweets:19.88217967599411
+------------------------------
+Total Tweets:680
+Good Tweets:39.11764705882353
+Neutral Tweets:41.029411764705884
+Bad Tweets:19.852941176470587
+------------------------------
+Total Tweets:681
+Good Tweets:39.06020558002937
+Neutral Tweets:41.116005873715125
+Bad Tweets:19.823788546255507
+------------------------------
+Total Tweets:682
+Good Tweets:39.14956011730205
+Neutral Tweets:41.05571847507331
+Bad Tweets:19.794721407624632
+------------------------------
+Total Tweets:683
+Good Tweets:39.0922401171303
+Neutral Tweets:41.142020497803806
+Bad Tweets:19.765739385065885
+------------------------------
+Total Tweets:684
+Good Tweets:39.03508771929825
+Neutral Tweets:41.08187134502924
+Bad Tweets:19.883040935672515
+------------------------------
+Total Tweets:685
+Good Tweets:39.12408759124087
+Neutral Tweets:41.021897810218974
+Bad Tweets:19.854014598540147
+------------------------------
+Total Tweets:686
+Good Tweets:39.2128279883382
+Neutral Tweets:40.96209912536443
+Bad Tweets:19.825072886297377
+------------------------------
+Total Tweets:687
+Good Tweets:39.30131004366812
+Neutral Tweets:40.90247452692867
+Bad Tweets:19.7962154294032
+------------------------------
+Total Tweets:688
+Good Tweets:39.38953488372093
+Neutral Tweets:40.843023255813954
+Bad Tweets:19.767441860465116
+------------------------------
+Total Tweets:689
+Good Tweets:39.33236574746009
+Neutral Tweets:40.9288824383164
+Bad Tweets:19.738751814223512
+------------------------------
+Total Tweets:690
+Good Tweets:39.27536231884058
+Neutral Tweets:41.01449275362319
+Bad Tweets:19.710144927536234
+------------------------------
+Total Tweets:691
+Good Tweets:39.36324167872648
+Neutral Tweets:40.95513748191028
+Bad Tweets:19.68162083936324
+------------------------------
+Total Tweets:692
+Good Tweets:39.30635838150289
+Neutral Tweets:40.895953757225435
+Bad Tweets:19.797687861271676
+------------------------------
+Total Tweets:693
+Good Tweets:39.39393939393939
+Neutral Tweets:40.83694083694084
+Bad Tweets:19.76911976911977
+------------------------------
+Total Tweets:694
+Good Tweets:39.3371757925072
+Neutral Tweets:40.92219020172911
+Bad Tweets:19.740634005763688
+------------------------------
+Total Tweets:695
+Good Tweets:39.42446043165468
+Neutral Tweets:40.86330935251799
+Bad Tweets:19.71223021582734
+------------------------------
+Total Tweets:696
+Good Tweets:39.36781609195402
+Neutral Tweets:40.94827586206897
+Bad Tweets:19.68390804597701
+------------------------------
+Total Tweets:697
+Good Tweets:39.45480631276901
+Neutral Tweets:40.88952654232425
+Bad Tweets:19.655667144906744
+------------------------------
+Total Tweets:698
+Good Tweets:39.39828080229226
+Neutral Tweets:40.83094555873926
+Bad Tweets:19.770773638968482
+------------------------------
+Total Tweets:699
+Good Tweets:39.34191702432045
+Neutral Tweets:40.915593705293276
+Bad Tweets:19.742489270386265
+------------------------------
+Total Tweets:700
+Good Tweets:39.285714285714285
+Neutral Tweets:41.0
+Bad Tweets:19.714285714285715
+------------------------------
+Total Tweets:701
+Good Tweets:39.229671897289585
+Neutral Tweets:41.08416547788873
+Bad Tweets:19.686162624821684
+------------------------------
+Total Tweets:702
+Good Tweets:39.31623931623932
+Neutral Tweets:41.02564102564102
+Bad Tweets:19.65811965811966
+------------------------------
+Total Tweets:703
+Good Tweets:39.40256045519203
+Neutral Tweets:40.96728307254623
+Bad Tweets:19.630156472261735
+------------------------------
+Total Tweets:704
+Good Tweets:39.346590909090914
+Neutral Tweets:41.05113636363637
+Bad Tweets:19.602272727272727
+------------------------------
+Total Tweets:705
+Good Tweets:39.290780141843975
+Neutral Tweets:41.13475177304964
+Bad Tweets:19.574468085106382
+------------------------------
+Total Tweets:706
+Good Tweets:39.376770538243626
+Neutral Tweets:41.07648725212464
+Bad Tweets:19.54674220963173
+------------------------------
+Total Tweets:707
+Good Tweets:39.46251768033947
+Neutral Tweets:41.018387553041016
+Bad Tweets:19.519094766619517
+------------------------------
+Total Tweets:708
+Good Tweets:39.548022598870055
+Neutral Tweets:40.96045197740113
+Bad Tweets:19.491525423728813
+------------------------------
+Total Tweets:709
+Good Tweets:39.63328631875881
+Neutral Tweets:40.90267983074753
+Bad Tweets:19.464033850493653
+------------------------------
+Total Tweets:710
+Good Tweets:39.718309859154935
+Neutral Tweets:40.845070422535215
+Bad Tweets:19.43661971830986
+------------------------------
+Total Tweets:711
+Good Tweets:39.80309423347398
+Neutral Tweets:40.787623066104075
+Bad Tweets:19.40928270042194
+------------------------------
+Total Tweets:712
+Good Tweets:39.747191011235955
+Neutral Tweets:40.87078651685393
+Bad Tweets:19.382022471910112
+------------------------------
+Total Tweets:713
+Good Tweets:39.691444600280505
+Neutral Tweets:40.95371669004207
+Bad Tweets:19.35483870967742
+------------------------------
+Total Tweets:714
+Good Tweets:39.635854341736696
+Neutral Tweets:41.03641456582633
+Bad Tweets:19.327731092436977
+------------------------------
+Total Tweets:715
+Good Tweets:39.58041958041958
+Neutral Tweets:40.97902097902098
+Bad Tweets:19.44055944055944
+------------------------------
+Total Tweets:716
+Good Tweets:39.52513966480447
+Neutral Tweets:41.06145251396648
+Bad Tweets:19.41340782122905
+------------------------------
+Total Tweets:717
+Good Tweets:39.47001394700139
+Neutral Tweets:41.14365411436541
+Bad Tweets:19.386331938633194
+------------------------------
+Total Tweets:718
+Good Tweets:39.4150417827298
+Neutral Tweets:41.08635097493036
+Bad Tweets:19.498607242339833
+------------------------------
+Total Tweets:719
+Good Tweets:39.499304589707926
+Neutral Tweets:41.02920723226704
+Bad Tweets:19.471488178025034
+------------------------------
+Total Tweets:720
+Good Tweets:39.58333333333333
+Neutral Tweets:40.97222222222222
+Bad Tweets:19.444444444444446
+------------------------------
+Total Tweets:721
+Good Tweets:39.528432732316226
+Neutral Tweets:40.915395284327325
+Bad Tweets:19.55617198335645
+------------------------------
+Total Tweets:722
+Good Tweets:39.612188365650965
+Neutral Tweets:40.85872576177285
+Bad Tweets:19.529085872576175
+------------------------------
+Total Tweets:723
+Good Tweets:39.55739972337483
+Neutral Tweets:40.94052558782849
+Bad Tweets:19.502074688796682
+------------------------------
+Total Tweets:724
+Good Tweets:39.50276243093923
+Neutral Tweets:40.88397790055249
+Bad Tweets:19.613259668508288
+------------------------------
+Total Tweets:725
+Good Tweets:39.44827586206897
+Neutral Tweets:40.96551724137931
+Bad Tweets:19.586206896551726
+------------------------------
+Total Tweets:726
+Good Tweets:39.39393939393939
+Neutral Tweets:41.04683195592286
+Bad Tweets:19.55922865013774
+------------------------------
+Total Tweets:727
+Good Tweets:39.33975240715269
+Neutral Tweets:41.12792297111417
+Bad Tweets:19.53232462173315
+------------------------------
+Total Tweets:728
+Good Tweets:39.285714285714285
+Neutral Tweets:41.208791208791204
+Bad Tweets:19.505494505494507
+------------------------------
+Total Tweets:729
+Good Tweets:39.231824417009605
+Neutral Tweets:41.1522633744856
+Bad Tweets:19.615912208504803
+------------------------------
+Total Tweets:730
+Good Tweets:39.31506849315068
+Neutral Tweets:41.0958904109589
+Bad Tweets:19.589041095890412
+------------------------------
+Total Tweets:731
+Good Tweets:39.261285909712726
+Neutral Tweets:41.03967168262654
+Bad Tweets:19.699042407660738
+------------------------------
+Total Tweets:732
+Good Tweets:39.34426229508197
+Neutral Tweets:40.98360655737705
+Bad Tweets:19.672131147540984
+------------------------------
+Total Tweets:733
+Good Tweets:39.42701227830832
+Neutral Tweets:40.92769440654843
+Bad Tweets:19.64529331514325
+------------------------------
+Total Tweets:734
+Good Tweets:39.3732970027248
+Neutral Tweets:40.87193460490463
+Bad Tweets:19.754768392370572
+------------------------------
+Total Tweets:735
+Good Tweets:39.455782312925166
+Neutral Tweets:40.816326530612244
+Bad Tweets:19.727891156462583
+------------------------------
+Total Tweets:736
+Good Tweets:39.40217391304348
+Neutral Tweets:40.89673913043478
+Bad Tweets:19.70108695652174
+------------------------------
+Total Tweets:737
+Good Tweets:39.348710990502035
+Neutral Tweets:40.84124830393487
+Bad Tweets:19.810040705563093
+------------------------------
+Total Tweets:738
+Good Tweets:39.295392953929536
+Neutral Tweets:40.921409214092144
+Bad Tweets:19.78319783197832
+------------------------------
+Total Tweets:739
+Good Tweets:39.242219215155615
+Neutral Tweets:41.00135317997294
+Bad Tweets:19.756427604871448
+------------------------------
+Total Tweets:740
+Good Tweets:39.32432432432432
+Neutral Tweets:40.945945945945944
+Bad Tweets:19.72972972972973
+------------------------------
+Total Tweets:741
+Good Tweets:39.40620782726046
+Neutral Tweets:40.89068825910931
+Bad Tweets:19.70310391363023
+------------------------------
+Total Tweets:742
+Good Tweets:39.35309973045822
+Neutral Tweets:40.8355795148248
+Bad Tweets:19.81132075471698
+------------------------------
+Total Tweets:743
+Good Tweets:39.43472409152086
+Neutral Tweets:40.780619111709285
+Bad Tweets:19.784656796769852
+------------------------------
+Total Tweets:744
+Good Tweets:39.38172043010753
+Neutral Tweets:40.86021505376344
+Bad Tweets:19.758064516129032
+------------------------------
+Total Tweets:745
+Good Tweets:39.328859060402685
+Neutral Tweets:40.80536912751678
+Bad Tweets:19.86577181208054
+------------------------------
+Total Tweets:746
+Good Tweets:39.27613941018767
+Neutral Tweets:40.75067024128686
+Bad Tweets:19.973190348525467
+------------------------------
+Total Tweets:747
+Good Tweets:39.3574297188755
+Neutral Tweets:40.69611780455154
+Bad Tweets:19.946452476572958
+------------------------------
+Total Tweets:748
+Good Tweets:39.3048128342246
+Neutral Tweets:40.64171122994652
+Bad Tweets:20.053475935828878
+------------------------------
+Total Tweets:749
+Good Tweets:39.38584779706275
+Neutral Tweets:40.58744993324432
+Bad Tweets:20.026702269692922
+------------------------------
+Total Tweets:750
+Good Tweets:39.33333333333333
+Neutral Tweets:40.666666666666664
+Bad Tweets:20.0
+------------------------------
+Total Tweets:751
+Good Tweets:39.280958721704394
+Neutral Tweets:40.74567243675099
+Bad Tweets:19.973368841544605
+------------------------------
+Total Tweets:752
+Good Tweets:39.22872340425532
+Neutral Tweets:40.82446808510639
+Bad Tweets:19.9468085106383
+------------------------------
+Total Tweets:753
+Good Tweets:39.309428950863214
+Neutral Tweets:40.77025232403719
+Bad Tweets:19.9203187250996
+------------------------------
+Total Tweets:754
+Good Tweets:39.257294429708224
+Neutral Tweets:40.84880636604775
+Bad Tweets:19.893899204244033
+------------------------------
+Total Tweets:755
+Good Tweets:39.205298013245034
+Neutral Tweets:40.794701986754966
+Bad Tweets:20.0
+------------------------------
+Total Tweets:756
+Good Tweets:39.285714285714285
+Neutral Tweets:40.74074074074074
+Bad Tweets:19.973544973544975
+------------------------------
+Total Tweets:757
+Good Tweets:39.233817701453106
+Neutral Tweets:40.686922060766186
+Bad Tweets:20.079260237780712
+------------------------------
+Total Tweets:758
+Good Tweets:39.1820580474934
+Neutral Tweets:40.76517150395778
+Bad Tweets:20.052770448548813
+------------------------------
+Total Tweets:759
+Good Tweets:39.130434782608695
+Neutral Tweets:40.843214756258234
+Bad Tweets:20.02635046113307
+------------------------------
+Total Tweets:760
+Good Tweets:39.078947368421055
+Neutral Tweets:40.921052631578945
+Bad Tweets:20.0
+------------------------------
+Total Tweets:761
+Good Tweets:39.027595269382395
+Neutral Tweets:40.86727989487516
+Bad Tweets:20.105124835742444
+------------------------------
+Total Tweets:762
+Good Tweets:39.107611548556434
+Neutral Tweets:40.813648293963254
+Bad Tweets:20.078740157480315
+------------------------------
+Total Tweets:763
+Good Tweets:39.18741808650065
+Neutral Tweets:40.76015727391874
+Bad Tweets:20.0524246395806
+------------------------------
+Total Tweets:764
+Good Tweets:39.26701570680628
+Neutral Tweets:40.70680628272251
+Bad Tweets:20.026178010471206
+------------------------------
+Total Tweets:765
+Good Tweets:39.34640522875817
+Neutral Tweets:40.65359477124183
+Bad Tweets:20.0
+------------------------------
+Total Tweets:766
+Good Tweets:39.425587467362924
+Neutral Tweets:40.60052219321149
+Bad Tweets:19.973890339425587
+------------------------------
+Total Tweets:767
+Good Tweets:39.374185136897
+Neutral Tweets:40.67796610169492
+Bad Tweets:19.947848761408082
+------------------------------
+Total Tweets:768
+Good Tweets:39.453125
+Neutral Tweets:40.625
+Bad Tweets:19.921875
+------------------------------
+Total Tweets:769
+Good Tweets:39.401820546163854
+Neutral Tweets:40.572171651495445
+Bad Tweets:20.026007802340704
+------------------------------
+Total Tweets:770
+Good Tweets:39.350649350649356
+Neutral Tweets:40.519480519480524
+Bad Tweets:20.12987012987013
+------------------------------
+Total Tweets:771
+Good Tweets:39.429312581063556
+Neutral Tweets:40.46692607003891
+Bad Tweets:20.103761348897535
+------------------------------
+Total Tweets:772
+Good Tweets:39.37823834196891
+Neutral Tweets:40.5440414507772
+Bad Tweets:20.077720207253886
+------------------------------
+Total Tweets:773
+Good Tweets:39.45666235446313
+Neutral Tweets:40.49159120310479
+Bad Tweets:20.051746442432083
+------------------------------
+Total Tweets:774
+Good Tweets:39.405684754521964
+Neutral Tweets:40.56847545219638
+Bad Tweets:20.025839793281655
+------------------------------
+Total Tweets:775
+Good Tweets:39.35483870967742
+Neutral Tweets:40.64516129032258
+Bad Tweets:20.0
+------------------------------
+Total Tweets:776
+Good Tweets:39.3041237113402
+Neutral Tweets:40.72164948453608
+Bad Tweets:19.974226804123713
+------------------------------
+Total Tweets:777
+Good Tweets:39.25353925353925
+Neutral Tweets:40.7979407979408
+Bad Tweets:19.948519948519948
+------------------------------
+Total Tweets:778
+Good Tweets:39.203084832904885
+Neutral Tweets:40.87403598971722
+Bad Tweets:19.92287917737789
+------------------------------
+Total Tweets:779
+Good Tweets:39.15275994865212
+Neutral Tweets:40.949935815147626
+Bad Tweets:19.897304236200256
+------------------------------
+Total Tweets:780
+Good Tweets:39.1025641025641
+Neutral Tweets:41.02564102564102
+Bad Tweets:19.871794871794872
+------------------------------
+Total Tweets:781
+Good Tweets:39.052496798975675
+Neutral Tweets:41.101152368758
+Bad Tweets:19.846350832266324
+------------------------------
+Total Tweets:782
+Good Tweets:39.00255754475703
+Neutral Tweets:41.17647058823529
+Bad Tweets:19.82097186700767
+------------------------------
+Total Tweets:783
+Good Tweets:38.95274584929757
+Neutral Tweets:41.251596424010216
+Bad Tweets:19.79565772669221
+------------------------------
+Total Tweets:784
+Good Tweets:39.03061224489796
+Neutral Tweets:41.19897959183674
+Bad Tweets:19.77040816326531
+------------------------------
+Total Tweets:785
+Good Tweets:38.98089171974522
+Neutral Tweets:41.27388535031847
+Bad Tweets:19.745222929936308
+------------------------------
+Total Tweets:786
+Good Tweets:38.93129770992366
+Neutral Tweets:41.221374045801525
+Bad Tweets:19.84732824427481
+------------------------------
+Total Tweets:787
+Good Tweets:38.88182973316391
+Neutral Tweets:41.29606099110546
+Bad Tweets:19.82210927573062
+------------------------------
+Total Tweets:788
+Good Tweets:38.95939086294416
+Neutral Tweets:41.243654822335024
+Bad Tweets:19.796954314720814
+------------------------------
+Total Tweets:789
+Good Tweets:38.91001267427123
+Neutral Tweets:41.31812420785805
+Bad Tweets:19.771863117870723
+------------------------------
+Total Tweets:790
+Good Tweets:38.9873417721519
+Neutral Tweets:41.265822784810126
+Bad Tweets:19.746835443037973
+------------------------------
+Total Tweets:791
+Good Tweets:38.93805309734513
+Neutral Tweets:41.340075853350186
+Bad Tweets:19.721871049304678
+------------------------------
+Total Tweets:792
+Good Tweets:38.88888888888889
+Neutral Tweets:41.28787878787879
+Bad Tweets:19.82323232323232
+------------------------------
+Total Tweets:793
+Good Tweets:38.839848675914254
+Neutral Tweets:41.23581336696091
+Bad Tweets:19.924337957124845
+------------------------------
+Total Tweets:794
+Good Tweets:38.79093198992443
+Neutral Tweets:41.183879093198996
+Bad Tweets:20.025188916876573
+------------------------------
+Total Tweets:795
+Good Tweets:38.742138364779876
+Neutral Tweets:41.25786163522013
+Bad Tweets:20.0
+------------------------------
+Total Tweets:796
+Good Tweets:38.69346733668342
+Neutral Tweets:41.33165829145729
+Bad Tweets:19.974874371859297
+------------------------------
+Total Tweets:797
+Good Tweets:38.64491844416562
+Neutral Tweets:41.40526976160602
+Bad Tweets:19.949811794228356
+------------------------------
+Total Tweets:798
+Good Tweets:38.59649122807017
+Neutral Tweets:41.478696741854634
+Bad Tweets:19.924812030075188
+------------------------------
+Total Tweets:799
+Good Tweets:38.67334167709637
+Neutral Tweets:41.42678347934919
+Bad Tweets:19.899874843554443
+------------------------------
+Total Tweets:800
+Good Tweets:38.75
+Neutral Tweets:41.375
+Bad Tweets:19.875
+------------------------------
+Total Tweets:801
+Good Tweets:38.826466916354555
+Neutral Tweets:41.32334581772784
+Bad Tweets:19.850187265917604
+------------------------------
+Total Tweets:802
+Good Tweets:38.77805486284289
+Neutral Tweets:41.271820448877804
+Bad Tweets:19.950124688279303
+------------------------------
+Total Tweets:803
+Good Tweets:38.72976338729763
+Neutral Tweets:41.344956413449566
+Bad Tweets:19.9252801992528
+------------------------------
+Total Tweets:804
+Good Tweets:38.80597014925373
+Neutral Tweets:41.29353233830846
+Bad Tweets:19.900497512437813
+------------------------------
+Total Tweets:805
+Good Tweets:38.75776397515528
+Neutral Tweets:41.36645962732919
+Bad Tweets:19.875776397515526
+------------------------------
+Total Tweets:806
+Good Tweets:38.83374689826303
+Neutral Tweets:41.3151364764268
+Bad Tweets:19.851116625310176
+------------------------------
+Total Tweets:807
+Good Tweets:38.78562577447336
+Neutral Tweets:41.38785625774473
+Bad Tweets:19.82651796778191
+------------------------------
+Total Tweets:808
+Good Tweets:38.73762376237624
+Neutral Tweets:41.46039603960396
+Bad Tweets:19.801980198019802
+------------------------------
+Total Tweets:809
+Good Tweets:38.68974042027194
+Neutral Tweets:41.5327564894932
+Bad Tweets:19.77750309023486
+------------------------------
+Total Tweets:810
+Good Tweets:38.76543209876544
+Neutral Tweets:41.48148148148148
+Bad Tweets:19.753086419753085
+------------------------------
+Total Tweets:811
+Good Tweets:38.71763255240444
+Neutral Tweets:41.43033292231812
+Bad Tweets:19.852034525277436
+------------------------------
+Total Tweets:812
+Good Tweets:38.669950738916256
+Neutral Tweets:41.502463054187196
+Bad Tweets:19.82758620689655
+------------------------------
+Total Tweets:813
+Good Tweets:38.74538745387454
+Neutral Tweets:41.45141451414514
+Bad Tweets:19.803198031980322
+------------------------------
+Total Tweets:814
+Good Tweets:38.697788697788695
+Neutral Tweets:41.52334152334152
+Bad Tweets:19.77886977886978
+------------------------------
+Total Tweets:815
+Good Tweets:38.77300613496932
+Neutral Tweets:41.47239263803681
+Bad Tweets:19.754601226993866
+------------------------------
+Total Tweets:816
+Good Tweets:38.72549019607843
+Neutral Tweets:41.544117647058826
+Bad Tweets:19.730392156862745
+------------------------------
+Total Tweets:817
+Good Tweets:38.80048959608323
+Neutral Tweets:41.49326805385557
+Bad Tweets:19.7062423500612
+------------------------------
+Total Tweets:818
+Good Tweets:38.75305623471883
+Neutral Tweets:41.442542787286065
+Bad Tweets:19.80440097799511
+------------------------------
+Total Tweets:819
+Good Tweets:38.70573870573871
+Neutral Tweets:41.514041514041516
+Bad Tweets:19.78021978021978
+------------------------------
+Total Tweets:820
+Good Tweets:38.78048780487805
+Neutral Tweets:41.46341463414634
+Bad Tweets:19.75609756097561
+------------------------------
+Total Tweets:821
+Good Tweets:38.85505481120585
+Neutral Tweets:41.41291108404385
+Bad Tweets:19.732034104750305
+------------------------------
+Total Tweets:822
+Good Tweets:38.929440389294406
+Neutral Tweets:41.3625304136253
+Bad Tweets:19.708029197080293
+------------------------------
+Total Tweets:823
+Good Tweets:38.88213851761847
+Neutral Tweets:41.43377885783718
+Bad Tweets:19.68408262454435
+------------------------------
+Total Tweets:824
+Good Tweets:38.83495145631068
+Neutral Tweets:41.383495145631066
+Bad Tweets:19.781553398058254
+------------------------------
+Total Tweets:825
+Good Tweets:38.78787878787879
+Neutral Tweets:41.333333333333336
+Bad Tweets:19.87878787878788
+------------------------------
+Total Tweets:826
+Good Tweets:38.7409200968523
+Neutral Tweets:41.404358353510894
+Bad Tweets:19.854721549636803
+------------------------------
+Total Tweets:827
+Good Tweets:38.814993954050784
+Neutral Tweets:41.35429262394196
+Bad Tweets:19.830713422007253
+------------------------------
+Total Tweets:828
+Good Tweets:38.768115942028984
+Neutral Tweets:41.42512077294686
+Bad Tweets:19.806763285024154
+------------------------------
+Total Tweets:829
+Good Tweets:38.72135102533172
+Neutral Tweets:41.495778045838364
+Bad Tweets:19.782870928829915
+------------------------------
+Total Tweets:830
+Good Tweets:38.674698795180724
+Neutral Tweets:41.445783132530124
+Bad Tweets:19.879518072289155
+------------------------------
+Total Tweets:831
+Good Tweets:38.748495788206974
+Neutral Tweets:41.395908543922985
+Bad Tweets:19.855595667870034
+------------------------------
+Total Tweets:832
+Good Tweets:38.70192307692308
+Neutral Tweets:41.46634615384615
+Bad Tweets:19.831730769230766
+------------------------------
+Total Tweets:833
+Good Tweets:38.775510204081634
+Neutral Tweets:41.416566626650656
+Bad Tweets:19.807923169267706
+------------------------------
+Total Tweets:834
+Good Tweets:38.72901678657074
+Neutral Tweets:41.48681055155875
+Bad Tweets:19.784172661870503
+------------------------------
+Total Tweets:835
+Good Tweets:38.68263473053892
+Neutral Tweets:41.55688622754491
+Bad Tweets:19.760479041916167
+------------------------------
+Total Tweets:836
+Good Tweets:38.63636363636363
+Neutral Tweets:41.62679425837321
+Bad Tweets:19.736842105263158
+------------------------------
+Total Tweets:837
+Good Tweets:38.59020310633214
+Neutral Tweets:41.57706093189964
+Bad Tweets:19.83273596176822
+------------------------------
+Total Tweets:838
+Good Tweets:38.544152744630075
+Neutral Tweets:41.527446300715994
+Bad Tweets:19.928400954653938
+------------------------------
+Total Tweets:839
+Good Tweets:38.61740166865316
+Neutral Tweets:41.477949940405246
+Bad Tweets:19.9046483909416
+------------------------------
+Total Tweets:840
+Good Tweets:38.69047619047619
+Neutral Tweets:41.42857142857143
+Bad Tweets:19.88095238095238
+------------------------------
+Total Tweets:841
+Good Tweets:38.763376932223544
+Neutral Tweets:41.37931034482759
+Bad Tweets:19.85731272294887
+------------------------------
+Total Tweets:842
+Good Tweets:38.836104513064136
+Neutral Tweets:41.33016627078385
+Bad Tweets:19.83372921615202
+------------------------------
+Total Tweets:843
+Good Tweets:38.79003558718861
+Neutral Tweets:41.281138790035584
+Bad Tweets:19.9288256227758
+------------------------------
+Total Tweets:844
+Good Tweets:38.862559241706165
+Neutral Tweets:41.23222748815166
+Bad Tweets:19.90521327014218
+------------------------------
+Total Tweets:845
+Good Tweets:38.81656804733728
+Neutral Tweets:41.30177514792899
+Bad Tweets:19.881656804733726
+------------------------------
+Total Tweets:846
+Good Tweets:38.77068557919622
+Neutral Tweets:41.25295508274232
+Bad Tweets:19.976359338061467
+------------------------------
+Total Tweets:847
+Good Tweets:38.72491145218418
+Neutral Tweets:41.32231404958678
+Bad Tweets:19.952774498229044
+------------------------------
+Total Tweets:848
+Good Tweets:38.67924528301887
+Neutral Tweets:41.39150943396226
+Bad Tweets:19.92924528301887
+------------------------------
+Total Tweets:849
+Good Tweets:38.6336866902238
+Neutral Tweets:41.342756183745585
+Bad Tweets:20.023557126030624
+------------------------------
+Total Tweets:850
+Good Tweets:38.588235294117645
+Neutral Tweets:41.294117647058826
+Bad Tweets:20.11764705882353
+------------------------------
+Total Tweets:851
+Good Tweets:38.66039952996474
+Neutral Tweets:41.24559341950646
+Bad Tweets:20.094007050528788
+------------------------------
+Total Tweets:852
+Good Tweets:38.732394366197184
+Neutral Tweets:41.19718309859155
+Bad Tweets:20.070422535211268
+------------------------------
+Total Tweets:853
+Good Tweets:38.804220398593195
+Neutral Tweets:41.14888628370457
+Bad Tweets:20.046893317702228
+------------------------------
+Total Tweets:854
+Good Tweets:38.875878220140514
+Neutral Tweets:41.10070257611241
+Bad Tweets:20.02341920374707
+------------------------------
+Total Tweets:855
+Good Tweets:38.83040935672515
+Neutral Tweets:41.05263157894737
+Bad Tweets:20.116959064327485
+------------------------------
+Total Tweets:856
+Good Tweets:38.901869158878505
+Neutral Tweets:41.00467289719626
+Bad Tweets:20.093457943925234
+------------------------------
+Total Tweets:857
+Good Tweets:38.85647607934656
+Neutral Tweets:41.07351225204201
+Bad Tweets:20.070011668611436
+------------------------------
+Total Tweets:858
+Good Tweets:38.81118881118881
+Neutral Tweets:41.02564102564102
+Bad Tweets:20.163170163170165
+------------------------------
+Total Tweets:859
+Good Tweets:38.766006984866124
+Neutral Tweets:41.09429569266589
+Bad Tweets:20.13969732246799
+------------------------------
+Total Tweets:860
+Good Tweets:38.72093023255814
+Neutral Tweets:41.04651162790698
+Bad Tweets:20.232558139534884
+------------------------------
+Total Tweets:861
+Good Tweets:38.67595818815331
+Neutral Tweets:41.11498257839721
+Bad Tweets:20.209059233449477
+------------------------------
+Total Tweets:862
+Good Tweets:38.63109048723898
+Neutral Tweets:41.067285382830626
+Bad Tweets:20.301624129930396
+------------------------------
+Total Tweets:863
+Good Tweets:38.58632676709154
+Neutral Tweets:41.13557358053303
+Bad Tweets:20.278099652375435
+------------------------------
+Total Tweets:864
+Good Tweets:38.54166666666667
+Neutral Tweets:41.2037037037037
+Bad Tweets:20.25462962962963
+------------------------------
+Total Tweets:865
+Good Tweets:38.49710982658959
+Neutral Tweets:41.15606936416185
+Bad Tweets:20.346820809248555
+------------------------------
+Total Tweets:866
+Good Tweets:38.4526558891455
+Neutral Tweets:41.224018475750576
+Bad Tweets:20.323325635103924
+------------------------------
+Total Tweets:867
+Good Tweets:38.523644752018456
+Neutral Tweets:41.17647058823529
+Bad Tweets:20.29988465974625
+------------------------------
+Total Tweets:868
+Good Tweets:38.47926267281106
+Neutral Tweets:41.244239631336406
+Bad Tweets:20.276497695852534
+------------------------------
+Total Tweets:869
+Good Tweets:38.43498273878021
+Neutral Tweets:41.31185270425777
+Bad Tweets:20.253164556962027
+------------------------------
+Total Tweets:870
+Good Tweets:38.50574712643678
+Neutral Tweets:41.26436781609195
+Bad Tweets:20.229885057471265
+------------------------------
+Total Tweets:871
+Good Tweets:38.576349024110215
+Neutral Tweets:41.21699196326062
+Bad Tweets:20.20665901262916
+------------------------------
+Total Tweets:872
+Good Tweets:38.646788990825684
+Neutral Tweets:41.169724770642205
+Bad Tweets:20.18348623853211
+------------------------------
+Total Tweets:873
+Good Tweets:38.60252004581902
+Neutral Tweets:41.23711340206185
+Bad Tweets:20.16036655211913
+------------------------------
+Total Tweets:874
+Good Tweets:38.672768878718536
+Neutral Tweets:41.18993135011442
+Bad Tweets:20.137299771167047
+------------------------------
+Total Tweets:875
+Good Tweets:38.74285714285715
+Neutral Tweets:41.14285714285714
+Bad Tweets:20.114285714285714
+------------------------------
+Total Tweets:876
+Good Tweets:38.6986301369863
+Neutral Tweets:41.210045662100455
+Bad Tweets:20.091324200913242
+------------------------------
+Total Tweets:877
+Good Tweets:38.65450399087799
+Neutral Tweets:41.27708095781072
+Bad Tweets:20.068415051311288
+------------------------------
+Total Tweets:878
+Good Tweets:38.61047835990888
+Neutral Tweets:41.34396355353075
+Bad Tweets:20.045558086560362
+------------------------------
+Total Tweets:879
+Good Tweets:38.68031854379977
+Neutral Tweets:41.29692832764505
+Bad Tweets:20.022753128555177
+------------------------------
+Total Tweets:880
+Good Tweets:38.63636363636363
+Neutral Tweets:41.36363636363637
+Bad Tweets:20.0
+------------------------------
+Total Tweets:881
+Good Tweets:38.70601589103292
+Neutral Tweets:41.316685584563
+Bad Tweets:19.977298524404084
+------------------------------
+Total Tweets:882
+Good Tweets:38.66213151927438
+Neutral Tweets:41.269841269841265
+Bad Tweets:20.068027210884352
+------------------------------
+Total Tweets:883
+Good Tweets:38.618346545866366
+Neutral Tweets:41.336353340883356
+Bad Tweets:20.045300113250285
+------------------------------
+Total Tweets:884
+Good Tweets:38.68778280542987
+Neutral Tweets:41.289592760180994
+Bad Tweets:20.02262443438914
+------------------------------
+Total Tweets:885
+Good Tweets:38.64406779661017
+Neutral Tweets:41.35593220338983
+Bad Tweets:20.0
+------------------------------
+Total Tweets:886
+Good Tweets:38.60045146726862
+Neutral Tweets:41.309255079006775
+Bad Tweets:20.090293453724605
+------------------------------
+Total Tweets:887
+Good Tweets:38.66967305524239
+Neutral Tweets:41.26268320180383
+Bad Tweets:20.067643742953777
+------------------------------
+Total Tweets:888
+Good Tweets:38.73873873873874
+Neutral Tweets:41.21621621621622
+Bad Tweets:20.045045045045047
+------------------------------
+Total Tweets:889
+Good Tweets:38.80764904386952
+Neutral Tweets:41.16985376827896
+Bad Tweets:20.022497187851517
+------------------------------
+Total Tweets:890
+Good Tweets:38.764044943820224
+Neutral Tweets:41.235955056179776
+Bad Tweets:20.0
+------------------------------
+Total Tweets:891
+Good Tweets:38.72053872053872
+Neutral Tweets:41.18967452300786
+Bad Tweets:20.089786756453424
+------------------------------
+Total Tweets:892
+Good Tweets:38.67713004484305
+Neutral Tweets:41.25560538116592
+Bad Tweets:20.067264573991032
+------------------------------
+Total Tweets:893
+Good Tweets:38.63381858902575
+Neutral Tweets:41.2094064949608
+Bad Tweets:20.156774916013436
+------------------------------
+Total Tweets:894
+Good Tweets:38.59060402684564
+Neutral Tweets:41.2751677852349
+Bad Tweets:20.13422818791946
+------------------------------
+Total Tweets:895
+Good Tweets:38.65921787709497
+Neutral Tweets:41.22905027932961
+Bad Tweets:20.11173184357542
+------------------------------
+Total Tweets:896
+Good Tweets:38.61607142857143
+Neutral Tweets:41.183035714285715
+Bad Tweets:20.200892857142858
+------------------------------
+Total Tweets:897
+Good Tweets:38.57302118171683
+Neutral Tweets:41.248606465997774
+Bad Tweets:20.178372352285397
+------------------------------
+Total Tweets:898
+Good Tweets:38.641425389755014
+Neutral Tweets:41.202672605790646
+Bad Tweets:20.155902004454344
+------------------------------
+Total Tweets:899
+Good Tweets:38.598442714126804
+Neutral Tweets:41.26807563959956
+Bad Tweets:20.133481646273637
+------------------------------
+Total Tweets:900
+Good Tweets:38.666666666666664
+Neutral Tweets:41.22222222222222
+Bad Tweets:20.11111111111111
+------------------------------
+Total Tweets:901
+Good Tweets:38.73473917869034
+Neutral Tweets:41.17647058823529
+Bad Tweets:20.08879023307436
+------------------------------
+Total Tweets:902
+Good Tweets:38.80266075388026
+Neutral Tweets:41.130820399113084
+Bad Tweets:20.066518847006652
+------------------------------
+Total Tweets:903
+Good Tweets:38.87043189368771
+Neutral Tweets:41.08527131782946
+Bad Tweets:20.044296788482836
+------------------------------
+Total Tweets:904
+Good Tweets:38.82743362831859
+Neutral Tweets:41.150442477876105
+Bad Tweets:20.02212389380531
+------------------------------
+Total Tweets:905
+Good Tweets:38.89502762430939
+Neutral Tweets:41.10497237569061
+Bad Tweets:20.0
+------------------------------
+Total Tweets:906
+Good Tweets:38.852097130242825
+Neutral Tweets:41.05960264900662
+Bad Tweets:20.08830022075055
+------------------------------
+Total Tweets:907
+Good Tweets:38.919514884233735
+Neutral Tweets:41.01433296582139
+Bad Tweets:20.066152149944873
+------------------------------
+Total Tweets:908
+Good Tweets:38.986784140969164
+Neutral Tweets:40.969162995594715
+Bad Tweets:20.044052863436125
+------------------------------
+Total Tweets:909
+Good Tweets:38.943894389438945
+Neutral Tweets:41.03410341034103
+Bad Tweets:20.022002200220022
+------------------------------
+Total Tweets:910
+Good Tweets:38.901098901098905
+Neutral Tweets:41.098901098901095
+Bad Tweets:20.0
+------------------------------
+Total Tweets:911
+Good Tweets:38.85839736553238
+Neutral Tweets:41.05378704720088
+Bad Tweets:20.08781558726674
+------------------------------
+Total Tweets:912
+Good Tweets:38.92543859649123
+Neutral Tweets:41.00877192982456
+Bad Tweets:20.065789473684212
+------------------------------
+Total Tweets:913
+Good Tweets:38.882803943044905
+Neutral Tweets:41.07338444687842
+Bad Tweets:20.04381161007667
+------------------------------
+Total Tweets:914
+Good Tweets:38.949671772428886
+Neutral Tweets:41.02844638949672
+Bad Tweets:20.0218818380744
+------------------------------
+Total Tweets:915
+Good Tweets:39.01639344262295
+Neutral Tweets:40.98360655737705
+Bad Tweets:20.0
+------------------------------
+Total Tweets:916
+Good Tweets:39.082969432314414
+Neutral Tweets:40.93886462882096
+Bad Tweets:19.978165938864628
+------------------------------
+Total Tweets:917
+Good Tweets:39.14940021810251
+Neutral Tweets:40.89422028353326
+Bad Tweets:19.95637949836423
+------------------------------
+Total Tweets:918
+Good Tweets:39.21568627450981
+Neutral Tweets:40.849673202614376
+Bad Tweets:19.934640522875817
+------------------------------
+Total Tweets:919
+Good Tweets:39.17301414581066
+Neutral Tweets:40.80522306855278
+Bad Tweets:20.02176278563656
+------------------------------
+Total Tweets:920
+Good Tweets:39.130434782608695
+Neutral Tweets:40.869565217391305
+Bad Tweets:20.0
+------------------------------
+Total Tweets:921
+Good Tweets:39.08794788273616
+Neutral Tweets:40.933767643865366
+Bad Tweets:19.97828447339848
+------------------------------
+Total Tweets:922
+Good Tweets:39.04555314533623
+Neutral Tweets:40.99783080260303
+Bad Tweets:19.95661605206074
+------------------------------
+Total Tweets:923
+Good Tweets:39.00325027085591
+Neutral Tweets:41.06175514626219
+Bad Tweets:19.934994582881906
+------------------------------
+Total Tweets:924
+Good Tweets:38.961038961038966
+Neutral Tweets:41.01731601731602
+Bad Tweets:20.02164502164502
+------------------------------
+Total Tweets:925
+Good Tweets:38.91891891891892
+Neutral Tweets:40.97297297297297
+Bad Tweets:20.10810810810811
+------------------------------
+Total Tweets:926
+Good Tweets:38.8768898488121
+Neutral Tweets:41.03671706263499
+Bad Tweets:20.086393088552914
+------------------------------
+Total Tweets:927
+Good Tweets:38.83495145631068
+Neutral Tweets:40.99244875943905
+Bad Tweets:20.17259978425027
+------------------------------
+Total Tweets:928
+Good Tweets:38.793103448275865
+Neutral Tweets:41.05603448275862
+Bad Tweets:20.150862068965516
+------------------------------
+Total Tweets:929
+Good Tweets:38.85898815931109
+Neutral Tweets:41.01184068891281
+Bad Tweets:20.129171151776106
+------------------------------
+Total Tweets:930
+Good Tweets:38.81720430107527
+Neutral Tweets:41.075268817204304
+Bad Tweets:20.107526881720432
+------------------------------
+Total Tweets:931
+Good Tweets:38.775510204081634
+Neutral Tweets:41.13856068743287
+Bad Tweets:20.0859291084855
+------------------------------
+Total Tweets:1
+Good Tweets:100.0
+Neutral Tweets:0.0
+Bad Tweets:0.0
+------------------------------
+Total Tweets:2
+Good Tweets:50.0
+Neutral Tweets:50.0
+Bad Tweets:0.0
+------------------------------
+Total Tweets:3
+Good Tweets:66.66666666666666
+Neutral Tweets:33.33333333333333
+Bad Tweets:0.0
+------------------------------
+Total Tweets:4
+Good Tweets:50.0
+Neutral Tweets:25.0
+Bad Tweets:25.0
+------------------------------
+Total Tweets:5
+Good Tweets:60.0
+Neutral Tweets:20.0
+Bad Tweets:20.0
+------------------------------
+Total Tweets:6
+Good Tweets:66.66666666666666
+Neutral Tweets:16.666666666666664
+Bad Tweets:16.666666666666664
+------------------------------
+Total Tweets:7
+Good Tweets:57.14285714285714
+Neutral Tweets:28.57142857142857
+Bad Tweets:14.285714285714285
+------------------------------
+Total Tweets:8
+Good Tweets:62.5
+Neutral Tweets:25.0
+Bad Tweets:12.5
+------------------------------
+Total Tweets:9
+Good Tweets:55.55555555555556
+Neutral Tweets:22.22222222222222
+Bad Tweets:22.22222222222222
+------------------------------
+Total Tweets:10
+Good Tweets:60.0
+Neutral Tweets:20.0
+Bad Tweets:20.0
+------------------------------
+Total Tweets:11
+Good Tweets:54.54545454545454
+Neutral Tweets:18.181818181818183
+Bad Tweets:27.27272727272727
+------------------------------
+Total Tweets:12
+Good Tweets:50.0
+Neutral Tweets:25.0
+Bad Tweets:25.0
+------------------------------
+Total Tweets:13
+Good Tweets:46.15384615384615
+Neutral Tweets:30.76923076923077
+Bad Tweets:23.076923076923077
+------------------------------
+Total Tweets:14
+Good Tweets:50.0
+Neutral Tweets:28.57142857142857
+Bad Tweets:21.428571428571427
+------------------------------
+Total Tweets:15
+Good Tweets:53.333333333333336
+Neutral Tweets:26.666666666666668
+Bad Tweets:20.0
+------------------------------
+Total Tweets:16
+Good Tweets:50.0
+Neutral Tweets:31.25
+Bad Tweets:18.75
+------------------------------
+Total Tweets:17
+Good Tweets:52.94117647058824
+Neutral Tweets:29.411764705882355
+Bad Tweets:17.647058823529413
+------------------------------
+Total Tweets:18
+Good Tweets:50.0
+Neutral Tweets:33.33333333333333
+Bad Tweets:16.666666666666664
+------------------------------
+Total Tweets:19
+Good Tweets:47.368421052631575
+Neutral Tweets:36.84210526315789
+Bad Tweets:15.789473684210526
+------------------------------
+Total Tweets:20
+Good Tweets:45.0
+Neutral Tweets:35.0
+Bad Tweets:20.0
+------------------------------
+Total Tweets:21
+Good Tweets:47.61904761904761
+Neutral Tweets:33.33333333333333
+Bad Tweets:19.047619047619047
+------------------------------
+Total Tweets:22
+Good Tweets:50.0
+Neutral Tweets:31.818181818181817
+Bad Tweets:18.181818181818183
+------------------------------
+Total Tweets:23
+Good Tweets:47.82608695652174
+Neutral Tweets:34.78260869565217
+Bad Tweets:17.391304347826086
+------------------------------
+Total Tweets:24
+Good Tweets:45.83333333333333
+Neutral Tweets:37.5
+Bad Tweets:16.666666666666664
+------------------------------
+Total Tweets:25
+Good Tweets:48.0
+Neutral Tweets:36.0
+Bad Tweets:16.0
+------------------------------
+Total Tweets:26
+Good Tweets:50.0
+Neutral Tweets:34.61538461538461
+Bad Tweets:15.384615384615385
+------------------------------
+Total Tweets:27
+Good Tweets:48.148148148148145
+Neutral Tweets:37.03703703703704
+Bad Tweets:14.814814814814813
+------------------------------
+Total Tweets:28
+Good Tweets:50.0
+Neutral Tweets:35.714285714285715
+Bad Tweets:14.285714285714285
+------------------------------
+Total Tweets:29
+Good Tweets:51.724137931034484
+Neutral Tweets:34.48275862068966
+Bad Tweets:13.793103448275861
+------------------------------
+Total Tweets:30
+Good Tweets:53.333333333333336
+Neutral Tweets:33.33333333333333
+Bad Tweets:13.333333333333334
+------------------------------
+Total Tweets:31
+Good Tweets:54.83870967741935
+Neutral Tweets:32.25806451612903
+Bad Tweets:12.903225806451612
+------------------------------
+Total Tweets:32
+Good Tweets:53.125
+Neutral Tweets:34.375
+Bad Tweets:12.5
+------------------------------
+Total Tweets:33
+Good Tweets:51.515151515151516
+Neutral Tweets:36.36363636363637
+Bad Tweets:12.121212121212121
+------------------------------
+Total Tweets:34
+Good Tweets:50.0
+Neutral Tweets:38.23529411764706
+Bad Tweets:11.76470588235294
+------------------------------
+Total Tweets:35
+Good Tweets:48.57142857142857
+Neutral Tweets:37.142857142857146
+Bad Tweets:14.285714285714285
+------------------------------
+Total Tweets:36
+Good Tweets:50.0
+Neutral Tweets:36.11111111111111
+Bad Tweets:13.88888888888889
+------------------------------
+Total Tweets:37
+Good Tweets:51.35135135135135
+Neutral Tweets:35.13513513513514
+Bad Tweets:13.513513513513514
+------------------------------
+Total Tweets:38
+Good Tweets:52.63157894736842
+Neutral Tweets:34.21052631578947
+Bad Tweets:13.157894736842104
+------------------------------
+Total Tweets:39
+Good Tweets:51.28205128205128
+Neutral Tweets:33.33333333333333
+Bad Tweets:15.384615384615385
+------------------------------
+Total Tweets:40
+Good Tweets:50.0
+Neutral Tweets:35.0
+Bad Tweets:15.0
+------------------------------
+Total Tweets:41
+Good Tweets:51.21951219512195
+Neutral Tweets:34.146341463414636
+Bad Tweets:14.634146341463413
+------------------------------
+Total Tweets:42
+Good Tweets:50.0
+Neutral Tweets:35.714285714285715
+Bad Tweets:14.285714285714285
+------------------------------
+Total Tweets:43
+Good Tweets:51.162790697674424
+Neutral Tweets:34.883720930232556
+Bad Tweets:13.953488372093023
+------------------------------
+Total Tweets:44
+Good Tweets:50.0
+Neutral Tweets:36.36363636363637
+Bad Tweets:13.636363636363635
+------------------------------
+Total Tweets:45
+Good Tweets:48.888888888888886
+Neutral Tweets:37.77777777777778
+Bad Tweets:13.333333333333334
+------------------------------
+Total Tweets:46
+Good Tweets:47.82608695652174
+Neutral Tweets:36.95652173913043
+Bad Tweets:15.217391304347828
+------------------------------
+Total Tweets:47
+Good Tweets:46.808510638297875
+Neutral Tweets:36.17021276595745
+Bad Tweets:17.02127659574468
+------------------------------
+Total Tweets:48
+Good Tweets:45.83333333333333
+Neutral Tweets:37.5
+Bad Tweets:16.666666666666664
+------------------------------
+Total Tweets:49
+Good Tweets:44.89795918367347
+Neutral Tweets:38.775510204081634
+Bad Tweets:16.3265306122449
+------------------------------
+Total Tweets:50
+Good Tweets:44.0
+Neutral Tweets:40.0
+Bad Tweets:16.0
+------------------------------
+Total Tweets:51
+Good Tweets:43.13725490196079
+Neutral Tweets:41.17647058823529
+Bad Tweets:15.686274509803921
+------------------------------
+Total Tweets:52
+Good Tweets:42.30769230769231
+Neutral Tweets:42.30769230769231
+Bad Tweets:15.384615384615385
+------------------------------
+Total Tweets:53
+Good Tweets:43.39622641509434
+Neutral Tweets:41.509433962264154
+Bad Tweets:15.09433962264151
+------------------------------
+Total Tweets:54
+Good Tweets:42.592592592592595
+Neutral Tweets:42.592592592592595
+Bad Tweets:14.814814814814813
+------------------------------
+Total Tweets:55
+Good Tweets:41.81818181818181
+Neutral Tweets:41.81818181818181
+Bad Tweets:16.363636363636363
+------------------------------
+Total Tweets:56
+Good Tweets:41.07142857142857
+Neutral Tweets:41.07142857142857
+Bad Tweets:17.857142857142858
+------------------------------
+Total Tweets:57
+Good Tweets:40.35087719298245
+Neutral Tweets:42.10526315789473
+Bad Tweets:17.543859649122805
+------------------------------
+Total Tweets:58
+Good Tweets:39.6551724137931
+Neutral Tweets:41.37931034482759
+Bad Tweets:18.96551724137931
+------------------------------
+Total Tweets:59
+Good Tweets:38.983050847457626
+Neutral Tweets:42.3728813559322
+Bad Tweets:18.64406779661017
+------------------------------
+Total Tweets:60
+Good Tweets:38.333333333333336
+Neutral Tweets:43.333333333333336
+Bad Tweets:18.333333333333332
+------------------------------
+Total Tweets:61
+Good Tweets:37.704918032786885
+Neutral Tweets:42.62295081967213
+Bad Tweets:19.672131147540984
+------------------------------
+Total Tweets:62
+Good Tweets:38.70967741935484
+Neutral Tweets:41.935483870967744
+Bad Tweets:19.35483870967742
+------------------------------
+Total Tweets:63
+Good Tweets:38.095238095238095
+Neutral Tweets:41.269841269841265
+Bad Tweets:20.634920634920633
+------------------------------
+Total Tweets:64
+Good Tweets:37.5
+Neutral Tweets:40.625
+Bad Tweets:21.875
+------------------------------
+Total Tweets:65
+Good Tweets:36.92307692307693
+Neutral Tweets:41.53846153846154
+Bad Tweets:21.53846153846154
+------------------------------
+Total Tweets:66
+Good Tweets:36.36363636363637
+Neutral Tweets:42.42424242424242
+Bad Tweets:21.21212121212121
+------------------------------
+Total Tweets:67
+Good Tweets:37.3134328358209
+Neutral Tweets:41.7910447761194
+Bad Tweets:20.8955223880597
+------------------------------
+Total Tweets:68
+Good Tweets:36.76470588235294
+Neutral Tweets:42.64705882352941
+Bad Tweets:20.588235294117645
+------------------------------
+Total Tweets:69
+Good Tweets:37.68115942028986
+Neutral Tweets:42.028985507246375
+Bad Tweets:20.28985507246377
+------------------------------
+Total Tweets:70
+Good Tweets:37.142857142857146
+Neutral Tweets:42.857142857142854
+Bad Tweets:20.0
+------------------------------
+Total Tweets:71
+Good Tweets:38.028169014084504
+Neutral Tweets:42.25352112676056
+Bad Tweets:19.718309859154928
+------------------------------
+Total Tweets:72
+Good Tweets:37.5
+Neutral Tweets:41.66666666666667
+Bad Tweets:20.833333333333336
+------------------------------
+Total Tweets:73
+Good Tweets:36.986301369863014
+Neutral Tweets:42.465753424657535
+Bad Tweets:20.54794520547945
+------------------------------
+Total Tweets:74
+Good Tweets:37.83783783783784
+Neutral Tweets:41.891891891891895
+Bad Tweets:20.27027027027027
+------------------------------
+Total Tweets:75
+Good Tweets:37.333333333333336
+Neutral Tweets:41.333333333333336
+Bad Tweets:21.333333333333336
+------------------------------
+Total Tweets:76
+Good Tweets:36.84210526315789
+Neutral Tweets:42.10526315789473
+Bad Tweets:21.052631578947366
+------------------------------
+Total Tweets:77
+Good Tweets:37.66233766233766
+Neutral Tweets:41.55844155844156
+Bad Tweets:20.77922077922078
+------------------------------
+Total Tweets:78
+Good Tweets:37.17948717948718
+Neutral Tweets:42.30769230769231
+Bad Tweets:20.51282051282051
+------------------------------
+Total Tweets:79
+Good Tweets:36.708860759493675
+Neutral Tweets:43.037974683544306
+Bad Tweets:20.253164556962027
+------------------------------
+Total Tweets:80
+Good Tweets:37.5
+Neutral Tweets:42.5
+Bad Tweets:20.0
+------------------------------
+Total Tweets:81
+Good Tweets:37.03703703703704
+Neutral Tweets:43.20987654320987
+Bad Tweets:19.753086419753085
+------------------------------
+Total Tweets:82
+Good Tweets:36.58536585365854
+Neutral Tweets:42.68292682926829
+Bad Tweets:20.73170731707317
+------------------------------
+Total Tweets:83
+Good Tweets:36.144578313253014
+Neutral Tweets:42.168674698795186
+Bad Tweets:21.686746987951807
+------------------------------
+Total Tweets:84
+Good Tweets:35.714285714285715
+Neutral Tweets:41.66666666666667
+Bad Tweets:22.61904761904762
+------------------------------
+Total Tweets:85
+Good Tweets:36.470588235294116
+Neutral Tweets:41.17647058823529
+Bad Tweets:22.35294117647059
+------------------------------
+Total Tweets:86
+Good Tweets:36.04651162790697
+Neutral Tweets:40.69767441860465
+Bad Tweets:23.25581395348837
+------------------------------
+Total Tweets:87
+Good Tweets:36.7816091954023
+Neutral Tweets:40.229885057471265
+Bad Tweets:22.988505747126435
+------------------------------
+Total Tweets:88
+Good Tweets:37.5
+Neutral Tweets:39.77272727272727
+Bad Tweets:22.727272727272727
+------------------------------
+Total Tweets:89
+Good Tweets:37.07865168539326
+Neutral Tweets:40.44943820224719
+Bad Tweets:22.47191011235955
+------------------------------
+Total Tweets:90
+Good Tweets:37.77777777777778
+Neutral Tweets:40.0
+Bad Tweets:22.22222222222222
+------------------------------
+Total Tweets:91
+Good Tweets:38.46153846153847
+Neutral Tweets:39.56043956043956
+Bad Tweets:21.978021978021978
+------------------------------
+Total Tweets:92
+Good Tweets:38.04347826086957
+Neutral Tweets:40.21739130434783
+Bad Tweets:21.73913043478261
+------------------------------
+Total Tweets:93
+Good Tweets:37.634408602150536
+Neutral Tweets:39.784946236559136
+Bad Tweets:22.58064516129032
+------------------------------
+Total Tweets:94
+Good Tweets:37.234042553191486
+Neutral Tweets:40.42553191489361
+Bad Tweets:22.340425531914892
+------------------------------
+Total Tweets:95
+Good Tweets:36.84210526315789
+Neutral Tweets:40.0
+Bad Tweets:23.157894736842106
+------------------------------
+Total Tweets:96
+Good Tweets:37.5
+Neutral Tweets:39.58333333333333
+Bad Tweets:22.916666666666664
+------------------------------
+Total Tweets:97
+Good Tweets:37.11340206185567
+Neutral Tweets:39.175257731958766
+Bad Tweets:23.711340206185564
+------------------------------
+Total Tweets:98
+Good Tweets:36.734693877551024
+Neutral Tweets:38.775510204081634
+Bad Tweets:24.489795918367346
+------------------------------
+Total Tweets:99
+Good Tweets:37.37373737373738
+Neutral Tweets:38.38383838383838
+Bad Tweets:24.242424242424242
+------------------------------
+Total Tweets:100
+Good Tweets:37.0
+Neutral Tweets:39.0
+Bad Tweets:24.0
+------------------------------
+Total Tweets:101
+Good Tweets:37.62376237623762
+Neutral Tweets:38.613861386138616
+Bad Tweets:23.762376237623762
+------------------------------
+Total Tweets:102
+Good Tweets:37.254901960784316
+Neutral Tweets:38.23529411764706
+Bad Tweets:24.509803921568626
+------------------------------
+Total Tweets:103
+Good Tweets:36.89320388349515
+Neutral Tweets:38.83495145631068
+Bad Tweets:24.271844660194176
+------------------------------
+Total Tweets:104
+Good Tweets:36.53846153846153
+Neutral Tweets:39.42307692307692
+Bad Tweets:24.03846153846154
+------------------------------
+Total Tweets:105
+Good Tweets:37.142857142857146
+Neutral Tweets:39.04761904761905
+Bad Tweets:23.809523809523807
+------------------------------
+Total Tweets:106
+Good Tweets:36.79245283018868
+Neutral Tweets:38.67924528301887
+Bad Tweets:24.528301886792452
+------------------------------
+Total Tweets:107
+Good Tweets:37.38317757009346
+Neutral Tweets:38.31775700934579
+Bad Tweets:24.299065420560748
+------------------------------
+Total Tweets:108
+Good Tweets:37.03703703703704
+Neutral Tweets:38.88888888888889
+Bad Tweets:24.074074074074073
+------------------------------
+Total Tweets:109
+Good Tweets:36.69724770642202
+Neutral Tweets:39.44954128440367
+Bad Tweets:23.853211009174313
+------------------------------
+Total Tweets:110
+Good Tweets:36.36363636363637
+Neutral Tweets:39.09090909090909
+Bad Tweets:24.545454545454547
+------------------------------
+Total Tweets:111
+Good Tweets:36.03603603603604
+Neutral Tweets:39.63963963963964
+Bad Tweets:24.324324324324326
+------------------------------
+Total Tweets:112
+Good Tweets:36.607142857142854
+Neutral Tweets:39.285714285714285
+Bad Tweets:24.107142857142858
+------------------------------
+Total Tweets:113
+Good Tweets:37.16814159292036
+Neutral Tweets:38.93805309734513
+Bad Tweets:23.893805309734514
+------------------------------
+Total Tweets:114
+Good Tweets:36.84210526315789
+Neutral Tweets:38.59649122807017
+Bad Tweets:24.561403508771928
+------------------------------
+Total Tweets:115
+Good Tweets:36.52173913043478
+Neutral Tweets:39.130434782608695
+Bad Tweets:24.347826086956523
+------------------------------
+Total Tweets:116
+Good Tweets:37.06896551724138
+Neutral Tweets:38.793103448275865
+Bad Tweets:24.137931034482758
+------------------------------
+Total Tweets:117
+Good Tweets:36.75213675213676
+Neutral Tweets:39.31623931623932
+Bad Tweets:23.931623931623932
+------------------------------
+Total Tweets:118
+Good Tweets:37.28813559322034
+Neutral Tweets:38.983050847457626
+Bad Tweets:23.728813559322035
+------------------------------
+Total Tweets:119
+Good Tweets:36.97478991596639
+Neutral Tweets:39.49579831932773
+Bad Tweets:23.52941176470588
+------------------------------
+Total Tweets:120
+Good Tweets:36.666666666666664
+Neutral Tweets:39.166666666666664
+Bad Tweets:24.166666666666668
+------------------------------
+Total Tweets:121
+Good Tweets:36.36363636363637
+Neutral Tweets:39.66942148760331
+Bad Tweets:23.96694214876033
+------------------------------
+Total Tweets:122
+Good Tweets:36.885245901639344
+Neutral Tweets:39.34426229508197
+Bad Tweets:23.770491803278688
+------------------------------
+Total Tweets:123
+Good Tweets:36.58536585365854
+Neutral Tweets:39.83739837398374
+Bad Tweets:23.577235772357724
+------------------------------
+Total Tweets:124
+Good Tweets:37.096774193548384
+Neutral Tweets:39.516129032258064
+Bad Tweets:23.387096774193548
+------------------------------
+Total Tweets:125
+Good Tweets:36.8
+Neutral Tweets:39.2
+Bad Tweets:24.0
+------------------------------
+Total Tweets:126
+Good Tweets:36.507936507936506
+Neutral Tweets:39.682539682539684
+Bad Tweets:23.809523809523807
+------------------------------
+Total Tweets:127
+Good Tweets:36.22047244094488
+Neutral Tweets:39.37007874015748
+Bad Tweets:24.409448818897637
+------------------------------
+Total Tweets:128
+Good Tweets:35.9375
+Neutral Tweets:39.84375
+Bad Tweets:24.21875
+------------------------------
+Total Tweets:129
+Good Tweets:36.434108527131784
+Neutral Tweets:39.53488372093023
+Bad Tweets:24.031007751937985
+------------------------------
+Total Tweets:130
+Good Tweets:36.15384615384615
+Neutral Tweets:40.0
+Bad Tweets:23.846153846153847
+------------------------------
+Total Tweets:131
+Good Tweets:36.6412213740458
+Neutral Tweets:39.69465648854962
+Bad Tweets:23.66412213740458
+------------------------------
+Total Tweets:132
+Good Tweets:37.121212121212125
+Neutral Tweets:39.39393939393939
+Bad Tweets:23.484848484848484
+------------------------------
+Total Tweets:133
+Good Tweets:36.84210526315789
+Neutral Tweets:39.849624060150376
+Bad Tweets:23.308270676691727
+------------------------------
+Total Tweets:134
+Good Tweets:36.56716417910448
+Neutral Tweets:40.298507462686565
+Bad Tweets:23.134328358208954
+------------------------------
+Total Tweets:135
+Good Tweets:36.2962962962963
+Neutral Tweets:40.0
+Bad Tweets:23.703703703703706
+------------------------------
+Total Tweets:136
+Good Tweets:36.76470588235294
+Neutral Tweets:39.705882352941174
+Bad Tweets:23.52941176470588
+------------------------------
+Total Tweets:137
+Good Tweets:37.22627737226277
+Neutral Tweets:39.416058394160586
+Bad Tweets:23.357664233576642
+------------------------------
+Total Tweets:138
+Good Tweets:37.68115942028986
+Neutral Tweets:39.130434782608695
+Bad Tweets:23.18840579710145
+------------------------------
+Total Tweets:139
+Good Tweets:38.1294964028777
+Neutral Tweets:38.84892086330935
+Bad Tweets:23.021582733812952
+------------------------------
+Total Tweets:140
+Good Tweets:37.857142857142854
+Neutral Tweets:39.285714285714285
+Bad Tweets:22.857142857142858
+------------------------------
+Total Tweets:141
+Good Tweets:37.5886524822695
+Neutral Tweets:39.71631205673759
+Bad Tweets:22.69503546099291
+------------------------------
+Total Tweets:142
+Good Tweets:37.32394366197183
+Neutral Tweets:40.140845070422536
+Bad Tweets:22.535211267605636
+------------------------------
+Total Tweets:143
+Good Tweets:37.06293706293706
+Neutral Tweets:40.55944055944056
+Bad Tweets:22.377622377622377
+------------------------------
+Total Tweets:144
+Good Tweets:37.5
+Neutral Tweets:40.27777777777778
+Bad Tweets:22.22222222222222
+------------------------------
+Total Tweets:145
+Good Tweets:37.24137931034483
+Neutral Tweets:40.689655172413794
+Bad Tweets:22.06896551724138
+------------------------------
+Total Tweets:146
+Good Tweets:36.986301369863014
+Neutral Tweets:40.41095890410959
+Bad Tweets:22.602739726027394
+------------------------------
+Total Tweets:147
+Good Tweets:37.41496598639456
+Neutral Tweets:40.136054421768705
+Bad Tweets:22.448979591836736
+------------------------------
+Total Tweets:148
+Good Tweets:37.83783783783784
+Neutral Tweets:39.86486486486486
+Bad Tweets:22.2972972972973
+------------------------------
+Total Tweets:149
+Good Tweets:38.25503355704698
+Neutral Tweets:39.59731543624161
+Bad Tweets:22.14765100671141
+------------------------------
+Total Tweets:150
+Good Tweets:38.666666666666664
+Neutral Tweets:39.33333333333333
+Bad Tweets:22.0
+------------------------------
+Total Tweets:151
+Good Tweets:38.41059602649007
+Neutral Tweets:39.735099337748345
+Bad Tweets:21.85430463576159
+------------------------------
+Total Tweets:152
+Good Tweets:38.81578947368421
+Neutral Tweets:39.473684210526315
+Bad Tweets:21.710526315789476
+------------------------------
+Total Tweets:153
+Good Tweets:38.56209150326798
+Neutral Tweets:39.869281045751634
+Bad Tweets:21.568627450980394
+------------------------------
+Total Tweets:154
+Good Tweets:38.961038961038966
+Neutral Tweets:39.61038961038961
+Bad Tweets:21.428571428571427
+------------------------------
+Total Tweets:155
+Good Tweets:38.70967741935484
+Neutral Tweets:40.0
+Bad Tweets:21.29032258064516
+------------------------------
+Total Tweets:156
+Good Tweets:38.46153846153847
+Neutral Tweets:40.38461538461539
+Bad Tweets:21.153846153846153
+------------------------------
+Total Tweets:157
+Good Tweets:38.853503184713375
+Neutral Tweets:40.12738853503185
+Bad Tweets:21.019108280254777
+------------------------------
+Total Tweets:158
+Good Tweets:39.24050632911392
+Neutral Tweets:39.87341772151899
+Bad Tweets:20.88607594936709
+------------------------------
+Total Tweets:159
+Good Tweets:38.9937106918239
+Neutral Tweets:40.25157232704403
+Bad Tweets:20.754716981132077
+------------------------------
+Total Tweets:160
+Good Tweets:39.375
+Neutral Tweets:40.0
+Bad Tweets:20.625
+------------------------------
+Total Tweets:161
+Good Tweets:39.130434782608695
+Neutral Tweets:40.37267080745342
+Bad Tweets:20.496894409937887
+------------------------------
+Total Tweets:162
+Good Tweets:38.88888888888889
+Neutral Tweets:40.74074074074074
+Bad Tweets:20.37037037037037
+------------------------------
+Total Tweets:163
+Good Tweets:38.65030674846626
+Neutral Tweets:41.104294478527606
+Bad Tweets:20.245398773006134
+------------------------------
+Total Tweets:164
+Good Tweets:38.41463414634146
+Neutral Tweets:41.46341463414634
+Bad Tweets:20.121951219512198
+------------------------------
+Total Tweets:165
+Good Tweets:38.18181818181819
+Neutral Tweets:41.81818181818181
+Bad Tweets:20.0
+------------------------------
+Total Tweets:166
+Good Tweets:37.95180722891566
+Neutral Tweets:42.168674698795186
+Bad Tweets:19.879518072289155
+------------------------------
+Total Tweets:167
+Good Tweets:37.72455089820359
+Neutral Tweets:42.51497005988024
+Bad Tweets:19.760479041916167
+------------------------------
+Total Tweets:168
+Good Tweets:37.5
+Neutral Tweets:42.26190476190476
+Bad Tweets:20.238095238095237
+------------------------------
+Total Tweets:169
+Good Tweets:37.278106508875744
+Neutral Tweets:42.60355029585799
+Bad Tweets:20.118343195266274
+------------------------------
+Total Tweets:170
+Good Tweets:37.64705882352941
+Neutral Tweets:42.35294117647059
+Bad Tweets:20.0
+------------------------------
+Total Tweets:171
+Good Tweets:37.42690058479532
+Neutral Tweets:42.69005847953216
+Bad Tweets:19.883040935672515
+------------------------------
+Total Tweets:172
+Good Tweets:37.2093023255814
+Neutral Tweets:43.02325581395349
+Bad Tweets:19.767441860465116
+------------------------------
+Total Tweets:173
+Good Tweets:37.57225433526011
+Neutral Tweets:42.77456647398844
+Bad Tweets:19.653179190751445
+------------------------------
+Total Tweets:174
+Good Tweets:37.35632183908046
+Neutral Tweets:42.5287356321839
+Bad Tweets:20.114942528735632
+------------------------------
+Total Tweets:175
+Good Tweets:37.142857142857146
+Neutral Tweets:42.857142857142854
+Bad Tweets:20.0
+------------------------------
+Total Tweets:176
+Good Tweets:37.5
+Neutral Tweets:42.61363636363637
+Bad Tweets:19.886363636363637
+------------------------------
+Total Tweets:177
+Good Tweets:37.28813559322034
+Neutral Tweets:42.93785310734463
+Bad Tweets:19.774011299435028
+------------------------------
+Total Tweets:178
+Good Tweets:37.07865168539326
+Neutral Tweets:43.258426966292134
+Bad Tweets:19.662921348314608
+------------------------------
+Total Tweets:179
+Good Tweets:37.43016759776536
+Neutral Tweets:43.01675977653631
+Bad Tweets:19.553072625698324
+------------------------------
+Total Tweets:180
+Good Tweets:37.77777777777778
+Neutral Tweets:42.77777777777778
+Bad Tweets:19.444444444444446
+------------------------------
+Total Tweets:181
+Good Tweets:38.12154696132597
+Neutral Tweets:42.5414364640884
+Bad Tweets:19.337016574585636
+------------------------------
+Total Tweets:182
+Good Tweets:37.91208791208791
+Neutral Tweets:42.857142857142854
+Bad Tweets:19.230769230769234
+------------------------------
+Total Tweets:183
+Good Tweets:38.25136612021858
+Neutral Tweets:42.62295081967213
+Bad Tweets:19.12568306010929
+------------------------------
+Total Tweets:184
+Good Tweets:38.04347826086957
+Neutral Tweets:42.934782608695656
+Bad Tweets:19.021739130434785
+------------------------------
+Total Tweets:185
+Good Tweets:37.83783783783784
+Neutral Tweets:43.24324324324324
+Bad Tweets:18.91891891891892
+------------------------------
+Total Tweets:186
+Good Tweets:38.17204301075269
+Neutral Tweets:43.01075268817204
+Bad Tweets:18.817204301075268
+------------------------------
+Total Tweets:187
+Good Tweets:37.967914438502675
+Neutral Tweets:43.31550802139038
+Bad Tweets:18.71657754010695
+------------------------------
+Total Tweets:188
+Good Tweets:37.765957446808514
+Neutral Tweets:43.61702127659575
+Bad Tweets:18.617021276595743
+------------------------------
+Total Tweets:189
+Good Tweets:37.56613756613756
+Neutral Tweets:43.91534391534391
+Bad Tweets:18.51851851851852
+------------------------------
+Total Tweets:190
+Good Tweets:37.89473684210527
+Neutral Tweets:43.684210526315795
+Bad Tweets:18.421052631578945
+------------------------------
+Total Tweets:191
+Good Tweets:37.696335078534034
+Neutral Tweets:43.97905759162304
+Bad Tweets:18.32460732984293
+------------------------------
+Total Tweets:192
+Good Tweets:37.5
+Neutral Tweets:44.27083333333333
+Bad Tweets:18.229166666666664
+------------------------------
+Total Tweets:193
+Good Tweets:37.30569948186528
+Neutral Tweets:44.559585492227974
+Bad Tweets:18.134715025906736
+------------------------------
+Total Tweets:194
+Good Tweets:37.11340206185567
+Neutral Tweets:44.84536082474227
+Bad Tweets:18.04123711340206
+------------------------------
+Total Tweets:195
+Good Tweets:36.92307692307693
+Neutral Tweets:45.12820512820513
+Bad Tweets:17.94871794871795
+------------------------------
+Total Tweets:196
+Good Tweets:36.734693877551024
+Neutral Tweets:45.40816326530612
+Bad Tweets:17.857142857142858
+------------------------------
+Total Tweets:197
+Good Tweets:37.055837563451774
+Neutral Tweets:45.17766497461929
+Bad Tweets:17.766497461928935
+------------------------------
+Total Tweets:198
+Good Tweets:36.868686868686865
+Neutral Tweets:45.45454545454545
+Bad Tweets:17.67676767676768
+------------------------------
+Total Tweets:199
+Good Tweets:37.185929648241206
+Neutral Tweets:45.22613065326633
+Bad Tweets:17.587939698492463
+------------------------------
+Total Tweets:200
+Good Tweets:37.0
+Neutral Tweets:45.5
+Bad Tweets:17.5
+------------------------------
+Total Tweets:201
+Good Tweets:37.3134328358209
+Neutral Tweets:45.27363184079602
+Bad Tweets:17.412935323383085
+------------------------------
+Total Tweets:202
+Good Tweets:37.12871287128713
+Neutral Tweets:45.54455445544555
+Bad Tweets:17.326732673267326
+------------------------------
+Total Tweets:203
+Good Tweets:37.4384236453202
+Neutral Tweets:45.320197044334975
+Bad Tweets:17.24137931034483
+------------------------------
+Total Tweets:204
+Good Tweets:37.254901960784316
+Neutral Tweets:45.588235294117645
+Bad Tweets:17.15686274509804
+------------------------------
+Total Tweets:205
+Good Tweets:37.073170731707314
+Neutral Tweets:45.85365853658537
+Bad Tweets:17.073170731707318
+------------------------------
+Total Tweets:206
+Good Tweets:37.37864077669903
+Neutral Tweets:45.63106796116505
+Bad Tweets:16.990291262135923
+------------------------------
+Total Tweets:207
+Good Tweets:37.19806763285024
+Neutral Tweets:45.893719806763286
+Bad Tweets:16.908212560386474
+------------------------------
+Total Tweets:208
+Good Tweets:37.5
+Neutral Tweets:45.67307692307692
+Bad Tweets:16.826923076923077
+------------------------------
+Total Tweets:209
+Good Tweets:37.32057416267943
+Neutral Tweets:45.45454545454545
+Bad Tweets:17.22488038277512
+------------------------------
+Total Tweets:210
+Good Tweets:37.142857142857146
+Neutral Tweets:45.23809523809524
+Bad Tweets:17.61904761904762
